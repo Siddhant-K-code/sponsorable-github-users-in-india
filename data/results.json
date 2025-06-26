@@ -476,7 +476,11 @@
     "pinnedItems": {
       "edges": [
         {
-          "node": {}
+          "node": {
+            "name": "Face-Mask-Detection",
+            "description": "Face Mask Detection system based on computer vision and deep learning using OpenCV and Tensorflow/Keras",
+            "url": "https://github.com/chandrikadeb7/Face-Mask-Detection"
+          }
         }
       ]
     }
@@ -5079,7 +5083,11 @@
     "pinnedItems": {
       "edges": [
         {
-          "node": {}
+          "node": {
+            "name": "Flip-Matcher",
+            "description": "A classic card matching animated game in Flutter.",
+            "url": "https://github.com/jddeep/Flip-Matcher"
+          }
         }
       ]
     }
@@ -5656,7 +5664,11 @@
     "pinnedItems": {
       "edges": [
         {
-          "node": {}
+          "node": {
+            "name": "kro",
+            "description": "kro | Kube Resource Orchestrator",
+            "url": "https://github.com/kro-run/kro"
+          }
         }
       ]
     }
@@ -6410,7 +6422,11 @@
     "pinnedItems": {
       "edges": [
         {
-          "node": {}
+          "node": {
+            "name": "React-MQTT",
+            "description": null,
+            "url": "https://github.com/raghavdhingra/React-MQTT"
+          }
         }
       ]
     }
@@ -6492,6 +6508,25 @@
     }
   },
   {
+    "login": "rishitashaw",
+    "name": "Rishita Shaw",
+    "url": "https://github.com/rishitashaw",
+    "location": "Pune, India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/75828535?u=a479c6247d7c57b5b70d3eaa5c02c0b907755c88&v=4",
+    "bio": "Forbes India - Unstop Awards'23 (Rank 1 Women & 5 Overall E-School). MS Imagine Cup'22 Runner-up & ION<athon> Top 10 & Azure Women Hackathon & Jumpstart'22 Finl",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "Athena-Medical-Record",
+            "description": null,
+            "url": "https://github.com/rishitashaw/Athena-Medical-Record"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "ChiragAgg5k",
     "name": "Chirag Aggarwal",
     "url": "https://github.com/ChiragAgg5k",
@@ -6543,25 +6578,6 @@
             "name": "Certify",
             "description": "A full stack FAN stacked application with micro service to generate certificate through template.",
             "url": "https://github.com/AkkilMG/Certify"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "rishitashaw",
-    "name": "Rishita Shaw",
-    "url": "https://github.com/rishitashaw",
-    "location": "Pune, India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/75828535?u=a479c6247d7c57b5b70d3eaa5c02c0b907755c88&v=4",
-    "bio": "Forbes India - Unstop Awards'23 (Rank 1 Women & 5 Overall E-School). MS Imagine Cup'22 Runner-up & ION<athon> Top 10 & Azure Women Hackathon & Jumpstart'22 Finl",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "Athena-Medical-Record",
-            "description": null,
-            "url": "https://github.com/rishitashaw/Athena-Medical-Record"
           }
         }
       ]
@@ -6911,7 +6927,11 @@
     "pinnedItems": {
       "edges": [
         {
-          "node": {}
+          "node": {
+            "name": "wponion",
+            "description": "~ Lightweight, Flexible & Rapid WP Development Framework ~",
+            "url": "https://github.com/wponion/wponion"
+          }
         }
       ]
     }
@@ -8615,7 +8635,11 @@
     "pinnedItems": {
       "edges": [
         {
-          "node": {}
+          "node": {
+            "name": "Gist-Blog-Generator",
+            "description": "Gist-Blog Generator is a web app for crafting polished Markdown blogs, ready for GitHub Gists and similar platforms.",
+            "url": "https://github.com/XynoxTheDev/Gist-Blog-Generator"
+          }
         }
       ]
     }
@@ -10186,7 +10210,11 @@
     "pinnedItems": {
       "edges": [
         {
-          "node": {}
+          "node": {
+            "name": "Postgres-extension-tutorial",
+            "description": "An easy-to-follow tutorial with clear examples because the barrier for entry is prohibitive for new contributors",
+            "url": "https://github.com/IshaanAdarsh/Postgres-extension-tutorial"
+          }
         }
       ]
     }
@@ -12583,7 +12611,11 @@
     "pinnedItems": {
       "edges": [
         {
-          "node": {}
+          "node": {
+            "name": "ava-tuition-server-heroku",
+            "description": "AVA Group Tuition Server 👩🏻‍🎓 - Django Application 🔥",
+            "url": "https://github.com/vivek-vijayan/ava-tuition-server-heroku"
+          }
         }
       ]
     }
@@ -13008,7 +13040,11 @@
     "pinnedItems": {
       "edges": [
         {
-          "node": {}
+          "node": {
+            "name": "paypal-sdk",
+            "description": "A Paypal SDK for Paypal v1 and v2 Rest Apis",
+            "url": "https://github.com/infysumanta/paypal-sdk"
+          }
         }
       ]
     }
@@ -14115,7 +14151,11 @@
     "pinnedItems": {
       "edges": [
         {
-          "node": {}
+          "node": {
+            "name": "Voicefy",
+            "description": "Generate best audio experiences with cloud services, build using best in market could service providers (in-development)",
+            "url": "https://github.com/Abusayid693/Voicefy"
+          }
         }
       ]
     }
@@ -15434,7 +15474,11 @@
     "pinnedItems": {
       "edges": [
         {
-          "node": {}
+          "node": {
+            "name": "Auto-Poster",
+            "description": "A Desktop App Developed with Python to post your Updates/Tweets to Social Media from one Platform ( directly from your Laptop even without opening a Browser ).",
+            "url": "https://github.com/justaman045/Auto-Poster"
+          }
         }
       ]
     }
@@ -16470,7 +16514,11 @@
     "pinnedItems": {
       "edges": [
         {
-          "node": {}
+          "node": {
+            "name": "Dataverse",
+            "description": "A versatile Open-Source Software (OSS) that allows organizing, analyzing and visualizing data, leveraging ML algorithms for predictive analysis. Supporting all data visualisation techniques on one platform, accessible on both desktop and mobile.",
+            "url": "https://github.com/multiverseweb/Dataverse"
+          }
         }
       ]
     }
@@ -17727,7 +17775,11 @@
     "pinnedItems": {
       "edges": [
         {
-          "node": {}
+          "node": {
+            "name": "GamesWiki",
+            "description": "A Steam Deck plugin that provides quick access to multiple game wiki sources for your installed games. Simply select your preferred wiki site and get instant access to game information, guides, and reviews.",
+            "url": "https://github.com/KrishGaur1354/GamesWiki"
+          }
         }
       ]
     }

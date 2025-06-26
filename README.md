@@ -237,7 +237,7 @@ This repository is a list of GitHub users who are living in India and are sponso
 | [@chandrikadeb7](https://github.com/chandrikadeb7) | [❤️Sponsor](https://github.com/sponsors/chandrikadeb7) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/29686102?u=353b4f196bcd86ad2670c809d53716af3665f8a4&v=4" alt="" width="40" /> | Software Engineer at Amdocs ｜ Content Freelancer ｜ Innovation Agent ｜ Learning Golang! |
-| <!-- no item --> | <!-- no description --> |
+| [Face-Mask-Detection](https://github.com/chandrikadeb7/Face-Mask-Detection) | Face Mask Detection system based on computer vision and deep learning using OpenCV and Tensorflow\/Keras |
 
     
 
@@ -2514,7 +2514,7 @@ This repository is a list of GitHub users who are living in India and are sponso
 | [@jddeep](https://github.com/jddeep) | [❤️Sponsor](https://github.com/sponsors/jddeep) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/43133646?u=fdf68da23c3a153d67cbc43add0cf66b09b62c06&v=4" alt="" width="40" /> | Product Builder ｜ Problem Solver ｜ Android ｜ Flutter ｜ Java ｜ GSoC'20 & 19 👨🏻‍💻 ｜ GCI-19 Mentor @tensorflow, @openMF ▶️ ｜ Open source ❤️ ｜ GSoC Admin  |
-| <!-- no item --> | <!-- no description --> |
+| [Flip-Matcher](https://github.com/jddeep/Flip-Matcher) | A classic card matching animated game in Flutter. |
 
     
 
@@ -2793,7 +2793,7 @@ This repository is a list of GitHub users who are living in India and are sponso
 | [@DhairyaMajmudar](https://github.com/DhairyaMajmudar) | [❤️Sponsor](https://github.com/sponsors/DhairyaMajmudar) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/124715224?u=cb64f8d7df6e1f8724e9e41f000ec84d552340a5&v=4" alt="" width="40" /> | GSoC'25 @kro-run ｜ LFX'25 @headlamp-k8s ｜ Maintainer & GSoD'24 @json-schema-org ｜ SoK'24 @KDE ｜ Member @superteamdao ｜ IIIT Kota'26 |
-| <!-- no item --> | <!-- no description --> |
+| [kro](https://github.com/kro-run/kro) | kro ｜ Kube Resource Orchestrator |
 
     
 
@@ -3171,7 +3171,7 @@ This repository is a list of GitHub users who are living in India and are sponso
 | [@raghavdhingra](https://github.com/raghavdhingra) | [❤️Sponsor](https://github.com/sponsors/raghavdhingra) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/24492201?u=4839e3f2bc37d2c3397c2d9e6c01c7826b37591a&v=4" alt="" width="40" /> | Open-Source Contributor Web Technology and IoT Enthusiast |
-| <!-- no item --> | <!-- no description --> |
+| [React-MQTT](https://github.com/raghavdhingra/React-MQTT) | <!-- no description --> |
 
     
 
@@ -3211,6 +3211,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
+## [Rishita Shaw](https://github.com/rishitashaw)
+
+| [@rishitashaw](https://github.com/rishitashaw) | [❤️Sponsor](https://github.com/sponsors/rishitashaw) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/75828535?u=a479c6247d7c57b5b70d3eaa5c02c0b907755c88&v=4" alt="" width="40" /> | Forbes India - Unstop Awards'23 \(Rank 1 Women & 5 Overall E-School\). MS Imagine Cup'22 Runner-up & ION&lt;athon&gt; Top 10 & Azure Women Hackathon & Jumpstart'22 Finl |
+| [Athena-Medical-Record](https://github.com/rishitashaw/Athena-Medical-Record) | <!-- no description --> |
+
+    
+
 ## [Chirag Aggarwal](https://github.com/ChiragAgg5k)
 
 | [@ChiragAgg5k](https://github.com/ChiragAgg5k) | [❤️Sponsor](https://github.com/sponsors/ChiragAgg5k) |
@@ -3235,15 +3244,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/78695802?u=a8e7a5359ed29ec1a6daaf2cfad813240a4d8275&v=4" alt="" width="40" /> | Building @AvianInTek ｜ Developer ｜ Head of Community @ISDC-Official ｜ Postman Student Expert ｜ |
 | [Certify](https://github.com/AkkilMG/Certify) | A full stack FAN stacked application with micro service to generate certificate through template. |
-
-    
-
-## [Rishita Shaw](https://github.com/rishitashaw)
-
-| [@rishitashaw](https://github.com/rishitashaw) | [❤️Sponsor](https://github.com/sponsors/rishitashaw) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/75828535?u=a479c6247d7c57b5b70d3eaa5c02c0b907755c88&v=4" alt="" width="40" /> | Forbes India - Unstop Awards'23 \(Rank 1 Women & 5 Overall E-School\). MS Imagine Cup'22 Runner-up & ION&lt;athon&gt; Top 10 & Azure Women Hackathon & Jumpstart'22 Finl |
-| [Athena-Medical-Record](https://github.com/rishitashaw/Athena-Medical-Record) | <!-- no description --> |
 
     
 
@@ -3414,7 +3414,7 @@ This repository is a list of GitHub users who are living in India and are sponso
 | [@varunsridharan](https://github.com/varunsridharan) | [❤️Sponsor](https://github.com/sponsors/varunsridharan) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/1884287?u=27b37222b43911e8ad81747c9e8f1914bd877dc4&v=4" alt="" width="40" /> | ❤️ Open Source ❯ Practical 🤔 made me 💪 ❯   ❝ Your Most Unhappy Customer Are Your Greatest Source Of Learning ❞ -- ⚡️ Bill Gates |
-| <!-- no item --> | <!-- no description --> |
+| [wponion](https://github.com/wponion/wponion) | ~ Lightweight, Flexible & Rapid WP Development Framework ~ |
 
     
 
@@ -4242,7 +4242,7 @@ This repository is a list of GitHub users who are living in India and are sponso
 | [@XynoxTheDev](https://github.com/XynoxTheDev) | [❤️Sponsor](https://github.com/sponsors/XynoxTheDev) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/51535331?u=c0f1a5b7d5de4fb3f7352a57fa48f477b8a46c0f&v=4" alt="" width="40" /> | Fullstack Dev ｜ Open to Projects & Collabs 🚀  |
-| <!-- no item --> | <!-- no description --> |
+| [Gist-Blog-Generator](https://github.com/XynoxTheDev/Gist-Blog-Generator) | Gist-Blog Generator is a web app for crafting polished Markdown blogs, ready for GitHub Gists and similar platforms. |
 
     
 
@@ -5007,7 +5007,7 @@ This repository is a list of GitHub users who are living in India and are sponso
 | [@IshaanAdarsh](https://github.com/IshaanAdarsh) | [❤️Sponsor](https://github.com/sponsors/IshaanAdarsh) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/100434702?v=4" alt="" width="40" /> | GSoC'23 @postgres  |
-| <!-- no item --> | <!-- no description --> |
+| [Postgres-extension-tutorial](https://github.com/IshaanAdarsh/Postgres-extension-tutorial) | An easy-to-follow tutorial with clear examples because the barrier for entry is prohibitive for new contributors |
 
     
 
@@ -6186,7 +6186,7 @@ This repository is a list of GitHub users who are living in India and are sponso
 | [@vivek-vijayan](https://github.com/vivek-vijayan) | [❤️Sponsor](https://github.com/sponsors/vivek-vijayan) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/53655378?u=b788a097293fb3ede4c9d687ebbf1dff79b6e218&v=4" alt="" width="40" /> | Certified Python Developer - SME ｜ DSA ｜ Open Source Enthusiast ｜ Versatile Programmer ｜ Mentor @codementor.io  |
-| <!-- no item --> | <!-- no description --> |
+| [ava-tuition-server-heroku](https://github.com/vivek-vijayan/ava-tuition-server-heroku) | AVA Group Tuition Server 👩🏻‍🎓 - Django Application 🔥 |
 
     
 
@@ -6393,7 +6393,7 @@ This repository is a list of GitHub users who are living in India and are sponso
 | [@infysumanta](https://github.com/infysumanta) | [❤️Sponsor](https://github.com/sponsors/infysumanta) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/40049179?u=4986fbaa6e9efec4a306bb1f13b4459309fc9a5c&v=4" alt="" width="40" /> | Sculpting the digital frontier with a mastery of JavaScript, Python, golang and Web3, architecting tomorrow's tech wonders today. |
-| <!-- no item --> | <!-- no description --> |
+| [paypal-sdk](https://github.com/infysumanta/paypal-sdk) | A Paypal SDK for Paypal v1 and v2 Rest Apis |
 
     
 
@@ -6942,7 +6942,7 @@ This repository is a list of GitHub users who are living in India and are sponso
 | [@Abusayid693](https://github.com/Abusayid693) | [❤️Sponsor](https://github.com/sponsors/Abusayid693) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/35341198?u=656f531d0057be5705966416b4883f1a598a2bc1&v=4" alt="" width="40" /> | 😊 |
-| <!-- no item --> | <!-- no description --> |
+| [Voicefy](https://github.com/Abusayid693/Voicefy) | Generate best audio experiences with cloud services, build using best in market could service providers \(in-development\) |
 
     
 
@@ -7599,7 +7599,7 @@ This repository is a list of GitHub users who are living in India and are sponso
 | [@justaman045](https://github.com/justaman045) | [❤️Sponsor](https://github.com/sponsors/justaman045) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/54279831?u=2edd0eabe8cd516485d06dc1b8ce8f0de89002f5&v=4" alt="" width="40" /> | Tech writer 🖥️ ｜ Video wizard 🎬 ｜ Building my brand in anime and gaming 🎮 ｜ Systems Associate at Infosys 💼 ｜ Open-source enthusiast 🚀 \#TechInnovator |
-| <!-- no item --> | <!-- no description --> |
+| [Auto-Poster](https://github.com/justaman045/Auto-Poster) | A Desktop App Developed with Python to post your Updates\/Tweets to Social Media from one Platform \( directly from your Laptop even without opening a Browser \). |
 
     
 
@@ -8103,7 +8103,7 @@ This repository is a list of GitHub users who are living in India and are sponso
 | [@multiverseweb](https://github.com/multiverseweb) | [❤️Sponsor](https://github.com/sponsors/multiverseweb) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/131871888?u=41bbed29efd0178bd51a7f0fcb51b0d034a35ce4&v=4" alt="" width="40" /> | i have a computer |
-| <!-- no item --> | <!-- no description --> |
+| [Dataverse](https://github.com/multiverseweb/Dataverse) | A versatile Open-Source Software \(OSS\) that allows organizing, analyzing and visualizing data, leveraging ML algorithms for predictive analysis. Supporting all data visualisation techniques on one platform, accessible on both desktop and mobile. |
 
     
 
@@ -8742,7 +8742,7 @@ This repository is a list of GitHub users who are living in India and are sponso
 | [@KrishGaur1354](https://github.com/KrishGaur1354) | [❤️Sponsor](https://github.com/sponsors/KrishGaur1354) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/108526951?u=44459b8b07b79089c92d776c6f1a22f743953582&v=4" alt="" width="40" /> | GSoC'25 Mentor @drupal ｜ GSoC'24 Mentee @drupal ｜ Open-Source contributor   |
-| <!-- no item --> | <!-- no description --> |
+| [GamesWiki](https://github.com/KrishGaur1354/GamesWiki) | A Steam Deck plugin that provides quick access to multiple game wiki sources for your installed games. Simply select your preferred wiki site and get instant access to game information, guides, and reviews. |
 
     
 
