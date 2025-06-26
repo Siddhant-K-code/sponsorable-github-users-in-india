@@ -1,0 +1,17 @@
+{
+  "name": "sponsorable-github-users-in-india",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "update:resources": "node --import 'data:text/javascript,import { register } from \"node:module\"; import { pathToFileURL } from \"node:url\"; register(\"ts-node/esm\", pathToFileURL(\"./\"));' ./scripts/search-github-sponsorable-in-india.mts",
+    "update:readme": "node --import 'data:text/javascript,import { register } from \"node:module\"; import { pathToFileURL } from \"node:url\"; register(\"ts-node/esm\", pathToFileURL(\"./\"));' ./scripts/data-to-readme.mts"
+  },
+  "devDependencies": {
+    "@octokit/core": "^7.0.2",
+    "@octokit/plugin-paginate-graphql": "^6.0.0",
+    "@types/node": "^24.0.4",
+    "markdown-function": "^2.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
