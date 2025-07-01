@@ -342,25 +342,6 @@
     }
   },
   {
-    "login": "ijagjeet",
-    "name": "Jagjeet Singh",
-    "url": "https://github.com/ijagjeet",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/46004289?u=e9d087d395886902d58c32db9fad07c1b2d209d8&v=4",
-    "bio": "",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "virtual-piano",
-            "description": "A virtual piano develop with vuejs",
-            "url": "https://github.com/ijagjeet/virtual-piano"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "TheAlphamerc",
     "name": "Sonu Sharma",
     "url": "https://github.com/TheAlphamerc",
@@ -380,19 +361,19 @@
     }
   },
   {
-    "login": "AIAnytime",
-    "name": "AI Anytime",
-    "url": "https://github.com/AIAnytime",
+    "login": "ijagjeet",
+    "name": "Jagjeet Singh",
+    "url": "https://github.com/ijagjeet",
     "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/30049737?u=742cc0ef1ad8953a47875a91a4ddcb6e8e0a7d1a&v=4",
-    "bio": "Creator of \"AI Anytime\" YouTube Channel and Community",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46004289?u=e9d087d395886902d58c32db9fad07c1b2d209d8&v=4",
+    "bio": "",
     "pinnedItems": {
       "edges": [
         {
           "node": {
-            "name": "Document-Buddy-App",
-            "description": "Built using Open Source Stack (Llama 3.2 Model, BGE Embeddings, and Qdrant running locally within a Docker Container)",
-            "url": "https://github.com/AIAnytime/Document-Buddy-App"
+            "name": "virtual-piano",
+            "description": "A virtual piano develop with vuejs",
+            "url": "https://github.com/ijagjeet/virtual-piano"
           }
         }
       ]
@@ -412,6 +393,25 @@
             "name": "Text-to-Speech-Landscape",
             "description": null,
             "url": "https://github.com/ishandutta2007/Text-to-Speech-Landscape"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "AIAnytime",
+    "name": "AI Anytime",
+    "url": "https://github.com/AIAnytime",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30049737?u=742cc0ef1ad8953a47875a91a4ddcb6e8e0a7d1a&v=4",
+    "bio": "Creator of \"AI Anytime\" YouTube Channel and Community",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "Document-Buddy-App",
+            "description": "Built using Open Source Stack (Llama 3.2 Model, BGE Embeddings, and Qdrant running locally within a Docker Container)",
+            "url": "https://github.com/AIAnytime/Document-Buddy-App"
           }
         }
       ]
@@ -714,6 +714,25 @@
     }
   },
   {
+    "login": "codewithdhruba01",
+    "name": "Dhrubaraj Pati",
+    "url": "https://github.com/codewithdhruba01",
+    "location": "india",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/146111647?u=895561d03e3da19096926525bec83e5ac2452f21&v=4",
+    "bio": "SVU'26 •  Web Developer • Learning 3D Web Development • Learning React • UI/UX Designing • Python • Typescript • Open Source Contribution",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "Learn-python-language",
+            "description": "This repository provides a structured breakdown of key Python topics from beginner to advanced",
+            "url": "https://github.com/codewithdhruba01/Learn-python-language"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "codeperfectplus",
     "name": "Deepak Raj",
     "url": "https://github.com/codeperfectplus",
@@ -771,25 +790,6 @@
     }
   },
   {
-    "login": "codewithdhruba01",
-    "name": "Dhrubaraj Pati",
-    "url": "https://github.com/codewithdhruba01",
-    "location": "india",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/146111647?u=895561d03e3da19096926525bec83e5ac2452f21&v=4",
-    "bio": "SVU'26 •  Web Developer • Learning 3D Web Development • Learning React • UI/UX Designing • Python • Typescript • Open Source Contribution",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "Learn-python-language",
-            "description": "This repository provides a structured breakdown of key Python topics from beginner to advanced",
-            "url": "https://github.com/codewithdhruba01/Learn-python-language"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "raisedadead",
     "name": "Mrugesh Mohapatra",
     "url": "https://github.com/raisedadead",
@@ -828,25 +828,6 @@
     }
   },
   {
-    "login": "Sabyasachi-Seal",
-    "name": "Sabyasachi Seal",
-    "url": "https://github.com/Sabyasachi-Seal",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/36451386?u=7215bcbf427b8f24218b91d9ab2402015e1ee68b&v=4",
-    "bio": "Engineering Software",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "Sabyasachi-Seal",
-            "description": "This is where my profile is located.",
-            "url": "https://github.com/Sabyasachi-Seal/Sabyasachi-Seal"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "anshuopinion",
     "name": "Anshu Raj",
     "url": "https://github.com/anshuopinion",
@@ -866,19 +847,19 @@
     }
   },
   {
-    "login": "itswadesh",
-    "name": "Swadesh Behera",
-    "url": "https://github.com/itswadesh",
+    "login": "Sabyasachi-Seal",
+    "name": "Sabyasachi Seal",
+    "url": "https://github.com/Sabyasachi-Seal",
     "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/1191896?u=db161ad372c2356042762e7ac997e1cdfc30454b&v=4",
-    "bio": "Built svelte-commerce",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36451386?u=7215bcbf427b8f24218b91d9ab2402015e1ee68b&v=4",
+    "bio": "Engineering Software",
     "pinnedItems": {
       "edges": [
         {
           "node": {
-            "name": "svelte-commerce",
-            "description": "The open-source storefront for any ecommerce. Built with a headless approach, using a modern JS stack. Works with Litekart, Medusa. WIP for Shopify.",
-            "url": "https://github.com/itswadesh/svelte-commerce"
+            "name": "Sabyasachi-Seal",
+            "description": "This is where my profile is located.",
+            "url": "https://github.com/Sabyasachi-Seal/Sabyasachi-Seal"
           }
         }
       ]
@@ -898,6 +879,25 @@
             "name": "mevn-cli",
             "description": "Light speed setup for MEVN(Mongo Express Vue Node)  Apps",
             "url": "https://github.com/madlabsinc/mevn-cli"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "itswadesh",
+    "name": "Swadesh Behera",
+    "url": "https://github.com/itswadesh",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1191896?u=db161ad372c2356042762e7ac997e1cdfc30454b&v=4",
+    "bio": "Built svelte-commerce",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "svelte-commerce",
+            "description": "The open-source storefront for any ecommerce. Built with a headless approach, using a modern JS stack. Works with Litekart, Medusa. WIP for Shopify.",
+            "url": "https://github.com/itswadesh/svelte-commerce"
           }
         }
       ]
@@ -1276,25 +1276,6 @@
     }
   },
   {
-    "login": "LSUDOKO",
-    "name": "Arpit Singh",
-    "url": "https://github.com/LSUDOKO",
-    "location": "HIMACHAL PRADESH, INDIA",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/173903994?u=f163d6fbd629a179dcd75032f8cf68cc84a1e2c3&v=4",
-    "bio": "",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "GlobalRoute-Navigator",
-            "description": "🌍 GlobalRoute Navigator AI-powered tool for optimizing global shipping routes across air, sea, and land—minimizing cost, time, and CO₂ using smart algorithms and real-time data.",
-            "url": "https://github.com/Aaditya1273/GlobalRoute-Navigator"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "Siddhant-K-code",
     "name": "Siddhant Khare",
     "url": "https://github.com/Siddhant-K-code",
@@ -1308,6 +1289,25 @@
             "name": "github1s",
             "description": "One second to read GitHub code with VS Code.",
             "url": "https://github.com/conwnet/github1s"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "LSUDOKO",
+    "name": "Arpit Singh",
+    "url": "https://github.com/LSUDOKO",
+    "location": "HIMACHAL PRADESH, INDIA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/173903994?u=f163d6fbd629a179dcd75032f8cf68cc84a1e2c3&v=4",
+    "bio": "",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "GlobalRoute-Navigator",
+            "description": "🌍 GlobalRoute Navigator AI-powered tool for optimizing global shipping routes across air, sea, and land—minimizing cost, time, and CO₂ using smart algorithms and real-time data.",
+            "url": "https://github.com/Aaditya1273/GlobalRoute-Navigator"
           }
         }
       ]
@@ -1947,25 +1947,6 @@
     }
   },
   {
-    "login": "ashwinexe",
-    "name": "Ashwin Kumar Uppala",
-    "url": "https://github.com/ashwinexe",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/53075480?u=a7034abd31bedba39b27f787c44b78d7c5558d2a&v=4",
-    "bio": "",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "LearnScape",
-            "description": "Project developed to make CNCF landscape easier and more accessible to beginners",
-            "url": "https://github.com/ashwinexe/LearnScape"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "xditya",
     "name": "Aditya",
     "url": "https://github.com/xditya",
@@ -1979,6 +1960,25 @@
             "name": "ChannelActionsBot",
             "description": "Telegram bot to auto approve chat join requests.",
             "url": "https://github.com/xditya/ChannelActionsBot"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "ashwinexe",
+    "name": "Ashwin Kumar Uppala",
+    "url": "https://github.com/ashwinexe",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53075480?u=a7034abd31bedba39b27f787c44b78d7c5558d2a&v=4",
+    "bio": "",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "LearnScape",
+            "description": "Project developed to make CNCF landscape easier and more accessible to beginners",
+            "url": "https://github.com/ashwinexe/LearnScape"
           }
         }
       ]
@@ -2034,6 +2034,17 @@
     }
   },
   {
+    "login": "UtkarshPathrabe",
+    "name": "Utkarsh Ashok Pathrabe",
+    "url": "https://github.com/UtkarshPathrabe",
+    "location": "Pune, India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7246712?v=4",
+    "bio": "Senior Systems Software Engineer (Autonomous Vehicles) at NVIDIA;\r\nComputer Science Graduate from BITS Pilani",
+    "pinnedItems": {
+      "edges": []
+    }
+  },
+  {
     "login": "vinayakkulkarni",
     "name": "Vinayak Kulkarni",
     "url": "https://github.com/vinayakkulkarni",
@@ -2050,17 +2061,6 @@
           }
         }
       ]
-    }
-  },
-  {
-    "login": "UtkarshPathrabe",
-    "name": "Utkarsh Ashok Pathrabe",
-    "url": "https://github.com/UtkarshPathrabe",
-    "location": "Pune, India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/7246712?v=4",
-    "bio": "Senior Systems Software Engineer (Autonomous Vehicles) at NVIDIA;\r\nComputer Science Graduate from BITS Pilani",
-    "pinnedItems": {
-      "edges": []
     }
   },
   {
@@ -2083,25 +2083,6 @@
     }
   },
   {
-    "login": "Susmita-Dey",
-    "name": "Susmita Dey",
-    "url": "https://github.com/Susmita-Dey",
-    "location": "Kolkata, India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/79099734?u=4a03241b87e38330d71cc2aed554bea0a83847c9&v=4",
-    "bio": "Grad'25 MCA | Software Engineer | Prev Team @wemakedevs  | Former SDE @fountane,  Frontend Dev Intern @DigiteaTechTeam @Fueler-io",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "StudyBuddy",
-            "description": "A student's application to learn, test and upskill with the help of AI",
-            "url": "https://github.com/Susmita-Dey/StudyBuddy"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "avneesh0612",
     "name": "Avneesh Agarwal",
     "url": "https://github.com/avneesh0612",
@@ -2115,6 +2096,25 @@
             "name": "snipli",
             "description": "✨ A command-line interface for quickly sharing code snippets of your local files",
             "url": "https://github.com/0xMukesh/snipli"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "Susmita-Dey",
+    "name": "Susmita Dey",
+    "url": "https://github.com/Susmita-Dey",
+    "location": "Kolkata, India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79099734?u=4a03241b87e38330d71cc2aed554bea0a83847c9&v=4",
+    "bio": "Grad'25 MCA | Software Engineer | Prev Team @wemakedevs  | Former SDE @fountane,  Frontend Dev Intern @DigiteaTechTeam @Fueler-io",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "StudyBuddy",
+            "description": "A student's application to learn, test and upskill with the help of AI",
+            "url": "https://github.com/Susmita-Dey/StudyBuddy"
           }
         }
       ]
@@ -2447,17 +2447,6 @@
     }
   },
   {
-    "login": "bhavyastar",
-    "name": "Bhavya Sachdeva",
-    "url": "https://github.com/bhavyastar",
-    "location": "Ghaziabad, India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/84725791?u=c5416f412e3db1993fc881eb0c6ba49f2a27badd&v=4",
-    "bio": "DevOps @zenskar | LiFT Scholar | GHC Scholar'22 | DevOps | Open Source",
-    "pinnedItems": {
-      "edges": []
-    }
-  },
-  {
     "login": "ashkulz",
     "name": "Ashish Kulkarni",
     "url": "https://github.com/ashkulz",
@@ -2474,6 +2463,17 @@
           }
         }
       ]
+    }
+  },
+  {
+    "login": "bhavyastar",
+    "name": "Bhavya Sachdeva",
+    "url": "https://github.com/bhavyastar",
+    "location": "Ghaziabad, India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84725791?u=c5416f412e3db1993fc881eb0c6ba49f2a27badd&v=4",
+    "bio": "DevOps @zenskar | LiFT Scholar | GHC Scholar'22 | DevOps | Open Source",
+    "pinnedItems": {
+      "edges": []
     }
   },
   {
@@ -2730,25 +2730,6 @@
     }
   },
   {
-    "login": "Satyamkumarnavneet",
-    "name": "Satyam Kumar Navneet",
-    "url": "https://github.com/Satyamkumarnavneet",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/76639713?u=9f456c7b8c804fa2ce9d3ace77eac8e747cb85ef&v=4",
-    "bio": "Top 13% on @LeetCode | @Google Cloud Ready Facilitator | FRT Intern @Microsoft | Ambassador at @IBM Z | Postman Student Expert | @AWS Educate",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "alphaonelabs-education-website",
-            "description": "Alpha One Labs Educational Website",
-            "url": "https://github.com/alphaonelabs/alphaonelabs-education-website"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "tusharnankani",
     "name": "Tushar Nankani",
     "url": "https://github.com/tusharnankani",
@@ -2795,6 +2776,25 @@
     "bio": "Currently working as a freelance web engineer.",
     "pinnedItems": {
       "edges": []
+    }
+  },
+  {
+    "login": "Satyamkumarnavneet",
+    "name": "Satyam Kumar Navneet",
+    "url": "https://github.com/Satyamkumarnavneet",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76639713?u=9f456c7b8c804fa2ce9d3ace77eac8e747cb85ef&v=4",
+    "bio": "Top 13% on @LeetCode | @Google Cloud Ready Facilitator | FRT Intern @Microsoft | Ambassador at @IBM Z | Postman Student Expert | @AWS Educate",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "alphaonelabs-education-website",
+            "description": "Alpha One Labs Educational Website",
+            "url": "https://github.com/alphaonelabs/alphaonelabs-education-website"
+          }
+        }
+      ]
     }
   },
   {
@@ -2855,25 +2855,6 @@
     }
   },
   {
-    "login": "theashishgavade",
-    "name": "The Ashish Gavade",
-    "url": "https://github.com/theashishgavade",
-    "location": "Panvel,Mumbai,India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/68729505?u=205c20615c95a4ecf26bf2f542cb702456f09449&v=4",
-    "bio": "Computer Engineer🖥️\r\n\r\nEthical Hacker 👨🏻‍💻\r\n\r\nMahamitra of Raigad 👑",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "theashishgavade",
-            "description": null,
-            "url": "https://github.com/theashishgavade/theashishgavade"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "AakashRao-dev",
     "name": "Aakash Rao",
     "url": "https://github.com/AakashRao-dev",
@@ -2890,6 +2871,17 @@
           }
         }
       ]
+    }
+  },
+  {
+    "login": "WebdevShefali",
+    "name": "Shefali",
+    "url": "https://github.com/WebdevShefali",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105041861?u=cd7a956d221f105de4c87b1786ffd3e7171b10e8&v=4",
+    "bio": "Web Developer | Technical Writer | Content Creator",
+    "pinnedItems": {
+      "edges": []
     }
   },
   {
@@ -2912,17 +2904,6 @@
     }
   },
   {
-    "login": "WebdevShefali",
-    "name": "Shefali",
-    "url": "https://github.com/WebdevShefali",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/105041861?u=cd7a956d221f105de4c87b1786ffd3e7171b10e8&v=4",
-    "bio": "Web Developer | Technical Writer | Content Creator",
-    "pinnedItems": {
-      "edges": []
-    }
-  },
-  {
     "login": "starlightknown",
     "name": "Karuna Tata",
     "url": "https://github.com/starlightknown",
@@ -2942,19 +2923,19 @@
     }
   },
   {
-    "login": "Gaini-Laxman",
-    "name": "Gaini Laxman",
-    "url": "https://github.com/Gaini-Laxman",
-    "location": "Hyderabad, India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/119339682?u=992a62edff82a8cf0f5bb6a895b84d93264a70a8&v=4",
-    "bio": "Hi there 👋, My name is Laxman. A self-taught, passionate and fast-learner full-stack developer from Hyderabad, India 🌎. Now I'm Full Stack Developer.\r\n",
+    "login": "theashishgavade",
+    "name": "The Ashish Gavade",
+    "url": "https://github.com/theashishgavade",
+    "location": "Panvel,Mumbai,India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/68729505?u=205c20615c95a4ecf26bf2f542cb702456f09449&v=4",
+    "bio": "Computer Engineer🖥️\r\n\r\nEthical Hacker 👨🏻‍💻\r\n\r\nMahamitra of Raigad 👑",
     "pinnedItems": {
       "edges": [
         {
           "node": {
-            "name": "README.md",
+            "name": "theashishgavade",
             "description": null,
-            "url": "https://github.com/Gaini-Laxman/README.md"
+            "url": "https://github.com/theashishgavade/theashishgavade"
           }
         }
       ]
@@ -2993,6 +2974,25 @@
             "name": "hugo-PaperMod",
             "description": " A fast, clean, responsive Hugo theme.",
             "url": "https://github.com/adityatelange/hugo-PaperMod"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "Gaini-Laxman",
+    "name": "Gaini Laxman",
+    "url": "https://github.com/Gaini-Laxman",
+    "location": "Hyderabad, India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/119339682?u=992a62edff82a8cf0f5bb6a895b84d93264a70a8&v=4",
+    "bio": "Hi there 👋, My name is Laxman. A self-taught, passionate and fast-learner full-stack developer from Hyderabad, India 🌎. Now I'm Full Stack Developer.\r\n",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "README.md",
+            "description": null,
+            "url": "https://github.com/Gaini-Laxman/README.md"
           }
         }
       ]
@@ -3132,25 +3132,6 @@
     }
   },
   {
-    "login": "deepakcode21",
-    "name": "Deepak",
-    "url": "https://github.com/deepakcode21",
-    "location": "Delhi, India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/143344721?u=4c800ade2f7f4a309e6f46620be5f0cdf619b09f&v=4",
-    "bio": "Blockchain | Next-Js |  React-Js | Node-Js Development | Exploring AI/ML Technologies",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "Sorting-Algorithm-Visualizer",
-            "description": "A sorting algorithm visualizer makes learning fun by showing numbers sort themselves through colorful, animated steps.",
-            "url": "https://github.com/deepakcode21/Sorting-Algorithm-Visualizer"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "Aryamanz29",
     "name": "Aryaman",
     "url": "https://github.com/Aryamanz29",
@@ -3164,25 +3145,6 @@
             "name": "atlan-python",
             "description": null,
             "url": "https://github.com/atlanhq/atlan-python"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "Sulagna-Dutta-Roy",
-    "name": "Sulagna Dutta Roy",
-    "url": "https://github.com/Sulagna-Dutta-Roy",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/72568715?u=062af9f2d9761bd57c16ea537daea0c11ea796c3&v=4",
-    "bio": "SDE || Building @WeBeginners-Community || Backend Developer || Application Support",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "Gallerytics",
-            "description": "It's a photo gallery for summer season. Can you enhance it more? Feel free to do it ",
-            "url": "https://github.com/Sulagna-Dutta-Roy/Gallerytics"
           }
         }
       ]
@@ -3208,19 +3170,19 @@
     }
   },
   {
-    "login": "sayanarijit",
-    "name": "Arijit Basu",
-    "url": "https://github.com/sayanarijit",
-    "location": "Kolkata, India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/11632726?u=ebd0c4c07ee19c858589d7d8124f6a4b36ae5562&v=4",
-    "bio": "Just a ninja doing hand signs on a keyboard",
+    "login": "deepakcode21",
+    "name": "Deepak",
+    "url": "https://github.com/deepakcode21",
+    "location": "Delhi, India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/143344721?u=4c800ade2f7f4a309e6f46620be5f0cdf619b09f&v=4",
+    "bio": "Blockchain | Next-Js |  React-Js | Node-Js Development | Exploring AI/ML Technologies",
     "pinnedItems": {
       "edges": [
         {
           "node": {
-            "name": "xplr",
-            "description": "A hackable, minimal, fast TUI file explorer",
-            "url": "https://github.com/sayanarijit/xplr"
+            "name": "Sorting-Algorithm-Visualizer",
+            "description": "A sorting algorithm visualizer makes learning fun by showing numbers sort themselves through colorful, animated steps.",
+            "url": "https://github.com/deepakcode21/Sorting-Algorithm-Visualizer"
           }
         }
       ]
@@ -3240,6 +3202,44 @@
             "name": "mem0",
             "description": "Memory for AI Agents; Announcing OpenMemory MCP - local and secure memory management.",
             "url": "https://github.com/mem0ai/mem0"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "sayanarijit",
+    "name": "Arijit Basu",
+    "url": "https://github.com/sayanarijit",
+    "location": "Kolkata, India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11632726?u=ebd0c4c07ee19c858589d7d8124f6a4b36ae5562&v=4",
+    "bio": "Just a ninja doing hand signs on a keyboard",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "xplr",
+            "description": "A hackable, minimal, fast TUI file explorer",
+            "url": "https://github.com/sayanarijit/xplr"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "Sulagna-Dutta-Roy",
+    "name": "Sulagna Dutta Roy",
+    "url": "https://github.com/Sulagna-Dutta-Roy",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72568715?u=062af9f2d9761bd57c16ea537daea0c11ea796c3&v=4",
+    "bio": "SDE || Building @WeBeginners-Community || Backend Developer || Application Support",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "Gallerytics",
+            "description": "It's a photo gallery for summer season. Can you enhance it more? Feel free to do it ",
+            "url": "https://github.com/Sulagna-Dutta-Roy/Gallerytics"
           }
         }
       ]
@@ -3398,25 +3398,6 @@
     }
   },
   {
-    "login": "ersascape",
-    "name": "Gagan",
-    "url": "https://github.com/ersascape",
-    "location": "New Delhi, India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/26477157?u=27f57fbb87d7e2ab6dd75d3e2b408ff548eca582&v=4",
-    "bio": "Android Platform @ Euler Motors. \r\nFounder @StyxProject. \r\nContributor @AOSPA. ",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "android_device_xiaomi_phoenix",
-            "description": null,
-            "url": "https://github.com/AOSPA/android_device_xiaomi_phoenix"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "theabbie",
     "name": "Abhishek Choudhary",
     "url": "https://github.com/theabbie",
@@ -3430,6 +3411,25 @@
             "name": "PixelCraft",
             "description": "A Pixel Art Editor",
             "url": "https://github.com/rgab1508/PixelCraft"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "ersascape",
+    "name": "Gagan",
+    "url": "https://github.com/ersascape",
+    "location": "New Delhi, India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26477157?u=27f57fbb87d7e2ab6dd75d3e2b408ff548eca582&v=4",
+    "bio": "Android Platform @ Euler Motors. \r\nFounder @StyxProject. \r\nContributor @AOSPA. ",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "android_device_xiaomi_phoenix",
+            "description": null,
+            "url": "https://github.com/AOSPA/android_device_xiaomi_phoenix"
           }
         }
       ]
@@ -3455,25 +3455,6 @@
     }
   },
   {
-    "login": "danascape",
-    "name": "Saalim Quadri",
-    "url": "https://github.com/danascape",
-    "location": "Bangalore, India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/40296389?u=99d61b4e37d5718e0498ce91d3dada4091e5e922&v=4",
-    "bio": "Linux Kernel Developer",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "platform_local_manifest",
-            "description": "Tracking my AOSP Device work",
-            "url": "https://github.com/danascape/platform_local_manifest"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "AlenVelocity",
     "name": "Alen Yohannan",
     "url": "https://github.com/AlenVelocity",
@@ -3487,6 +3468,25 @@
             "name": "kalidokit",
             "description": "Blendshape and kinematics calculator for Mediapipe/Tensorflow.js Face, Eyes, Pose, and Finger tracking models.",
             "url": "https://github.com/yeemachine/kalidokit"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "danascape",
+    "name": "Saalim Quadri",
+    "url": "https://github.com/danascape",
+    "location": "Bangalore, India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40296389?u=99d61b4e37d5718e0498ce91d3dada4091e5e922&v=4",
+    "bio": "Linux Kernel Developer",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "platform_local_manifest",
+            "description": "Tracking my AOSP Device work",
+            "url": "https://github.com/danascape/platform_local_manifest"
           }
         }
       ]
@@ -3607,38 +3607,19 @@
     }
   },
   {
-    "login": "Abinash018",
-    "name": "G Abinash",
-    "url": "https://github.com/Abinash018",
-    "location": "india",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/113250598?u=a7bde7257c31b1f5f020a5216e9280d9c33036bc&v=4",
-    "bio": "Experienced Freelance Native Android App Developer | Java & Kotlin Expert | ML/AI|WEB3.0}MERN|DJANGO/FLASK}Flutter |Full stack web dev | ",
+    "login": "shubham0204",
+    "name": "Shubham Panchal",
+    "url": "https://github.com/shubham0204",
+    "location": "Pune, Maharashtra, India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/41076823?u=2e8a2dc4272229f9c8bcd1c343e243fe1254fd38&v=4",
+    "bio": "Building On-Device ML for Android, ML/CS enthusiast",
     "pinnedItems": {
       "edges": [
         {
           "node": {
-            "name": "React-Solidity-Blockchain-Application",
-            "description": null,
-            "url": "https://github.com/Abinash018/React-Solidity-Blockchain-Application"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "rashidmakki",
-    "name": "Rashid Makki",
-    "url": "https://github.com/rashidmakki",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/52795057?v=4",
-    "bio": "Software Engineer ",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "inventory-management-system",
-            "description": "Inventory Management System is a powerful desktop application developed using JavaFX and MySQL, designed to streamline operations related to billing, sales reporting, and purchase tracking.",
-            "url": "https://github.com/rashidmakki/inventory-management-system"
+            "name": "FaceRecognition_With_FaceNet_Android",
+            "description": "Face Recognition using the FaceNet model and MLKit on Android.",
+            "url": "https://github.com/shubham0204/FaceRecognition_With_FaceNet_Android"
           }
         }
       ]
@@ -3664,19 +3645,38 @@
     }
   },
   {
-    "login": "shubham0204",
-    "name": "Shubham Panchal",
-    "url": "https://github.com/shubham0204",
-    "location": "Pune, Maharashtra, India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/41076823?u=2e8a2dc4272229f9c8bcd1c343e243fe1254fd38&v=4",
-    "bio": "Building On-Device ML for Android, ML/CS enthusiast",
+    "login": "rashidmakki",
+    "name": "Rashid Makki",
+    "url": "https://github.com/rashidmakki",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52795057?v=4",
+    "bio": "Software Engineer ",
     "pinnedItems": {
       "edges": [
         {
           "node": {
-            "name": "FaceRecognition_With_FaceNet_Android",
-            "description": "Face Recognition using the FaceNet model and MLKit on Android.",
-            "url": "https://github.com/shubham0204/FaceRecognition_With_FaceNet_Android"
+            "name": "inventory-management-system",
+            "description": "Inventory Management System is a powerful desktop application developed using JavaFX and MySQL, designed to streamline operations related to billing, sales reporting, and purchase tracking.",
+            "url": "https://github.com/rashidmakki/inventory-management-system"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "Abinash018",
+    "name": "G Abinash",
+    "url": "https://github.com/Abinash018",
+    "location": "india",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/113250598?u=a7bde7257c31b1f5f020a5216e9280d9c33036bc&v=4",
+    "bio": "Experienced Freelance Native Android App Developer | Java & Kotlin Expert | ML/AI|WEB3.0}MERN|DJANGO/FLASK}Flutter |Full stack web dev | ",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "React-Solidity-Blockchain-Application",
+            "description": null,
+            "url": "https://github.com/Abinash018/React-Solidity-Blockchain-Application"
           }
         }
       ]
@@ -4123,6 +4123,25 @@
     }
   },
   {
+    "login": "lucifertrj",
+    "name": "Tarun Jain",
+    "url": "https://github.com/lucifertrj",
+    "location": "Banglore, India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66197713?u=1817dfa76deccabb38c3431be212f159f1651676&v=4",
+    "bio": "Head down and build",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "Awesome-RAG",
+            "description": "RAG-VectorDB-Embedings-LlamaIndex-Langchain",
+            "url": "https://github.com/lucifertrj/Awesome-RAG"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "krutikkkkkkkkk",
     "name": "Krutik Raut",
     "url": "https://github.com/krutikkkkkkkkk",
@@ -4155,25 +4174,6 @@
             "name": "100xDevs_2.0",
             "description": "List of all the imp concepts and assignments covered during 100xDevs 2.0",
             "url": "https://github.com/vishalsingh2972/100xDevs_2.0"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "lucifertrj",
-    "name": "Tarun Jain",
-    "url": "https://github.com/lucifertrj",
-    "location": "Banglore, India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/66197713?u=1817dfa76deccabb38c3431be212f159f1651676&v=4",
-    "bio": "Head down and build",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "Awesome-RAG",
-            "description": "RAG-VectorDB-Embedings-LlamaIndex-Langchain",
-            "url": "https://github.com/lucifertrj/Awesome-RAG"
           }
         }
       ]
@@ -4218,25 +4218,6 @@
     }
   },
   {
-    "login": "vijayinyoutube",
-    "name": "Vijay R",
-    "url": "https://github.com/vijayinyoutube",
-    "location": "TamilNadu, India. ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/58719230?u=37950e8fa0dfa877f23e5d0453eb3c146dc05621&v=4",
-    "bio": "ReactJs & Flutter Developer | UI/UX Design Expert | Flutter Content Creator | App Dev Expert",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "scroll_to_top",
-            "description": "Scroll to top dart package",
-            "url": "https://github.com/vijayinyoutube/scroll_to_top"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "AbhinavRajesh",
     "name": "Abhinav Rajesh",
     "url": "https://github.com/AbhinavRajesh",
@@ -4250,6 +4231,25 @@
             "name": "Aura",
             "description": "Aura: See your mood in a whole new light.",
             "url": "https://github.com/AbhinavRajesh/Aura"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "vijayinyoutube",
+    "name": "Vijay R",
+    "url": "https://github.com/vijayinyoutube",
+    "location": "TamilNadu, India. ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58719230?u=37950e8fa0dfa877f23e5d0453eb3c146dc05621&v=4",
+    "bio": "ReactJs & Flutter Developer | UI/UX Design Expert | Flutter Content Creator | App Dev Expert",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "scroll_to_top",
+            "description": "Scroll to top dart package",
+            "url": "https://github.com/vijayinyoutube/scroll_to_top"
           }
         }
       ]
@@ -4294,25 +4294,6 @@
     }
   },
   {
-    "login": "pritipsingh",
-    "name": "Priti",
-    "url": "https://github.com/pritipsingh",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/85965351?u=45d57f339955f205bf7e8215a60dfcb92853f0e2&v=4",
-    "bio": "Software Engineer",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "The-Productive-Champion",
-            "description": "An all in one Productivity Chrome Extension. Contribute Now!",
-            "url": "https://github.com/pritipsingh/The-Productive-Champion"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "RohanDas28",
     "name": "Rohan Das",
     "url": "https://github.com/RohanDas28",
@@ -4345,6 +4326,25 @@
             "name": "meshery",
             "description": "Meshery, the cloud native manager",
             "url": "https://github.com/meshery/meshery"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "pritipsingh",
+    "name": "Priti",
+    "url": "https://github.com/pritipsingh",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85965351?u=45d57f339955f205bf7e8215a60dfcb92853f0e2&v=4",
+    "bio": "Software Engineer",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "The-Productive-Champion",
+            "description": "An all in one Productivity Chrome Extension. Contribute Now!",
+            "url": "https://github.com/pritipsingh/The-Productive-Champion"
           }
         }
       ]
@@ -4699,25 +4699,6 @@
     }
   },
   {
-    "login": "0xTheProDev",
-    "name": "🚀 Progyan Bhattacharya 👨🏻‍💻",
-    "url": "https://github.com/0xTheProDev",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/14367736?u=133b67215d8cd2b3873ca57f67c0108afc2a264f&v=4",
-    "bio": "Software Engineer | Maintainer otjs | Former @aws Community Builder | Open for Grant/Sponsorships",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "fastapi-clean-example",
-            "description": "Clean Architecture Example using FastAPI framework",
-            "url": "https://github.com/0xTheProDev/fastapi-clean-example"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "mvaisakh",
     "name": "Dr. Vaisakh Murali",
     "url": "https://github.com/mvaisakh",
@@ -4750,6 +4731,25 @@
             "name": "husky",
             "description": "git hooks made easy",
             "url": "https://github.com/automation-co/husky"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "0xTheProDev",
+    "name": "🚀 Progyan Bhattacharya 👨🏻‍💻",
+    "url": "https://github.com/0xTheProDev",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14367736?u=133b67215d8cd2b3873ca57f67c0108afc2a264f&v=4",
+    "bio": "Software Engineer | Maintainer otjs | Former @aws Community Builder | Open for Grant/Sponsorships",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "fastapi-clean-example",
+            "description": "Clean Architecture Example using FastAPI framework",
+            "url": "https://github.com/0xTheProDev/fastapi-clean-example"
           }
         }
       ]
@@ -4813,17 +4813,6 @@
     }
   },
   {
-    "login": "myselfshivams",
-    "name": "Shivam ",
-    "url": "https://github.com/myselfshivams",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/143623476?u=ebf44e0ca9e20325367e7059b394482cb46df675&v=4",
-    "bio": "Perpetual evolver, questing for pixel-perfect perfection!📚",
-    "pinnedItems": {
-      "edges": []
-    }
-  },
-  {
     "login": "chandran-jr",
     "name": "Govind B Chandran",
     "url": "https://github.com/chandran-jr",
@@ -4856,6 +4845,25 @@
             "name": "Stackoverflow-Clone-Frontend",
             "description": "Clone project of a famous Q/A website for developers built using MySQL, Express, React, Node, Sequelize :globe_with_meridians:",
             "url": "https://github.com/Mayank0255/Stackoverflow-Clone-Frontend"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "gridhead",
+    "name": "Akashdeep Dhar",
+    "url": "https://github.com/gridhead",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49605954?u=f0e0006e94cac7ab3e7b1c29aa53ded8df0bc82c&v=4",
+    "bio": "আকাশদীপ ধর (gridhead@fedorable) - Senior Software Engineer @ Red Hat Community Linux Engineering",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "sysmon",
+            "description": "An intuitive remotely-accessible system performance monitoring and task management tool for servers and headless Raspberry Pi setups.",
+            "url": "https://github.com/gridhead/sysmon"
           }
         }
       ]
@@ -4919,22 +4927,14 @@
     }
   },
   {
-    "login": "gridhead",
-    "name": "Akashdeep Dhar",
-    "url": "https://github.com/gridhead",
+    "login": "myselfshivams",
+    "name": "Shivam ",
+    "url": "https://github.com/myselfshivams",
     "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/49605954?u=f0e0006e94cac7ab3e7b1c29aa53ded8df0bc82c&v=4",
-    "bio": "আকাশদীপ ধর (gridhead@fedorable) - Senior Software Engineer @ Red Hat Community Linux Engineering",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/143623476?u=ebf44e0ca9e20325367e7059b394482cb46df675&v=4",
+    "bio": "Perpetual evolver, questing for pixel-perfect perfection!📚",
     "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "sysmon",
-            "description": "An intuitive remotely-accessible system performance monitoring and task management tool for servers and headless Raspberry Pi setups.",
-            "url": "https://github.com/gridhead/sysmon"
-          }
-        }
-      ]
+      "edges": []
     }
   },
   {
@@ -5074,25 +5074,6 @@
     }
   },
   {
-    "login": "jddeep",
-    "name": "Jaideep Prasad",
-    "url": "https://github.com/jddeep",
-    "location": "भारत (India)",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/43133646?u=fdf68da23c3a153d67cbc43add0cf66b09b62c06&v=4",
-    "bio": "Product Builder | Problem Solver | Android | Flutter | Java | GSoC'20 & 19 👨🏻‍💻 | GCI-19 Mentor @tensorflow, @openMF ▶️ | Open source ❤️ | GSoC Admin ",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "Flip-Matcher",
-            "description": "A classic card matching animated game in Flutter.",
-            "url": "https://github.com/jddeep/Flip-Matcher"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "garg3133",
     "name": "Priyansh Garg",
     "url": "https://github.com/garg3133",
@@ -5112,19 +5093,19 @@
     }
   },
   {
-    "login": "DiptoChakrabarty",
-    "name": "Dipto Chakrabarty",
-    "url": "https://github.com/DiptoChakrabarty",
-    "location": "India | Bangalore",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/45638240?u=e0a26c9ab50e7851a1b8e5330ea9065ddef456f6&v=4",
-    "bio": "MS @CMU | Ex- SRE  @CISCO |  @kubernetes 1.25/24 release team |@SummerofBitcoin @utreexo | Contributor @kubernetes-sigs | DevOps",
+    "login": "jddeep",
+    "name": "Jaideep Prasad",
+    "url": "https://github.com/jddeep",
+    "location": "भारत (India)",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43133646?u=fdf68da23c3a153d67cbc43add0cf66b09b62c06&v=4",
+    "bio": "Product Builder | Problem Solver | Android | Flutter | Java | GSoC'20 & 19 👨🏻‍💻 | GCI-19 Mentor @tensorflow, @openMF ▶️ | Open source ❤️ | GSoC Admin ",
     "pinnedItems": {
       "edges": [
         {
           "node": {
-            "name": "Resume-Generator",
-            "description": "A Resume builder which allows users to build their own custom resumes  with details like experience,projects , skills ,education etc. Users can also have the feature to  download their resumes .  To contribute send PR at development branch from where it will be merged in master once checked.",
-            "url": "https://github.com/DiptoChakrabarty/Resume-Generator"
+            "name": "Flip-Matcher",
+            "description": "A classic card matching animated game in Flutter.",
+            "url": "https://github.com/jddeep/Flip-Matcher"
           }
         }
       ]
@@ -5144,6 +5125,25 @@
             "name": "care",
             "description": "Care is a Digital Public Good enabling TeleICU & Decentralised Administration of Healthcare Capacity across States.",
             "url": "https://github.com/ohcnetwork/care"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "DiptoChakrabarty",
+    "name": "Dipto Chakrabarty",
+    "url": "https://github.com/DiptoChakrabarty",
+    "location": "India | Bangalore",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45638240?u=e0a26c9ab50e7851a1b8e5330ea9065ddef456f6&v=4",
+    "bio": "MS @CMU | Ex- SRE  @CISCO |  @kubernetes 1.25/24 release team |@SummerofBitcoin @utreexo | Contributor @kubernetes-sigs | DevOps",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "Resume-Generator",
+            "description": "A Resume builder which allows users to build their own custom resumes  with details like experience,projects , skills ,education etc. Users can also have the feature to  download their resumes .  To contribute send PR at development branch from where it will be merged in master once checked.",
+            "url": "https://github.com/DiptoChakrabarty/Resume-Generator"
           }
         }
       ]
@@ -5340,25 +5340,6 @@
     }
   },
   {
-    "login": "smitbarmase",
-    "name": "Smit Barmase",
-    "url": "https://github.com/smitbarmase",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/37347831?u=1aadea8b01ecc2d2d26c65916ddf764dc23baa4d&v=4",
-    "bio": "",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "zed",
-            "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-            "url": "https://github.com/zed-industries/zed"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "anistark",
     "name": "Ani",
     "url": "https://github.com/anistark",
@@ -5372,6 +5353,25 @@
             "name": "feluda",
             "description": "Detect license usage restrictions in your project!",
             "url": "https://github.com/anistark/feluda"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "smitbarmase",
+    "name": "Smit Barmase",
+    "url": "https://github.com/smitbarmase",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/37347831?u=1aadea8b01ecc2d2d26c65916ddf764dc23baa4d&v=4",
+    "bio": "",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "zed",
+            "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+            "url": "https://github.com/zed-industries/zed"
           }
         }
       ]
@@ -5492,25 +5492,6 @@
     }
   },
   {
-    "login": "Ashrockzzz2003",
-    "name": "Ashwin Narayanan S",
-    "url": "https://github.com/Ashrockzzz2003",
-    "location": "Coimbatore, Tamil Nadu, India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/90165751?u=8047114f130aab651d4629c737c4c66c72165b0e&v=4",
-    "bio": "Curious!",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "anokha_backend",
-            "description": "Anokha 2024 Backend.",
-            "url": "https://github.com/anokha-24/anokha_backend"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "EkaanshArora",
     "name": "Ekaansh Arora",
     "url": "https://github.com/EkaanshArora",
@@ -5524,25 +5505,6 @@
             "name": "meetingsdk-auth-endpoint-sample",
             "description": "Generate a Meeting SDK JWT to join Zoom meetings and webinars with the Meeting SDK.",
             "url": "https://github.com/zoom/meetingsdk-auth-endpoint-sample"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "lordarcadius",
-    "name": "Vipul Jha",
-    "url": "https://github.com/lordarcadius",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/13603567?u=053b2451d0f52633a5588cb100380042dc5d8b19&v=4",
-    "bio": "Android & Flutter Developer\r\n",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "covid19-status-android",
-            "description": "An android app to track COVID-19 status in India and the world with detailed states wise and country-wise data.",
-            "url": "https://github.com/Coders-Of-XDA-OT/covid19-status-android"
           }
         }
       ]
@@ -5568,6 +5530,44 @@
     }
   },
   {
+    "login": "lordarcadius",
+    "name": "Vipul Jha",
+    "url": "https://github.com/lordarcadius",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13603567?u=053b2451d0f52633a5588cb100380042dc5d8b19&v=4",
+    "bio": "Android & Flutter Developer\r\n",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "covid19-status-android",
+            "description": "An android app to track COVID-19 status in India and the world with detailed states wise and country-wise data.",
+            "url": "https://github.com/Coders-Of-XDA-OT/covid19-status-android"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "Ashrockzzz2003",
+    "name": "Ashwin Narayanan S",
+    "url": "https://github.com/Ashrockzzz2003",
+    "location": "Coimbatore, Tamil Nadu, India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90165751?u=8047114f130aab651d4629c737c4c66c72165b0e&v=4",
+    "bio": "Curious!",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "anokha_backend",
+            "description": "Anokha 2024 Backend.",
+            "url": "https://github.com/anokha-24/anokha_backend"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "siddhant-khisty",
     "name": "Siddhant Khisty",
     "url": "https://github.com/siddhant-khisty",
@@ -5587,25 +5587,6 @@
     }
   },
   {
-    "login": "prasathmani",
-    "name": "Prasath Mani",
-    "url": "https://github.com/prasathmani",
-    "location": "Bangalore, India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/11345598?u=59eb549154a5e02970d6be483ea3c63b22453669&v=4",
-    "bio": "Frontend Developer ♥ | JavaScript | React | TypeScript | Next.Js",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "tinyfilemanager",
-            "description": "Single-file PHP file manager, browser and manage your files efficiently and easily with tinyfilemanager",
-            "url": "https://github.com/prasathmani/tinyfilemanager"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "thunder-coding",
     "name": "Yaksh Bariya",
     "url": "https://github.com/thunder-coding",
@@ -5619,6 +5600,25 @@
             "name": "termux-packages",
             "description": "A package build system for Termux.",
             "url": "https://github.com/termux/termux-packages"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "prasathmani",
+    "name": "Prasath Mani",
+    "url": "https://github.com/prasathmani",
+    "location": "Bangalore, India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11345598?u=59eb549154a5e02970d6be483ea3c63b22453669&v=4",
+    "bio": "Frontend Developer ♥ | JavaScript | React | TypeScript | Next.Js",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "tinyfilemanager",
+            "description": "Single-file PHP file manager, browser and manage your files efficiently and easily with tinyfilemanager",
+            "url": "https://github.com/prasathmani/tinyfilemanager"
           }
         }
       ]
@@ -5742,6 +5742,25 @@
     }
   },
   {
+    "login": "PtPrashantTripathi",
+    "name": "Pt. Prashant tripathi",
+    "url": "https://github.com/PtPrashantTripathi",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26687933?u=c646f1f75d4336ec5cad68b54f8057217e7e8641&v=4",
+    "bio": "Programmer • Developer • learner",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "vedic",
+            "description": "vedic is the world's first working Sanskrit programming language",
+            "url": "https://github.com/vedic-lang/vedic"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "ridsuteri",
     "name": "Riddhi Suteri",
     "url": "https://github.com/ridsuteri",
@@ -5774,6 +5793,25 @@
             "name": "HackingTools-2",
             "description": "A collection of awesome lists for hackers, pentesters & security researchers.",
             "url": "https://github.com/ByteHackr/HackingTools-2"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "imjyotiraditya",
+    "name": "Jyotiraditya Panda",
+    "url": "https://github.com/imjyotiraditya",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81803340?u=14b1f191e4db3ec192bd714920057871bc103a8d&v=4",
+    "bio": "🐞 Explorer.",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "grs",
+            "description": "Simple release analytics for GitHub repositories. Visualize release patterns, download statistics, and version history at a glance.",
+            "url": "https://github.com/imjyotiraditya/grs"
           }
         }
       ]
@@ -5818,25 +5856,6 @@
     }
   },
   {
-    "login": "PtPrashantTripathi",
-    "name": "Pt. Prashant tripathi",
-    "url": "https://github.com/PtPrashantTripathi",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/26687933?u=c646f1f75d4336ec5cad68b54f8057217e7e8641&v=4",
-    "bio": "Programmer • Developer • learner",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "vedic",
-            "description": "vedic is the world's first working Sanskrit programming language",
-            "url": "https://github.com/vedic-lang/vedic"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "Nabhag8848",
     "name": "Nabhag Motivaras",
     "url": "https://github.com/Nabhag8848",
@@ -5850,25 +5869,6 @@
             "name": "react-vite-template",
             "description": "Modern React Template with Vite",
             "url": "https://github.com/Nabhag8848/react-vite-template"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "imjyotiraditya",
-    "name": "Jyotiraditya Panda",
-    "url": "https://github.com/imjyotiraditya",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/81803340?u=14b1f191e4db3ec192bd714920057871bc103a8d&v=4",
-    "bio": "🐞 Explorer.",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "grs",
-            "description": "Simple release analytics for GitHub repositories. Visualize release patterns, download statistics, and version history at a glance.",
-            "url": "https://github.com/imjyotiraditya/grs"
           }
         }
       ]
@@ -5989,25 +5989,6 @@
     }
   },
   {
-    "login": "rithvikvibhu",
-    "name": "Rithvik Vibhu",
-    "url": "https://github.com/rithvikvibhu",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/5113343?v=4",
-    "bio": "https://gitlab.com/rithvikvibhu",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "GHLocalApi",
-            "description": "(Unofficial) Google Home local API documentation.",
-            "url": "https://github.com/rithvikvibhu/GHLocalApi"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "deepraj1729",
     "name": "Deepraj Baidya",
     "url": "https://github.com/deepraj1729",
@@ -6027,25 +6008,6 @@
     }
   },
   {
-    "login": "meain",
-    "name": "Abin Simon",
-    "url": "https://github.com/meain",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/14259816?u=554049b4dcf8aaba48dcc4652207db640e052858&v=4",
-    "bio": "Passionate about UX design and optimizing developer workflows.\r\nI mostly like building tools that lets you build other tools.",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "dotfiles",
-            "description": "If there is a shell, there is a way!",
-            "url": "https://github.com/meain/dotfiles"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "kbdharun",
     "name": "K.B.Dharun Krishna",
     "url": "https://github.com/kbdharun",
@@ -6059,6 +6021,44 @@
             "name": "tldr",
             "description": "📚 Collaborative cheatsheets for console commands",
             "url": "https://github.com/tldr-pages/tldr"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "rithvikvibhu",
+    "name": "Rithvik Vibhu",
+    "url": "https://github.com/rithvikvibhu",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5113343?v=4",
+    "bio": "https://gitlab.com/rithvikvibhu",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "GHLocalApi",
+            "description": "(Unofficial) Google Home local API documentation.",
+            "url": "https://github.com/rithvikvibhu/GHLocalApi"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "meain",
+    "name": "Abin Simon",
+    "url": "https://github.com/meain",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14259816?u=554049b4dcf8aaba48dcc4652207db640e052858&v=4",
+    "bio": "Passionate about UX design and optimizing developer workflows.\r\nI mostly like building tools that lets you build other tools.",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "dotfiles",
+            "description": "If there is a shell, there is a way!",
+            "url": "https://github.com/meain/dotfiles"
           }
         }
       ]
@@ -6250,6 +6250,25 @@
     }
   },
   {
+    "login": "AmanVarshney01",
+    "name": "Aman Varshney",
+    "url": "https://github.com/AmanVarshney01",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45312299?u=3153e14a97701a29b37c87c003b1355ded3d189d&v=4",
+    "bio": "\r\n\r\n\r\n",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "create-better-t-stack",
+            "description": "A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations",
+            "url": "https://github.com/AmanVarshney01/create-better-t-stack"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "deepjyoti30",
     "name": "Deepjyoti Barman",
     "url": "https://github.com/deepjyoti30",
@@ -6274,25 +6293,6 @@
             "name": "KLT-Killercoda",
             "description": "The repo contains the structure of the Keptn Lifecycle Toolkit's Killercoda scenario.",
             "url": "https://github.com/SuperAayush/KLT-Killercoda"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "AmanVarshney01",
-    "name": "Aman Varshney",
-    "url": "https://github.com/AmanVarshney01",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/45312299?u=3153e14a97701a29b37c87c003b1355ded3d189d&v=4",
-    "bio": "\r\n\r\n\r\n",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "create-better-t-stack",
-            "description": "A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations",
-            "url": "https://github.com/AmanVarshney01/create-better-t-stack"
           }
         }
       ]
@@ -6622,6 +6622,25 @@
     }
   },
   {
+    "login": "nisargjhaveri",
+    "name": "Nisarg Jhaveri",
+    "url": "https://github.com/nisargjhaveri",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6381721?u=d0e6e679ccfa0f0987b31aea1e970bc15d4d5abd&v=4",
+    "bio": "",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "remote-adb",
+            "description": "Share Android devices for debugging on a remote machine via an easy web interface",
+            "url": "https://github.com/nisargjhaveri/remote-adb"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "RakeshPotnuru",
     "name": "Rakesh Potnuru",
     "url": "https://github.com/RakeshPotnuru",
@@ -6641,19 +6660,19 @@
     }
   },
   {
-    "login": "nisargjhaveri",
-    "name": "Nisarg Jhaveri",
-    "url": "https://github.com/nisargjhaveri",
+    "login": "cybernobie",
+    "name": "CyberNobie",
+    "url": "https://github.com/cybernobie",
     "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/6381721?u=d0e6e679ccfa0f0987b31aea1e970bc15d4d5abd&v=4",
-    "bio": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30187430?u=9a3984faeec0c39f994ced4f6687fcac022d7fa0&v=4",
+    "bio": "Full Stack Developer\r\nIn Love with Python, C, C++, PHP, Java",
     "pinnedItems": {
       "edges": [
         {
           "node": {
-            "name": "remote-adb",
-            "description": "Share Android devices for debugging on a remote machine via an easy web interface",
-            "url": "https://github.com/nisargjhaveri/remote-adb"
+            "name": "markitdown",
+            "description": "Python tool for converting files and office documents to Markdown.",
+            "url": "https://github.com/microsoft/markitdown"
           }
         }
       ]
@@ -6711,25 +6730,6 @@
             "name": "github-readme-stats",
             "description": ":zap: Dynamically generated stats for your github readmes",
             "url": "https://github.com/anuraghazra/github-readme-stats"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "cybernobie",
-    "name": "CyberNobie",
-    "url": "https://github.com/cybernobie",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/30187430?u=9a3984faeec0c39f994ced4f6687fcac022d7fa0&v=4",
-    "bio": "Full Stack Developer\r\nIn Love with Python, C, C++, PHP, Java",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "markitdown",
-            "description": "Python tool for converting files and office documents to Markdown.",
-            "url": "https://github.com/microsoft/markitdown"
           }
         }
       ]
@@ -6825,6 +6825,25 @@
             "name": "farstack",
             "description": "open source library for interacting with Farcaster data using Airstack",
             "url": "https://github.com/dawksh/farstack"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "rohitgr7",
+    "name": "Rohit Gupta",
+    "url": "https://github.com/rohitgr7",
+    "location": "Delhi/Bangalore, India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30778939?u=b5a78f921736482c0e96b4bf52a8413a7c2b76ef&v=4",
+    "bio": "I like to build ML products",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "pytorch-lightning",
+            "description": "Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes.",
+            "url": "https://github.com/Lightning-AI/pytorch-lightning"
           }
         }
       ]
@@ -6937,25 +6956,6 @@
     }
   },
   {
-    "login": "rohitgr7",
-    "name": "Rohit Gupta",
-    "url": "https://github.com/rohitgr7",
-    "location": "Delhi/Bangalore, India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/30778939?u=b5a78f921736482c0e96b4bf52a8413a7c2b76ef&v=4",
-    "bio": "I like to build ML products",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "pytorch-lightning",
-            "description": "Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes.",
-            "url": "https://github.com/Lightning-AI/pytorch-lightning"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "varunsridharan",
     "name": "Varun Sridharan",
     "url": "https://github.com/varunsridharan",
@@ -7051,6 +7051,25 @@
     }
   },
   {
+    "login": "Aunali321",
+    "name": "AunAli K.",
+    "url": "https://github.com/Aunali321",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48486084?u=d1ab9a42909f2aac16c74f706bdd287130cd85db&v=4",
+    "bio": "A 21 year old open-source developer from India. I'm very passionate about AI/ML, reverse engineering and all sorts of music!",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "revanced-manager",
+            "description": "💊 Application to use ReVanced on Android ",
+            "url": "https://github.com/ReVanced/revanced-manager"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "Shubham0850",
     "name": "Shubham Raj",
     "url": "https://github.com/Shubham0850",
@@ -7102,25 +7121,6 @@
             "name": "recyclops",
             "description": "Repository for gdsc solution challenge 2023",
             "url": "https://github.com/ishar19/recyclops"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "Aunali321",
-    "name": "AunAli K.",
-    "url": "https://github.com/Aunali321",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/48486084?u=d1ab9a42909f2aac16c74f706bdd287130cd85db&v=4",
-    "bio": "A 21 year old open-source developer from India. I'm very passionate about AI/ML, reverse engineering and all sorts of music!",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "revanced-manager",
-            "description": "💊 Application to use ReVanced on Android ",
-            "url": "https://github.com/ReVanced/revanced-manager"
           }
         }
       ]
@@ -7241,25 +7241,6 @@
     }
   },
   {
-    "login": "mohammadruman",
-    "name": "Mohammad Ruman",
-    "url": "https://github.com/mohammadruman",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/88760648?u=0b75e4beb63bbf0c089aea139314316820c573e2&v=4",
-    "bio": "\r\nI might not have thumbs but I still love to code ",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "openmrs-esm-core",
-            "description": "The core modules of the OpenMRS 3.0 Frontend system",
-            "url": "https://github.com/mohammadruman/openmrs-esm-core"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "sudhirj",
     "name": "Sudhir Jonathan",
     "url": "https://github.com/sudhirj",
@@ -7336,6 +7317,25 @@
     }
   },
   {
+    "login": "mohammadruman",
+    "name": "Mohammad Ruman",
+    "url": "https://github.com/mohammadruman",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88760648?u=0b75e4beb63bbf0c089aea139314316820c573e2&v=4",
+    "bio": "\r\nI might not have thumbs but I still love to code ",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "openmrs-esm-core",
+            "description": "The core modules of the OpenMRS 3.0 Frontend system",
+            "url": "https://github.com/mohammadruman/openmrs-esm-core"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "urwithajit9",
     "name": "Ajit Kumar",
     "url": "https://github.com/urwithajit9",
@@ -7368,6 +7368,25 @@
             "name": "google-summer-of-code",
             "description": "A summary of my work done during the Google Summer of Code(GSoC)'21 at the organization React Native Elements.",
             "url": "https://github.com/khushal87/google-summer-of-code"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "oyepriyansh",
+    "name": "Priyansh Prajapat ",
+    "url": "https://github.com/oyepriyansh",
+    "location": "Madhya Pradesh, India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83062406?u=04c06480774161b08b2563e243250131eb0cdba9&v=4",
+    "bio": "work in progress",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "DevProfiles",
+            "description": "list your developer profile",
+            "url": "https://github.com/oyepriyansh/DevProfiles"
           }
         }
       ]
@@ -7461,19 +7480,19 @@
     }
   },
   {
-    "login": "oyepriyansh",
-    "name": "Priyansh Prajapat ",
-    "url": "https://github.com/oyepriyansh",
-    "location": "Madhya Pradesh, India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/83062406?u=04c06480774161b08b2563e243250131eb0cdba9&v=4",
-    "bio": "work in progress",
+    "login": "Biki-das",
+    "name": "BIKI DAS",
+    "url": "https://github.com/Biki-das",
+    "location": "Assam,India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72331432?u=3a395bfb44b52134a7585afc7a12712b15186fe9&v=4",
+    "bio": " Tinkering with JavaScript most of the time | love to debug css issues\r\n\r\n",
     "pinnedItems": {
       "edges": [
         {
           "node": {
-            "name": "DevProfiles",
-            "description": "list your developer profile",
-            "url": "https://github.com/oyepriyansh/DevProfiles"
+            "name": "Feedback-App",
+            "description": "A Feedback Board to Manage Work",
+            "url": "https://github.com/Biki-das/Feedback-App"
           }
         }
       ]
@@ -7510,19 +7529,19 @@
     }
   },
   {
-    "login": "Biki-das",
-    "name": "BIKI DAS",
-    "url": "https://github.com/Biki-das",
-    "location": "Assam,India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/72331432?u=3a395bfb44b52134a7585afc7a12712b15186fe9&v=4",
-    "bio": " Tinkering with JavaScript most of the time | love to debug css issues\r\n\r\n",
+    "login": "ritwik12",
+    "name": "Ritwik Sharma",
+    "url": "https://github.com/ritwik12",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20038775?u=365c36b44cc31398b214daecd288f0b449f2b1d6&v=4",
+    "bio": "Learner",
     "pinnedItems": {
       "edges": [
         {
           "node": {
-            "name": "Feedback-App",
-            "description": "A Feedback Board to Manage Work",
-            "url": "https://github.com/Biki-das/Feedback-App"
+            "name": "Virtual-Assistant",
+            "description": "A linux based Virtual assistant on Artificial Intelligence in C",
+            "url": "https://github.com/ritwik12/Virtual-Assistant"
           }
         }
       ]
@@ -7542,25 +7561,6 @@
             "name": "gatsby-theme-andy",
             "description": "A Gatsby theme to build Andy style websites. 📑",
             "url": "https://github.com/aravindballa/gatsby-theme-andy"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "ritwik12",
-    "name": "Ritwik Sharma",
-    "url": "https://github.com/ritwik12",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/20038775?u=365c36b44cc31398b214daecd288f0b449f2b1d6&v=4",
-    "bio": "Learner",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "Virtual-Assistant",
-            "description": "A linux based Virtual assistant on Artificial Intelligence in C",
-            "url": "https://github.com/ritwik12/Virtual-Assistant"
           }
         }
       ]
@@ -7681,19 +7681,19 @@
     }
   },
   {
-    "login": "0xvashishth",
-    "name": "Vashishth Patel",
-    "url": "https://github.com/0xvashishth",
-    "location": "Ahmedabad ,Gujarat (India)",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/76911582?u=a51c724c7945c5c9b0122491c3bca0cb0553fadb&v=4",
-    "bio": "A Developer",
+    "login": "kdpisda",
+    "name": "Kuldeep Pisda",
+    "url": "https://github.com/kdpisda",
+    "location": "Bengaluru, India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22424149?u=55e82a9993b3848955c6186359c886a3ba9e3b19&v=4",
+    "bio": "A boat is safest at the harbor. But it is not a place where it is supposed to be.",
     "pinnedItems": {
       "edges": [
         {
           "node": {
-            "name": "FLIC",
-            "description": "Chat | Link | Form",
-            "url": "https://github.com/0xvashishth/FLIC"
+            "name": "cookiecutter-django-poetry",
+            "description": "Cookiecutter Django Poetry is a framework for jumpstarting production-ready Django projects quickly with Poetry.",
+            "url": "https://github.com/kdpisda/cookiecutter-django-poetry"
           }
         }
       ]
@@ -7719,6 +7719,55 @@
     }
   },
   {
+    "login": "0xvashishth",
+    "name": "Vashishth Patel",
+    "url": "https://github.com/0xvashishth",
+    "location": "Ahmedabad ,Gujarat (India)",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76911582?u=a51c724c7945c5c9b0122491c3bca0cb0553fadb&v=4",
+    "bio": "A Developer",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "FLIC",
+            "description": "Chat | Link | Form",
+            "url": "https://github.com/0xvashishth/FLIC"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "souvikinator",
+    "name": "Souvik Kar Mahapatra",
+    "url": "https://github.com/souvikinator",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64456160?u=fe06e88f6ca31adf3a78de5fd1dc2f2a15a134ed&v=4",
+    "bio": "🛸\r\nI build things (I call them inators) ",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "notion-to-md",
+            "description": "Convert Notion pages, blocks, or entire lists into any format: Markdown, MDX, JSX, HTML, LaTeX, and more. A powerful Notion conversion engine that lets you write once in Notion and publish seamlessly anywhere, in any format. Compatible with your favorite CMS, workflow, static site generator, and beyond.",
+            "url": "https://github.com/souvikinator/notion-to-md"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "krishealty",
+    "name": "Krish Lalwani ",
+    "url": "https://github.com/krishealty",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93068820?u=30e8b892fc9e44be5e869618c7e2f756ab6da7bc&v=4",
+    "bio": "Part time AI, Web, Android development, Cybersecurity, Data Science, Cryptography. Full time football.",
+    "pinnedItems": {
+      "edges": []
+    }
+  },
+  {
     "login": "aromalanil",
     "name": "Aromal Anil",
     "url": "https://github.com/aromalanil",
@@ -7732,25 +7781,6 @@
             "name": "react-rhino",
             "description": "A lightweight global state management library for React.js",
             "url": "https://github.com/aromalanil/react-rhino"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "Logan1x",
-    "name": "Khushal Sharma",
-    "url": "https://github.com/Logan1x",
-    "location": "Udaipur, Rajasthan, India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/10944610?u=d92d0e59f1750758e0d9987ce25b7c127ab9fa21&v=4",
-    "bio": "Software Maker @Strandls. IIIT Delhi MTech'22\r\n",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "Python-Scripts",
-            "description": "Collection of Various Python Script's.💻",
-            "url": "https://github.com/Logan1x/Python-Scripts"
           }
         }
       ]
@@ -7814,17 +7844,6 @@
     }
   },
   {
-    "login": "krishealty",
-    "name": "Krish Lalwani ",
-    "url": "https://github.com/krishealty",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/93068820?u=30e8b892fc9e44be5e869618c7e2f756ab6da7bc&v=4",
-    "bio": "Part time AI, Web, Android development, Cybersecurity, Data Science, Cryptography. Full time football.",
-    "pinnedItems": {
-      "edges": []
-    }
-  },
-  {
     "login": "souvik666",
     "name": "souvik dutta",
     "url": "https://github.com/souvik666",
@@ -7863,6 +7882,25 @@
     }
   },
   {
+    "login": "Logan1x",
+    "name": "Khushal Sharma",
+    "url": "https://github.com/Logan1x",
+    "location": "Udaipur, Rajasthan, India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10944610?u=d92d0e59f1750758e0d9987ce25b7c127ab9fa21&v=4",
+    "bio": "Software Maker @Strandls. IIIT Delhi MTech'22\r\n",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "Python-Scripts",
+            "description": "Collection of Various Python Script's.💻",
+            "url": "https://github.com/Logan1x/Python-Scripts"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "afrozchakure",
     "name": "Afroz Chakure",
     "url": "https://github.com/afrozchakure",
@@ -7876,25 +7914,6 @@
             "name": "Python-Games",
             "description": "Space Invader 👾, Connect4, Snake 🐍, Pong, dodge, To-Do App 🗒️ made using Pygame, Tkinter and Turtle 🐢",
             "url": "https://github.com/afrozchakure/Python-Games"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "souvikinator",
-    "name": "Souvik Kar Mahapatra",
-    "url": "https://github.com/souvikinator",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/64456160?u=fe06e88f6ca31adf3a78de5fd1dc2f2a15a134ed&v=4",
-    "bio": "🛸\r\nI build things (I call them inators) ",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "notion-to-md",
-            "description": "Convert Notion pages, blocks, or entire lists into any format: Markdown, MDX, JSX, HTML, LaTeX, and more. A powerful Notion conversion engine that lets you write once in Notion and publish seamlessly anywhere, in any format. Compatible with your favorite CMS, workflow, static site generator, and beyond.",
-            "url": "https://github.com/souvikinator/notion-to-md"
           }
         }
       ]
@@ -7977,6 +7996,25 @@
     }
   },
   {
+    "login": "rohanprasadofficial",
+    "name": "Rohan Prasad",
+    "url": "https://github.com/rohanprasadofficial",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30728574?u=569cd0cf8bce84a410baf92ae3c15bb9d47b2f0f&v=4",
+    "bio": "Software Engineer at Microsoft, doing opensource in free time !  \r\ni build software & videos. ",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "quotes",
+            "description": "Flutter Package 🤖 :  utility for working with quotes like motivations,entrepreneurial,love etc. and provides access to the top 500 English quotes as of now.",
+            "url": "https://github.com/rohanprasadofficial/quotes"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "victor369basu",
     "name": "Victor Basu",
     "url": "https://github.com/victor369basu",
@@ -8053,44 +8091,6 @@
     }
   },
   {
-    "login": "pranavpandey",
-    "name": "Pranav Pandey",
-    "url": "https://github.com/pranavpandey",
-    "location": "Delhi, India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/1801452?u=4df3636041f7ac0406cb4504080bcb1392124a12&v=4",
-    "bio": "Software Developer & Designer",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "dynamic-utils",
-            "description": "Utility functions to perform dynamic operations on Android. ",
-            "url": "https://github.com/pranavpandey/dynamic-utils"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "rohanprasadofficial",
-    "name": "Rohan Prasad",
-    "url": "https://github.com/rohanprasadofficial",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/30728574?u=a9a288fa710d1435d41a6feb53a9f964b402c9b7&v=4",
-    "bio": "Software Engineer at Microsoft, doing opensource in free time !  \r\ni build software & videos. ",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "quotes",
-            "description": "Flutter Package 🤖 :  utility for working with quotes like motivations,entrepreneurial,love etc. and provides access to the top 500 English quotes as of now.",
-            "url": "https://github.com/rohanprasadofficial/quotes"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "appujet",
     "name": "Appu",
     "url": "https://github.com/appujet",
@@ -8129,6 +8129,25 @@
     }
   },
   {
+    "login": "pranavpandey",
+    "name": "Pranav Pandey",
+    "url": "https://github.com/pranavpandey",
+    "location": "Delhi, India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1801452?u=4df3636041f7ac0406cb4504080bcb1392124a12&v=4",
+    "bio": "Software Developer & Designer",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "dynamic-utils",
+            "description": "Utility functions to perform dynamic operations on Android. ",
+            "url": "https://github.com/pranavpandey/dynamic-utils"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "mulaRahul",
     "name": "Rahul Mula",
     "url": "https://github.com/mulaRahul",
@@ -8161,6 +8180,25 @@
             "name": "arcade",
             "description": "Arcade is a backend framework for Dart developers, focused on simplicity and a streamlined developer experience",
             "url": "https://github.com/dartarcade/arcade"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "JayaKrishnaNamburu",
+    "name": "Jaya Krishna Namburu",
+    "url": "https://github.com/JayaKrishnaNamburu",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11075561?u=9d4de53bdbc552c92b6a3e24082fab4fb169b4ff&v=4",
+    "bio": "Developer | Traveler | Engineering  @userflow 📈 | Previously @teleporthq 🤖 | @codesandbox 📦 ",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "teleport-code-generators",
+            "description": "A collection of code generators for modern JavaScript applications",
+            "url": "https://github.com/teleporthq/teleport-code-generators"
           }
         }
       ]
@@ -8235,25 +8273,6 @@
     }
   },
   {
-    "login": "JayaKrishnaNamburu",
-    "name": "Jaya Krishna Namburu",
-    "url": "https://github.com/JayaKrishnaNamburu",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/11075561?u=9d4de53bdbc552c92b6a3e24082fab4fb169b4ff&v=4",
-    "bio": "Developer | Traveler | Engineering  @userflow 📈 | Previously @teleporthq 🤖 | @codesandbox 📦 ",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "teleport-code-generators",
-            "description": "A collection of code generators for modern JavaScript applications",
-            "url": "https://github.com/teleporthq/teleport-code-generators"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "Sushrut1101",
     "name": "Sushrut1101",
     "url": "https://github.com/Sushrut1101",
@@ -8273,17 +8292,6 @@
     }
   },
   {
-    "login": "Sunil-Lore",
-    "name": "Sunil Kumar",
-    "url": "https://github.com/Sunil-Lore",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/93784794?u=f1afbd3226a00d310bc897b97d84507c69273569&v=4",
-    "bio": "Web Engineer | Internet Marketer | SEO | Freelancer | Author : getcss - An intuitive CSS framework",
-    "pinnedItems": {
-      "edges": []
-    }
-  },
-  {
     "login": "New-dev0",
     "name": "Devesh Pal",
     "url": "https://github.com/New-dev0",
@@ -8297,25 +8305,6 @@
             "name": "TgTwitterStreamer",
             "description": "Continuous Integration from Twitter to Telegram.",
             "url": "https://github.com/New-dev0/TgTwitterStreamer"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "saikishorr",
-    "name": "Saikishor Rasala",
-    "url": "https://github.com/saikishorr",
-    "location": "pune, maharashtra, India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/96971329?u=de2b4e65e92bdfedc2e8b6690c9d4a7d848d4ccd&v=4",
-    "bio": "I make Websites that work for you. \r\n",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "Saikishorr",
-            "description": "Want to know about me then read this repository.",
-            "url": "https://github.com/saikishorr/Saikishorr"
           }
         }
       ]
@@ -8379,6 +8368,25 @@
     }
   },
   {
+    "login": "saikishorr",
+    "name": "Saikishor Rasala",
+    "url": "https://github.com/saikishorr",
+    "location": "pune, maharashtra, India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/96971329?u=de2b4e65e92bdfedc2e8b6690c9d4a7d848d4ccd&v=4",
+    "bio": "I make Websites that work for you. \r\n",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "Saikishorr",
+            "description": "Want to know about me then read this repository.",
+            "url": "https://github.com/saikishorr/Saikishorr"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "megh-bari",
     "name": "Megh Bari",
     "url": "https://github.com/megh-bari",
@@ -8436,6 +8444,17 @@
     }
   },
   {
+    "login": "Sunil-Lore",
+    "name": "Sunil Kumar",
+    "url": "https://github.com/Sunil-Lore",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93784794?u=f1afbd3226a00d310bc897b97d84507c69273569&v=4",
+    "bio": "Web Engineer | Internet Marketer | SEO | Freelancer | Author : getcss - An intuitive CSS framework",
+    "pinnedItems": {
+      "edges": []
+    }
+  },
+  {
     "login": "vivekkj123",
     "name": "Vivek K J",
     "url": "https://github.com/vivekkj123",
@@ -8474,25 +8493,6 @@
     }
   },
   {
-    "login": "navin-moorthy",
-    "name": "Navin Moorthy",
-    "url": "https://github.com/navin-moorthy",
-    "location": "Chennai, India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/39694575?u=4c2cc8fce99d7a7aa964856467ddbebff807b989&v=4",
-    "bio": "👨‍💻 Front End Web Developer\r\n🔥 JavaScript Enthusiast\r\n😍 CSS Lover\r\n⚡️ I just love learning new things",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "react",
-            "description": "Collection of headless components/hooks that are accessible, composable, customizable from low level to build your own UI & Design System powered by Ariakit.",
-            "url": "https://github.com/adaptui/react"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "gamemaker1",
     "name": "Vedant Kulkarni",
     "url": "https://github.com/gamemaker1",
@@ -8506,6 +8506,25 @@
             "name": "express-rate-limit",
             "description": "Basic rate-limiting middleware for the Express web server",
             "url": "https://github.com/express-rate-limit/express-rate-limit"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "navin-moorthy",
+    "name": "Navin Moorthy",
+    "url": "https://github.com/navin-moorthy",
+    "location": "Chennai, India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39694575?u=4c2cc8fce99d7a7aa964856467ddbebff807b989&v=4",
+    "bio": "👨‍💻 Front End Web Developer\r\n🔥 JavaScript Enthusiast\r\n😍 CSS Lover\r\n⚡️ I just love learning new things",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "react",
+            "description": "Collection of headless components/hooks that are accessible, composable, customizable from low level to build your own UI & Design System powered by Ariakit.",
+            "url": "https://github.com/adaptui/react"
           }
         }
       ]
@@ -8607,25 +8626,6 @@
     }
   },
   {
-    "login": "arpancodes",
-    "name": "Arpan Abhishek",
-    "url": "https://github.com/arpancodes",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/42417893?u=3791eb3b3ca707c0ec697ac15af553d6c2b62dbe&v=4",
-    "bio": "creating... 🚀",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "crown-clothing",
-            "description": "An E-Commerce web app built on react",
-            "url": "https://github.com/arpancodes/crown-clothing"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "Pikachuxxxx",
     "name": "Phani Srikar",
     "url": "https://github.com/Pikachuxxxx",
@@ -8645,38 +8645,19 @@
     }
   },
   {
-    "login": "CybernetHacker14",
-    "name": "Ujjwal Raut",
-    "url": "https://github.com/CybernetHacker14",
-    "location": "Bengaluru, Karnataka, India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/26383905?u=41b5f265617d49c435eef4fe09f0fe5e1e03f80b&v=4",
-    "bio": "A graphics programmer interested in coding games and game engines. Check out my projects on GitHub.",
+    "login": "arpancodes",
+    "name": "Arpan Abhishek",
+    "url": "https://github.com/arpancodes",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42417893?u=3791eb3b3ca707c0ec697ac15af553d6c2b62dbe&v=4",
+    "bio": "creating... 🚀",
     "pinnedItems": {
       "edges": [
         {
           "node": {
-            "name": "Sentinel",
-            "description": "DX11 C++14 Game Engine",
-            "url": "https://github.com/CybernetHacker14/Sentinel"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "Ayushd70",
-    "name": "Ayush Dubey",
-    "url": "https://github.com/Ayushd70",
-    "location": "Kolkata,India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/25736781?u=e3954fab2971a0935665086622e980d62946110c&v=4",
-    "bio": "Mobile Engineer @eazyapp-tech Recognized Dev @xda | Android | Web | Flutter | Open Source Enthusiast",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "RetardedCodes",
-            "description": "Some Codes  in Java,  C/C++,  go,  python,, javascript,, dart and kotlin.",
-            "url": "https://github.com/Ayushd70/RetardedCodes"
+            "name": "crown-clothing",
+            "description": "An E-Commerce web app built on react",
+            "url": "https://github.com/arpancodes/crown-clothing"
           }
         }
       ]
@@ -8715,6 +8696,44 @@
             "name": "Gist-Blog-Generator",
             "description": "Gist-Blog Generator is a web app for crafting polished Markdown blogs, ready for GitHub Gists and similar platforms.",
             "url": "https://github.com/XynoxTheDev/Gist-Blog-Generator"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "CybernetHacker14",
+    "name": "Ujjwal Raut",
+    "url": "https://github.com/CybernetHacker14",
+    "location": "Bengaluru, Karnataka, India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26383905?u=41b5f265617d49c435eef4fe09f0fe5e1e03f80b&v=4",
+    "bio": "A graphics programmer interested in coding games and game engines. Check out my projects on GitHub.",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "Sentinel",
+            "description": "DX11 C++14 Game Engine",
+            "url": "https://github.com/CybernetHacker14/Sentinel"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "Ayushd70",
+    "name": "Ayush Dubey",
+    "url": "https://github.com/Ayushd70",
+    "location": "Kolkata,India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25736781?u=e3954fab2971a0935665086622e980d62946110c&v=4",
+    "bio": "Mobile Engineer @eazyapp-tech Recognized Dev @xda | Android | Web | Flutter | Open Source Enthusiast",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "RetardedCodes",
+            "description": "Some Codes  in Java,  C/C++,  go,  python,, javascript,, dart and kotlin.",
+            "url": "https://github.com/Ayushd70/RetardedCodes"
           }
         }
       ]
@@ -8936,19 +8955,19 @@
     }
   },
   {
-    "login": "pavankjadda",
-    "name": "Pavan Kumar Jadda",
-    "url": "https://github.com/pavankjadda",
-    "location": "India -> McLean, VA(USA)",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/17564080?u=acad76048d215c9c1bd4914a7e1e4ebc02f5e1a2&v=4",
-    "bio": "Full Stack Developer (Java, Angular and React)",
+    "login": "Shriharsh-Deshmukh",
+    "name": "Shriharsh",
+    "url": "https://github.com/Shriharsh-Deshmukh",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/147980267?v=4",
+    "bio": "👋 Hello there! I am a passionate software developer with a knack for problem-solving and a love for writing clean and efficient code.",
     "pinnedItems": {
       "edges": [
         {
           "node": {
-            "name": "LiquibaseDemo",
-            "description": "Safely Evolute Database with Liquibase and Spring Boot",
-            "url": "https://github.com/pavankjadda/LiquibaseDemo"
+            "name": "DataVerseMagic",
+            "description": "Welcome to the DataVerseMagic (Database Management System Repository).",
+            "url": "https://github.com/Shriharsh-Deshmukh/DataVerseMagic"
           }
         }
       ]
@@ -8974,19 +8993,19 @@
     }
   },
   {
-    "login": "Shriharsh-Deshmukh",
-    "name": "Shriharsh",
-    "url": "https://github.com/Shriharsh-Deshmukh",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/147980267?v=4",
-    "bio": "👋 Hello there! I am a passionate software developer with a knack for problem-solving and a love for writing clean and efficient code.",
+    "login": "pavankjadda",
+    "name": "Pavan Kumar Jadda",
+    "url": "https://github.com/pavankjadda",
+    "location": "India -> McLean, VA(USA)",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17564080?u=acad76048d215c9c1bd4914a7e1e4ebc02f5e1a2&v=4",
+    "bio": "Full Stack Developer (Java, Angular and React)",
     "pinnedItems": {
       "edges": [
         {
           "node": {
-            "name": "DataVerseMagic",
-            "description": "Welcome to the DataVerseMagic (Database Management System Repository).",
-            "url": "https://github.com/Shriharsh-Deshmukh/DataVerseMagic"
+            "name": "LiquibaseDemo",
+            "description": "Safely Evolute Database with Liquibase and Spring Boot",
+            "url": "https://github.com/pavankjadda/LiquibaseDemo"
           }
         }
       ]
@@ -9025,6 +9044,25 @@
             "name": "foody-monk",
             "description": "This is food ordering web app build using MERN stack",
             "url": "https://github.com/alokVerma749/foody-monk"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "ShreyamMaity",
+    "name": "Shreyam Maity",
+    "url": "https://github.com/ShreyamMaity",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38105595?u=7e72853e7ac42f87238ba5646dc0beddf83e2350&v=4",
+    "bio": "Software Developer, Freelancer, GDSC NSEC App lead",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "Assignmenty",
+            "description": "Just Code and Push , Leave The Assignment Part on us....",
+            "url": "https://github.com/ShreyamMaity/Assignmenty"
           }
         }
       ]
@@ -9107,25 +9145,6 @@
     }
   },
   {
-    "login": "ShreyamMaity",
-    "name": "Shreyam Maity",
-    "url": "https://github.com/ShreyamMaity",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/38105595?u=7e72853e7ac42f87238ba5646dc0beddf83e2350&v=4",
-    "bio": "Software Developer, Freelancer, GDSC NSEC App lead",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "Assignmenty",
-            "description": "Just Code and Push , Leave The Assignment Part on us....",
-            "url": "https://github.com/ShreyamMaity/Assignmenty"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "iayanpahwa",
     "name": "Ayan Pahwa",
     "url": "https://github.com/iayanpahwa",
@@ -9202,6 +9221,25 @@
     }
   },
   {
+    "login": "shub39",
+    "name": "shub39",
+    "url": "https://github.com/shub39",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/143277026?u=17636767d0fe7212026f0d0cbe4a7475a9d46896&v=4",
+    "bio": "Android dev and Linux nerd",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "Rush",
+            "description": "✨ App to search, save and share lyrics like spotify! ",
+            "url": "https://github.com/shub39/Rush"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "aachal28",
     "name": "Aachal Pardeshi",
     "url": "https://github.com/aachal28",
@@ -9272,25 +9310,6 @@
             "name": "mywebshortcuts",
             "description": "The Browser Extension to create Custom Keyboard Shortcuts on the web 🌎💻",
             "url": "https://github.com/mywebshortcuts/mywebshortcuts"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "shub39",
-    "name": "shub39",
-    "url": "https://github.com/shub39",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/143277026?u=17636767d0fe7212026f0d0cbe4a7475a9d46896&v=4",
-    "bio": "Android dev and Linux nerd",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "Rush",
-            "description": "✨ App to search, save and share lyrics like spotify! ",
-            "url": "https://github.com/shub39/Rush"
           }
         }
       ]
@@ -9411,17 +9430,6 @@
     }
   },
   {
-    "login": "ryanjon2040",
-    "name": "Satheesh (ryanjon2040)",
-    "url": "https://github.com/ryanjon2040",
-    "location": "Mumbai, India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/5410301?u=21886305eddfac35ba60c19e2157de07d968534e&v=4",
-    "bio": "In love with @EpicGames Unreal Engine.",
-    "pinnedItems": {
-      "edges": []
-    }
-  },
-  {
     "login": "Saif807380",
     "name": "Saif Kazi",
     "url": "https://github.com/Saif807380",
@@ -9438,6 +9446,17 @@
           }
         }
       ]
+    }
+  },
+  {
+    "login": "ryanjon2040",
+    "name": "Satheesh (ryanjon2040)",
+    "url": "https://github.com/ryanjon2040",
+    "location": "Mumbai, India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5410301?u=21886305eddfac35ba60c19e2157de07d968534e&v=4",
+    "bio": "In love with @EpicGames Unreal Engine.",
+    "pinnedItems": {
+      "edges": []
     }
   },
   {
@@ -9555,25 +9574,6 @@
     }
   },
   {
-    "login": "SRX9",
-    "name": "Raj Savaliya",
-    "url": "https://github.com/SRX9",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/46242040?u=9ee8e75ce236e50144c5992c955664822b8f2ec3&v=4",
-    "bio": "Software Engineer II | Product Engineer",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "VS-Code-Theme-Portfolio",
-            "description": "Visual Studio Code Themed Developer Portfolio",
-            "url": "https://github.com/SRX-OSS/VS-Code-Theme-Portfolio"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "immadisairaj",
     "name": "Sai Rajendra Immadi",
     "url": "https://github.com/immadisairaj",
@@ -9587,6 +9587,25 @@
             "name": "radiosai",
             "description": "A radio player mobile application which streams audio from Radio Sai Global Harmony.",
             "url": "https://github.com/immadisairaj/radiosai"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "SRX9",
+    "name": "Raj Savaliya",
+    "url": "https://github.com/SRX9",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46242040?u=9ee8e75ce236e50144c5992c955664822b8f2ec3&v=4",
+    "bio": "Software Engineer II | Product Engineer",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "VS-Code-Theme-Portfolio",
+            "description": "Visual Studio Code Themed Developer Portfolio",
+            "url": "https://github.com/SRX-OSS/VS-Code-Theme-Portfolio"
           }
         }
       ]
@@ -9726,25 +9745,6 @@
     }
   },
   {
-    "login": "soummyaanon",
-    "name": "Soumyaranjan Panda",
-    "url": "https://github.com/soummyaanon",
-    "location": "Bangalore, India ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/91568463?u=0348c4dc9f84c0e066f4a4edab32302d5c7db292&v=4",
-    "bio": "S.I.H 2023 🏆   | AI Software Engineer | Freelancer | Tech Enthusiast 💻.   Building @Aarekhit-AI ",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "-noteX",
-            "description": "This Is My latest project Using React.js Appwrite ShadCN-Ui,AccernityUi, Framer, TailWindCss this is A Personal Ai Powerd Note taking App powerd By Google Geminie Pro It is Still in development Phase but ya  test it and give me you valuable feedback guys . Happy Coding",
-            "url": "https://github.com/soummyaanon/-noteX"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "sayak-sarkar",
     "name": "Sayak Sarkar",
     "url": "https://github.com/sayak-sarkar",
@@ -9777,25 +9777,6 @@
             "name": "HextaUI",
             "description": "Modern, responsive, and customizable UI components for Next.js. Copy, adapt, and personalize them.",
             "url": "https://github.com/preetsuthar17/HextaUI"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "Rajaniraiyn",
-    "name": "Rajaniraiyn R",
-    "url": "https://github.com/Rajaniraiyn",
-    "location": "Tamil Nadu, India.",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/72294760?u=0bae680c5b996825fe3bda98e0c0ee52067e68ef&v=4",
-    "bio": "Tech Enthusiast with passion for Everything!",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "raj-browser",
-            "description": "A UI and privacy focussed browser for the web from the web.",
-            "url": "https://github.com/Rajaniraiyn/raj-browser"
           }
         }
       ]
@@ -9840,6 +9821,25 @@
     }
   },
   {
+    "login": "Rajaniraiyn",
+    "name": "Rajaniraiyn R",
+    "url": "https://github.com/Rajaniraiyn",
+    "location": "Tamil Nadu, India.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72294760?u=0bae680c5b996825fe3bda98e0c0ee52067e68ef&v=4",
+    "bio": "Tech Enthusiast with passion for Everything!",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "raj-browser",
+            "description": "A UI and privacy focussed browser for the web from the web.",
+            "url": "https://github.com/Rajaniraiyn/raj-browser"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "codeaashu",
     "name": "Ashutosh Kumar",
     "url": "https://github.com/codeaashu",
@@ -9878,6 +9878,25 @@
     }
   },
   {
+    "login": "ALEX5402",
+    "name": "Alex",
+    "url": "https://github.com/ALEX5402",
+    "location": "Kolkata INDIA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76860596?u=67fe2c7575ca9b06cb599397d92b2639ce2638e6&v=4",
+    "bio": "Learning from my mistakes",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "dotfiles",
+            "description": "my personal arch linux dotfiles inspired from hyprdots ",
+            "url": "https://github.com/ALEX5402/dotfiles"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "KislayKashyap-hub",
     "name": "Kislay Kumar",
     "url": "https://github.com/KislayKashyap-hub",
@@ -9897,19 +9916,19 @@
     }
   },
   {
-    "login": "agam778",
-    "name": "Agampreet Singh",
-    "url": "https://github.com/agam778",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/68941022?u=9892bcfc3caee941cddfce5a900a80955787e4e4&v=4",
-    "bio": "Hi, I'm Agampreet Singh, a self taught coder from India :)",
+    "login": "soummyaanon",
+    "name": "Soumyaranjan Panda",
+    "url": "https://github.com/soummyaanon",
+    "location": "Bangalore, India ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91568463?u=0348c4dc9f84c0e066f4a4edab32302d5c7db292&v=4",
+    "bio": "S.I.H 2023 🏆   | AI Software Engineer | Freelancer | Tech Enthusiast 💻.   Building @Aarekhit-AI ",
     "pinnedItems": {
       "edges": [
         {
           "node": {
-            "name": "MS-365-Electron",
-            "description": "Unofficial Microsoft 365 Web Desktop Wrapper made with Electron",
-            "url": "https://github.com/agam778/MS-365-Electron"
+            "name": "-noteX",
+            "description": "This Is My latest project Using React.js Appwrite ShadCN-Ui,AccernityUi, Framer, TailWindCss this is A Personal Ai Powerd Note taking App powerd By Google Geminie Pro It is Still in development Phase but ya  test it and give me you valuable feedback guys . Happy Coding",
+            "url": "https://github.com/soummyaanon/-noteX"
           }
         }
       ]
@@ -9973,25 +9992,6 @@
     }
   },
   {
-    "login": "ALEX5402",
-    "name": "Alex",
-    "url": "https://github.com/ALEX5402",
-    "location": "Kolkata INDIA",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/76860596?u=67fe2c7575ca9b06cb599397d92b2639ce2638e6&v=4",
-    "bio": "Learning from my mistakes",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "dotfiles",
-            "description": "my personal arch linux dotfiles inspired from hyprdots ",
-            "url": "https://github.com/ALEX5402/dotfiles"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "nixrajput",
     "name": "Nikhil Rajput",
     "url": "https://github.com/nixrajput",
@@ -10005,6 +10005,25 @@
             "name": "social-media-app-flutter",
             "description": "Rippl is a social media application developed using Flutter and managed with the GetX state management tool. It vows to revolutionize your social engagements by offering a smooth and immersive experience.",
             "url": "https://github.com/nixrajput/social-media-app-flutter"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "Saikrishna1504",
+    "name": "Sai krishna",
+    "url": "https://github.com/Saikrishna1504",
+    "location": "Andhra Pradesh, India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/107762536?u=2f5f201b9d97e3894c76f69cb3c9727cf7baef42&v=4",
+    "bio": "Student/Developer from India !!\r\nInterested in customOS development for android.",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "device_redmi_begonia",
+            "description": "begonia: Device Tree for Redmi Note 8 Pro",
+            "url": "https://github.com/Saikrishna1504/device_redmi_begonia"
           }
         }
       ]
@@ -10068,6 +10087,44 @@
     }
   },
   {
+    "login": "agam778",
+    "name": "Agampreet Singh",
+    "url": "https://github.com/agam778",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/68941022?u=9892bcfc3caee941cddfce5a900a80955787e4e4&v=4",
+    "bio": "Hi, I'm Agampreet Singh, a self taught coder from India :)",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "MS-365-Electron",
+            "description": "Unofficial Microsoft 365 Web Desktop Wrapper made with Electron",
+            "url": "https://github.com/agam778/MS-365-Electron"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "RohitKushvaha01",
+    "name": "Rohit Kushvaha",
+    "url": "https://github.com/RohitKushvaha01",
+    "location": "India, Madhya Pradesh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99863818?u=b77190b03c1ea2d8c66dc268bf19cfc35e41f0c2&v=4",
+    "bio": "",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "Acode",
+            "description": "Acode - powerful text/code editor for android",
+            "url": "https://github.com/Acode-Foundation/Acode"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "subh05sus",
     "name": "Subhadip Saha",
     "url": "https://github.com/subh05sus",
@@ -10125,25 +10182,6 @@
     }
   },
   {
-    "login": "Saikrishna1504",
-    "name": "Sai krishna",
-    "url": "https://github.com/Saikrishna1504",
-    "location": "Andhra Pradesh, India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/107762536?u=2f5f201b9d97e3894c76f69cb3c9727cf7baef42&v=4",
-    "bio": "Student/Developer from India !!\r\nInterested in customOS development for android.",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "device_redmi_begonia",
-            "description": "begonia: Device Tree for Redmi Note 8 Pro",
-            "url": "https://github.com/Saikrishna1504/device_redmi_begonia"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "subhashhhhhh",
     "name": "Subhash",
     "url": "https://github.com/subhashhhhhh",
@@ -10176,25 +10214,6 @@
             "name": "OSWeekend-Web",
             "description": "Welcome to the Open Source Weekend (OSW)  Web Portal!",
             "url": "https://github.com/oscfcommunity/OSWeekend-Web"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "RohitKushvaha01",
-    "name": "Rohit Kushvaha",
-    "url": "https://github.com/RohitKushvaha01",
-    "location": "India, Madhya Pradesh",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/99863818?u=b77190b03c1ea2d8c66dc268bf19cfc35e41f0c2&v=4",
-    "bio": "",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "Acode",
-            "description": "Acode - powerful text/code editor for android",
-            "url": "https://github.com/Acode-Foundation/Acode"
           }
         }
       ]
@@ -10364,6 +10383,25 @@
     }
   },
   {
+    "login": "clearlysid",
+    "name": "Siddharth",
+    "url": "https://github.com/clearlysid",
+    "location": "Bangalore, India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30227512?u=8f1e4dfdf3a73ec4f904d5a76e56bc82b81bf814&v=4",
+    "bio": "craftsperson @helmerapp ✱ building creative tools for creative people.",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "scap",
+            "description": "High-performance, cross-platform screen capture library in Rust.",
+            "url": "https://github.com/CapSoftware/scap"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "anupamhaldkar",
     "name": "Anupam Haldkar",
     "url": "https://github.com/anupamhaldkar",
@@ -10415,44 +10453,6 @@
             "name": "kubespray",
             "description": "Deploy a Production Ready Kubernetes Cluster",
             "url": "https://github.com/kubernetes-sigs/kubespray"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "rahulvramesh",
-    "name": "Rahul V Ramesh",
-    "url": "https://github.com/rahulvramesh",
-    "location": "India / Indonesia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/4546714?u=64c6f90e38c4099422cec38ed5c901e50a400a94&v=4",
-    "bio": "I need it, so I built it 🚀 🐼 ",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "MailbayPi-Backend",
-            "description": "Tiny SMTP server for raspberry-pi, used for Temp Mail",
-            "url": "https://github.com/rahulvramesh/MailbayPi-Backend"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "clearlysid",
-    "name": "Siddharth",
-    "url": "https://github.com/clearlysid",
-    "location": "Bangalore, India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/30227512?u=8f1e4dfdf3a73ec4f904d5a76e56bc82b81bf814&v=4",
-    "bio": "craftsperson @helmerapp ✱ building creative tools for creative people.",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "scap",
-            "description": "High-performance, cross-platform screen capture library in Rust.",
-            "url": "https://github.com/CapSoftware/scap"
           }
         }
       ]
@@ -10573,6 +10573,25 @@
     }
   },
   {
+    "login": "rahulvramesh",
+    "name": "Rahul V Ramesh",
+    "url": "https://github.com/rahulvramesh",
+    "location": "India / Indonesia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4546714?u=64c6f90e38c4099422cec38ed5c901e50a400a94&v=4",
+    "bio": "I need it, so I built it 🚀 🐼 ",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "MailbayPi-Backend",
+            "description": "Tiny SMTP server for raspberry-pi, used for Temp Mail",
+            "url": "https://github.com/rahulvramesh/MailbayPi-Backend"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "ArkaprabhaChakraborty",
     "name": "Arkaprabha Chakraborty",
     "url": "https://github.com/ArkaprabhaChakraborty",
@@ -10611,6 +10630,25 @@
     }
   },
   {
+    "login": "DevSrijit",
+    "name": "Srijit",
+    "url": "https://github.com/DevSrijit",
+    "location": "Kolkata, India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89468732?u=a2fd93631410a7357f3baf52ab34df0d87d46e70&v=4",
+    "bio": "Hi ! I'm a 17 year old front end developer, hardware geek, and technologist !",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "WLED-Ambient-Lighting",
+            "description": "Transform your environment with a real-time ambient lighting controller that extends your screen's visuals onto a WLED-enabled LED matrix, creating an immersive and dynamic lighting experience.",
+            "url": "https://github.com/DevSrijit/WLED-Ambient-Lighting"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "snehilvj",
     "name": "Snehil Vijay",
     "url": "https://github.com/snehilvj",
@@ -10641,19 +10679,19 @@
     }
   },
   {
-    "login": "DevSrijit",
-    "name": "Srijit",
-    "url": "https://github.com/DevSrijit",
-    "location": "Kolkata, India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/89468732?u=a2fd93631410a7357f3baf52ab34df0d87d46e70&v=4",
-    "bio": "Hi ! I'm a 17 year old front end developer, hardware geek, and technologist !",
+    "login": "Hemu21",
+    "name": "Hemanth kumar ",
+    "url": "https://github.com/Hemu21",
+    "location": "Guntur, Andhra Pradesh, India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106808387?u=0d87bd136cf087ff692b65aa728c0257fadba2fe&v=4",
+    "bio": "Ex-Program Manager - Tech Lead @ GSSoC Ext | Top 3 GSSoC'24 Performer | MERN Stack & Next.js Developer | Blockchain Enthusiast | Open Source Contributor",
     "pinnedItems": {
       "edges": [
         {
           "node": {
-            "name": "WLED-Ambient-Lighting",
-            "description": "Transform your environment with a real-time ambient lighting controller that extends your screen's visuals onto a WLED-enabled LED matrix, creating an immersive and dynamic lighting experience.",
-            "url": "https://github.com/DevSrijit/WLED-Ambient-Lighting"
+            "name": "Hemu21",
+            "description": null,
+            "url": "https://github.com/Hemu21/Hemu21"
           }
         }
       ]
@@ -10679,19 +10717,19 @@
     }
   },
   {
-    "login": "krey-yon",
-    "name": "Vikas",
-    "url": "https://github.com/krey-yon",
+    "login": "tayalmanan28",
+    "name": "Manan Tayal",
+    "url": "https://github.com/tayalmanan28",
     "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/101702902?u=8b70fdcb5579f5be0b8eb937b67c7cc89f2a8842&v=4",
-    "bio": "LPU 2nd Year",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42448031?u=fc0700b749d3d2fc8f935bb65e7a8dc00f673bb7&v=4",
+    "bio": "Robotics PhD Student @StochLab IISc Bangalore | Siemens | IIT Bombay'21",
     "pinnedItems": {
       "edges": [
         {
           "node": {
-            "name": "Cliven",
-            "description": "Chat with your PDFs using local AI models  Process PDF documents and have interactive conversations with their content. Everything runs locally - no data leaves your machine.",
-            "url": "https://github.com/krey-yon/Cliven"
+            "name": "MuJoCo-Tutorial",
+            "description": "Tutorial on how to get started with MuJoCo Simulation Platform. MuJoCo stands for Multi-Joint dynamics with Contact. It was acquired and made freely available by DeepMind in October 2021, and open sourced in May 2022. Feel free to contribute. Show your support by ✨this repository.",
+            "url": "https://github.com/tayalmanan28/MuJoCo-Tutorial"
           }
         }
       ]
@@ -10755,19 +10793,19 @@
     }
   },
   {
-    "login": "Hemu21",
-    "name": "Hemanth kumar ",
-    "url": "https://github.com/Hemu21",
-    "location": "Guntur, Andhra Pradesh, India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/106808387?u=0d87bd136cf087ff692b65aa728c0257fadba2fe&v=4",
-    "bio": "Ex-Program Manager - Tech Lead @ GSSoC Ext | Top 3 GSSoC'24 Performer | MERN Stack & Next.js Developer | Blockchain Enthusiast | Open Source Contributor",
+    "login": "rahul-vashishtha",
+    "name": "Rahul Vashishtha",
+    "url": "https://github.com/rahul-vashishtha",
+    "location": "Gurugram, Haryana, India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25490173?u=aeb72626d9a2204da40b1b32da43e9a212f2a200&v=4",
+    "bio": "Codoholic",
     "pinnedItems": {
       "edges": [
         {
           "node": {
-            "name": "Hemu21",
-            "description": null,
-            "url": "https://github.com/Hemu21/Hemu21"
+            "name": "inspira-ui",
+            "description": "Build beautiful website using Vue & Nuxt.",
+            "url": "https://github.com/unovue/inspira-ui"
           }
         }
       ]
@@ -10812,19 +10850,19 @@
     }
   },
   {
-    "login": "tayalmanan28",
-    "name": "Manan Tayal",
-    "url": "https://github.com/tayalmanan28",
+    "login": "krey-yon",
+    "name": "Vikas",
+    "url": "https://github.com/krey-yon",
     "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/42448031?u=fc0700b749d3d2fc8f935bb65e7a8dc00f673bb7&v=4",
-    "bio": "Robotics PhD Student @StochLab IISc Bangalore | Siemens | IIT Bombay'21",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/101702902?u=8b70fdcb5579f5be0b8eb937b67c7cc89f2a8842&v=4",
+    "bio": "LPU 2nd Year",
     "pinnedItems": {
       "edges": [
         {
           "node": {
-            "name": "MuJoCo-Tutorial",
-            "description": "Tutorial on how to get started with MuJoCo Simulation Platform. MuJoCo stands for Multi-Joint dynamics with Contact. It was acquired and made freely available by DeepMind in October 2021, and open sourced in May 2022. Feel free to contribute. Show your support by ✨this repository.",
-            "url": "https://github.com/tayalmanan28/MuJoCo-Tutorial"
+            "name": "Cliven",
+            "description": "Chat with your PDFs using local AI models  Process PDF documents and have interactive conversations with their content. Everything runs locally - no data leaves your machine.",
+            "url": "https://github.com/krey-yon/Cliven"
           }
         }
       ]
@@ -10882,6 +10920,25 @@
             "name": "Music-Concert-Website",
             "description": "Band of Shankar-Ehsaan-Loy website",
             "url": "https://github.com/NerdyWithZainab/Music-Concert-Website"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "mukeshpanchal27",
+    "name": "Mukesh Panchal",
+    "url": "https://github.com/mukeshpanchal27",
+    "location": "Ahmedabad, Gujarat, India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10103365?u=0a3c1436b8706e65d0d73f482cdc2ab6e2439181&v=4",
+    "bio": "@WordPress 6.5, 6.7 Performance Lead | 6.3, 6.2 Core Triage Co-Leads | 15th times Noteworthy Contributor | Senior Web Engineer",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "wordpress-develop",
+            "description": "WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.",
+            "url": "https://github.com/WordPress/wordpress-develop"
           }
         }
       ]
@@ -11013,25 +11070,6 @@
     }
   },
   {
-    "login": "rahul-vashishtha",
-    "name": "Rahul Vashishtha",
-    "url": "https://github.com/rahul-vashishtha",
-    "location": "Gurugram, Haryana, India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/25490173?u=aeb72626d9a2204da40b1b32da43e9a212f2a200&v=4",
-    "bio": "Codoholic",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "inspira-ui",
-            "description": "Build beautiful website using Vue & Nuxt.",
-            "url": "https://github.com/unovue/inspira-ui"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "OjusWiZard",
     "name": "Ojuswi Rastogi",
     "url": "https://github.com/OjusWiZard",
@@ -11045,25 +11083,6 @@
             "name": "rotki",
             "description": "A portfolio tracking, analytics, accounting and management application that protects your privacy",
             "url": "https://github.com/rotki/rotki"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "mukeshpanchal27",
-    "name": "Mukesh Panchal",
-    "url": "https://github.com/mukeshpanchal27",
-    "location": "Ahmedabad, Gujarat, India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/10103365?u=0a3c1436b8706e65d0d73f482cdc2ab6e2439181&v=4",
-    "bio": "@WordPress 6.5, 6.7 Performance Lead | 6.3, 6.2 Core Triage Co-Leads | 15th times Noteworthy Contributor | Senior Web Engineer",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "wordpress-develop",
-            "description": "WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.",
-            "url": "https://github.com/WordPress/wordpress-develop"
           }
         }
       ]
@@ -11157,25 +11176,6 @@
     }
   },
   {
-    "login": "alphaX86",
-    "name": "Aadhitya A",
-    "url": "https://github.com/alphaX86",
-    "location": "Chennai, India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/59508546?u=2bf6618f8703c63c0315a252228d0ab511bbb1ae&v=4",
-    "bio": "23 y/o software engineer \r\n\r\n\r\n\r\n",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "meshery",
-            "description": "Meshery, the cloud native manager",
-            "url": "https://github.com/meshery/meshery"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "onkar69483",
     "name": "Onkar Mendhapurkar",
     "url": "https://github.com/onkar69483",
@@ -11189,6 +11189,25 @@
             "name": "Scribly",
             "description": "Scribly The Ultimate YouTube Notes & Annotation Extension Scribly is a powerful browser extension that allows users to take timestamped notes, draw, highlight, add shapes, and capture screenshots directly on YouTube videos. Manage all your annotations in a centralized dashboard. Try on Firefox https://addons.mozilla.org/en-US/firefox/addon/scribly",
             "url": "https://github.com/onkar69483/Scribly"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "alphaX86",
+    "name": "Aadhitya A",
+    "url": "https://github.com/alphaX86",
+    "location": "Chennai, India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59508546?u=2bf6618f8703c63c0315a252228d0ab511bbb1ae&v=4",
+    "bio": "23 y/o software engineer \r\n\r\n\r\n\r\n",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "meshery",
+            "description": "Meshery, the cloud native manager",
+            "url": "https://github.com/meshery/meshery"
           }
         }
       ]
@@ -11282,25 +11301,6 @@
     }
   },
   {
-    "login": "TheRakeshPurohit",
-    "name": "Rakesh Harishbhai Purohit",
-    "url": "https://github.com/TheRakeshPurohit",
-    "location": "Surat, Gujarat, India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/26131905?u=06919f7ac5c5bb5d816069abdfad68048f32c99e&v=4",
-    "bio": "React, AST, Babel, TypeScript, NextJS, Browser, Frontend tooling? I‘m in.\r\n\r\n\r\n          SDE-III & the protagonist @DhiWise",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "water-reminder",
-            "description": "Water Reminder is an extension which will force you to drink water after every hour you spend on your screen.",
-            "url": "https://github.com/TheRakeshPurohit/water-reminder"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "divshekhar",
     "name": "Divyanshu Shekhar",
     "url": "https://github.com/divshekhar",
@@ -11320,19 +11320,19 @@
     }
   },
   {
-    "login": "PmsHere",
-    "name": "PmsHere",
-    "url": "https://github.com/PmsHere",
-    "location": "Kerala, india",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/72794063?u=963be4eb6a7a1d38922228d440a1ca1174e080f3&v=4",
-    "bio": "Ay da yalnızdır, ama yine de parlayır",
+    "login": "TheRakeshPurohit",
+    "name": "Rakesh Harishbhai Purohit",
+    "url": "https://github.com/TheRakeshPurohit",
+    "location": "Surat, Gujarat, India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26131905?u=06919f7ac5c5bb5d816069abdfad68048f32c99e&v=4",
+    "bio": "React, AST, Babel, TypeScript, NextJS, Browser, Frontend tooling? I‘m in.\r\n\r\n\r\n          SDE-III & the protagonist @DhiWise",
     "pinnedItems": {
       "edges": [
         {
           "node": {
-            "name": "ReportRobot",
-            "description": null,
-            "url": "https://github.com/PmsHere/ReportRobot"
+            "name": "water-reminder",
+            "description": "Water Reminder is an extension which will force you to drink water after every hour you spend on your screen.",
+            "url": "https://github.com/TheRakeshPurohit/water-reminder"
           }
         }
       ]
@@ -11453,19 +11453,19 @@
     }
   },
   {
-    "login": "Khanmanan",
-    "name": "Cwkhan",
-    "url": "https://github.com/Khanmanan",
-    "location": "New Delhi India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/65243374?u=d0945d76f37315ef37c89eaea21172282bf04e56&v=4",
-    "bio": "",
+    "login": "PmsHere",
+    "name": "PmsHere",
+    "url": "https://github.com/PmsHere",
+    "location": "Kerala, india",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72794063?u=963be4eb6a7a1d38922228d440a1ca1174e080f3&v=4",
+    "bio": "Ay da yalnızdır, ama yine de parlayır",
     "pinnedItems": {
       "edges": [
         {
           "node": {
-            "name": "automod-bot",
-            "description": "Moderation bot discord",
-            "url": "https://github.com/Khanmanan/automod-bot"
+            "name": "ReportRobot",
+            "description": null,
+            "url": "https://github.com/PmsHere/ReportRobot"
           }
         }
       ]
@@ -11485,6 +11485,25 @@
             "name": "portfolio-website",
             "description": "Personal portfolio website, build with NextJs, TypeScript & Tailwindcss",
             "url": "https://github.com/vatsalsinghkv/portfolio-website"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "Khanmanan",
+    "name": "Cwkhan",
+    "url": "https://github.com/Khanmanan",
+    "location": "New Delhi India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65243374?u=d0945d76f37315ef37c89eaea21172282bf04e56&v=4",
+    "bio": ":india: ",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "automod-bot",
+            "description": "Moderation bot discord",
+            "url": "https://github.com/Khanmanan/automod-bot"
           }
         }
       ]
@@ -11548,6 +11567,17 @@
     }
   },
   {
+    "login": "FatGrizzly",
+    "name": "Soundarahari Parthiban",
+    "url": "https://github.com/FatGrizzly",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66728880?u=5c26cfb67c9dc023dcbbb35a3392f6e11adee460&v=4",
+    "bio": "linux sys ",
+    "pinnedItems": {
+      "edges": []
+    }
+  },
+  {
     "login": "vamsi3",
     "name": "Satti Vamsi Krishna Reddy",
     "url": "https://github.com/vamsi3",
@@ -11564,17 +11594,6 @@
           }
         }
       ]
-    }
-  },
-  {
-    "login": "FatGrizzly",
-    "name": "Soundarahari Parthiban",
-    "url": "https://github.com/FatGrizzly",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/66728880?u=5c26cfb67c9dc023dcbbb35a3392f6e11adee460&v=4",
-    "bio": "linux sys ",
-    "pinnedItems": {
-      "edges": []
     }
   },
   {
@@ -11768,19 +11787,38 @@
     }
   },
   {
-    "login": "kolumnin",
-    "name": "Muraleedharan Koluthappallil ",
-    "url": "https://github.com/kolumnin",
-    "location": "9/346, Koluthappallil House, Valamangalam South, Thuravoor, Alappuzha, Kerala, India-688532",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/53961270?u=a2881ddbb55794ffcdc48984791ec71a72c84167&v=4",
-    "bio": "Ph.D.(Physics), Male, 65+. An active user of the incomprehensible scripts, fearing effects of synchronised activities  by biosphere, men and bots.. @kolumnin",
+    "login": "Wahid7852",
+    "name": "Wahid Khan",
+    "url": "https://github.com/Wahid7852",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63857471?u=5885822d2c129a4b27dc75cf99d11e11c1764d18&v=4",
+    "bio": "Every commit of mine fixes a thing while breaking 2 others :D",
     "pinnedItems": {
       "edges": [
         {
           "node": {
-            "name": "botify.github.io",
-            "description": "My Botify link",
-            "url": "https://github.com/kolumnin/botify.github.io"
+            "name": "MotionDetection_Based_IP-Pinger",
+            "description": "This project utilizes webcam motion detection to trigger actions on a computer. When motion is detected, it opens a PowerPoint presentation in full-screen mode and pings different groups of IP addresses using WebSocket connections.",
+            "url": "https://github.com/Wahid7852/MotionDetection_Based_IP-Pinger"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "ShaliniVerma21",
+    "name": "Shalini Verma",
+    "url": "https://github.com/ShaliniVerma21",
+    "location": "Mumbai, Maharashtra, India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46881467?u=94d6532e900080c34700508a9379e899775ae769&v=4",
+    "bio": "\r\n🚀 Full Stack Developer | 💻 Corporate Trainer | 🤝 Freelancer | 🌱 Mentor | 📊 Trader | 🎥 YouTuber | 📈 Data Analyst | 🧠 Data Scientist\r\n",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "Core-Java-Programs-and-Excersizes-Batch-18thNov-2024",
+            "description": "Day-wise Core Java examples and programs, designed to master Core Java step-by-step. Collaborative Space: Share and grow with the community.",
+            "url": "https://github.com/ShaliniVerma21/Core-Java-Programs-and-Excersizes-Batch-18thNov-2024"
           }
         }
       ]
@@ -11901,19 +11939,19 @@
     }
   },
   {
-    "login": "Wahid7852",
-    "name": "Wahid Khan",
-    "url": "https://github.com/Wahid7852",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/63857471?u=5885822d2c129a4b27dc75cf99d11e11c1764d18&v=4",
-    "bio": "Every commit of mine fixes a thing while breaking 2 others :D",
+    "login": "kolumnin",
+    "name": "Muraleedharan Koluthappallil ",
+    "url": "https://github.com/kolumnin",
+    "location": "9/346, Koluthappallil House, Valamangalam South, Thuravoor, Alappuzha, Kerala, India-688532",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53961270?u=a2881ddbb55794ffcdc48984791ec71a72c84167&v=4",
+    "bio": "Ph.D.(Physics), Male, 65+. An active user of the incomprehensible scripts, fearing effects of synchronised activities  by biosphere, men and bots.. @kolumnin",
     "pinnedItems": {
       "edges": [
         {
           "node": {
-            "name": "MotionDetection_Based_IP-Pinger",
-            "description": "This project utilizes webcam motion detection to trigger actions on a computer. When motion is detected, it opens a PowerPoint presentation in full-screen mode and pings different groups of IP addresses using WebSocket connections.",
-            "url": "https://github.com/Wahid7852/MotionDetection_Based_IP-Pinger"
+            "name": "botify.github.io",
+            "description": "My Botify link",
+            "url": "https://github.com/kolumnin/botify.github.io"
           }
         }
       ]
@@ -11971,25 +12009,6 @@
             "name": "Redbus",
             "description": "RESTful Web Services APIs for an RedBus- A bus ticket booking App Based on Spring Boot. Almost all functionalities of a bus ticket app such as login/signup, add bus, book the ticket and cancel the ticket are provide which is fully connected with mysql database.",
             "url": "https://github.com/AnshulKumarYadav/Redbus"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "ShaliniVerma21",
-    "name": "Shalini Verma",
-    "url": "https://github.com/ShaliniVerma21",
-    "location": "Mumbai, Maharashtra, India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/46881467?u=94d6532e900080c34700508a9379e899775ae769&v=4",
-    "bio": "\r\n🚀 Full Stack Developer | 💻 Corporate Trainer | 🤝 Freelancer | 🌱 Mentor | 📊 Trader | 🎥 YouTuber | 📈 Data Analyst | 🧠 Data Scientist\r\n",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "Core-Java-Programs-and-Excersizes-Batch-18thNov-2024",
-            "description": "Day-wise Core Java examples and programs, designed to master Core Java step-by-step. Collaborative Space: Share and grow with the community.",
-            "url": "https://github.com/ShaliniVerma21/Core-Java-Programs-and-Excersizes-Batch-18thNov-2024"
           }
         }
       ]
@@ -12085,25 +12104,6 @@
             "name": "sonumahajan.github.io",
             "description": "Hosting my portfolio website usig github pages.",
             "url": "https://github.com/sonumahajan/sonumahajan.github.io"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "ashwamegh",
-    "name": "Shashank Shekhar",
-    "url": "https://github.com/ashwamegh",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/7360968?u=965a1cd7dd927e278b37867ef11e155f23e91343&v=4",
-    "bio": "React.js | Angular v2+| Vue.js | Node.js | Express.js | TypeScript | React Native | AWS | Azure Cloud",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "blog.shashankshekhar.dev",
-            "description": "💾 ‎  Personal blog running on Gatsby, React, and Node.js.",
-            "url": "https://github.com/ashwamegh/blog.shashankshekhar.dev"
           }
         }
       ]
@@ -12235,6 +12235,25 @@
     }
   },
   {
+    "login": "ashwamegh",
+    "name": "Shashank Shekhar",
+    "url": "https://github.com/ashwamegh",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7360968?u=965a1cd7dd927e278b37867ef11e155f23e91343&v=4",
+    "bio": "React.js | Angular v2+| Vue.js | Node.js | Express.js | TypeScript | React Native | AWS | Azure Cloud",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "blog.shashankshekhar.dev",
+            "description": "💾 ‎  Personal blog running on Gatsby, React, and Node.js.",
+            "url": "https://github.com/ashwamegh/blog.shashankshekhar.dev"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "upayanmazumder",
     "name": "Upayan Mazumder",
     "url": "https://github.com/upayanmazumder",
@@ -12278,7 +12297,7 @@
     "url": "https://github.com/aslams2020",
     "location": "Maharashtra, India",
     "avatarUrl": "https://avatars.githubusercontent.com/u/131389695?u=86229c59df9e7a80f1bfba4f34b98f244eb7a8fe&v=4",
-    "bio": "Core Team & Former Web Developer @GSSoC24 Extd. | Project Admin | Rank 12 in @GSSoC24 | Open Source Contributor | Java | DSA |  Problem Solving ",
+    "bio": "Core Team & Former Web Developer @GSSoC24 Extd. | Project Admin  | Open Source Contributor | Java & Spring Boot  |  DSA ",
     "pinnedItems": {
       "edges": [
         {
@@ -12354,25 +12373,6 @@
             "name": "windots",
             "description": "🌾 My Windows setup",
             "url": "https://github.com/ashish0kumar/windots"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "Neeraj-x0",
-    "name": "Neeraj",
-    "url": "https://github.com/Neeraj-x0",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/95992247?u=27abd8397abdcf824d9fdec9af05955f89fd1a9d&v=4",
-    "bio": "Just a chad with a curios mind",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "X-Asena",
-            "description": "open source whatsapp bot made using @WhiskeySockets/Baileys",
-            "url": "https://github.com/Neeraj-x0/X-Asena"
           }
         }
       ]
@@ -12534,6 +12534,25 @@
     }
   },
   {
+    "login": "Neeraj-x0",
+    "name": "Neeraj",
+    "url": "https://github.com/Neeraj-x0",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95992247?u=27abd8397abdcf824d9fdec9af05955f89fd1a9d&v=4",
+    "bio": "Just a chad with a curios mind",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "X-Asena",
+            "description": "open source whatsapp bot made using @WhiskeySockets/Baileys",
+            "url": "https://github.com/Neeraj-x0/X-Asena"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "geekyharsh05",
     "name": "Harsh Vardhan Pandey",
     "url": "https://github.com/geekyharsh05",
@@ -12621,25 +12640,6 @@
     }
   },
   {
-    "login": "sppidy",
-    "name": "Ramshouriesh ",
-    "url": "https://github.com/sppidy",
-    "location": "Tamilnadu, India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/68327188?u=5928f38f02aebfe9f8fc02ec4fdddc02bb059f24&v=4",
-    "bio": "21 | Student VITC || Linux | |",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "Ultroid",
-            "description": "Advanced Multi-Featured Telegram UserBot, Built in Python Using Telethon lib.",
-            "url": "https://github.com/TeamUltroid/Ultroid"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "auralshin",
     "name": "Auralshin",
     "url": "https://github.com/auralshin",
@@ -12653,25 +12653,6 @@
             "name": "defi-abm",
             "description": "A modular, agent-based simulation framework for DeFi protocols built on top of Mesa.",
             "url": "https://github.com/auralshin/defi-abm"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "once-human",
-    "name": "Onkar Yaglewad",
-    "url": "https://github.com/once-human",
-    "location": "Pune, India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/121476278?u=aa85e78c2701f91e39aaf275707c1ed06e1f71d9&v=4",
-    "bio": "building an event management platform.",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "via-commuter",
-            "description": "A flutter-based mobile application enabling commuters to schedule, manage, and track rides with ease and flexibility.",
-            "url": "https://github.com/project-anvaya/via-commuter"
           }
         }
       ]
@@ -12773,6 +12754,25 @@
     }
   },
   {
+    "login": "sppidy",
+    "name": "Ramshouriesh ",
+    "url": "https://github.com/sppidy",
+    "location": "Tamilnadu, India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/68327188?u=5928f38f02aebfe9f8fc02ec4fdddc02bb059f24&v=4",
+    "bio": "21 | Student VITC || Linux | |",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "Ultroid",
+            "description": "Advanced Multi-Featured Telegram UserBot, Built in Python Using Telethon lib.",
+            "url": "https://github.com/TeamUltroid/Ultroid"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "officialrajdeepsingh",
     "name": "Rajdeep Singh",
     "url": "https://github.com/officialrajdeepsingh",
@@ -12849,25 +12849,6 @@
     }
   },
   {
-    "login": "SmartManoj",
-    "name": "மனோஜ்குமார் பழனிச்சாமி",
-    "url": "https://github.com/SmartManoj",
-    "location": "Kunnathur, Tamilnadu, India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/7231077?u=e74cde52bd0c17d5615ff028d8646e75de81c943&v=4",
-    "bio": "Raising an AI Software Engineer 🤖",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "Arc-Tools",
-            "description": "Arc Prize 2025",
-            "url": "https://github.com/SmartManoj/Arc-Tools"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "hkp22",
     "name": "Harish Kumar",
     "url": "https://github.com/hkp22",
@@ -12900,6 +12881,44 @@
             "name": "gfstat",
             "description": "GitHub Follow Statistics in Web and CLI(coming soon)!",
             "url": "https://github.com/jammutkarsh/gfstat"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "once-human",
+    "name": "Onkar Yaglewad",
+    "url": "https://github.com/once-human",
+    "location": "Pune, India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/121476278?u=aa85e78c2701f91e39aaf275707c1ed06e1f71d9&v=4",
+    "bio": "building an event management platform.",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "via-commuter",
+            "description": "A flutter-based mobile application enabling commuters to schedule, manage, and track rides with ease and flexibility.",
+            "url": "https://github.com/project-anvaya/via-commuter"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "SmartManoj",
+    "name": "மனோஜ்குமார் பழனிச்சாமி",
+    "url": "https://github.com/SmartManoj",
+    "location": "Kunnathur, Tamilnadu, India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/7231077?u=e74cde52bd0c17d5615ff028d8646e75de81c943&v=4",
+    "bio": "Raising an AI Software Engineer 🤖",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "Arc-Tools",
+            "description": "Arc Prize 2025",
+            "url": "https://github.com/SmartManoj/Arc-Tools"
           }
         }
       ]
@@ -12995,6 +13014,25 @@
             "name": "erpnext",
             "description": "Free and Open Source Enterprise Resource Planning (ERP)",
             "url": "https://github.com/ruthra-kumar/erpnext"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "Sumangal44",
+    "name": "Sumangal Karan",
+    "url": "https://github.com/Sumangal44",
+    "location": "india",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/123644743?u=4544a6bb80651d28bc3f2f5464ff551c9e4aee68&v=4",
+    "bio": "👋 Sumangal Karan | Frontend Dev 🇮🇳\r\n🌱 Full-stack | Cloud | DevOps\r\n🚀 Founder @Frontedninjas \r\n📚 BCA Student | Midnapore\r\n",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "devsumangal",
+            "description": "🚀❤️My beautyfull portfailo website❤️🚀👨‍🏭",
+            "url": "https://github.com/Sumangal44/devsumangal"
           }
         }
       ]
@@ -13139,25 +13177,6 @@
             "name": "Celestia",
             "description": null,
             "url": "https://github.com/soumali28/Celestia"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "Basharath",
-    "name": "Basharath",
-    "url": "https://github.com/Basharath",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/14030461?u=e95de219d79fd8413b763dd07c9647beadb30cb7&v=4",
-    "bio": "Dev | Passionate problem solver | Building  products that make a difference ",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "FormEasy",
-            "description": "A simple open source library to receive contact forms for static sites",
-            "url": "https://github.com/Basharath/FormEasy"
           }
         }
       ]
@@ -13319,25 +13338,6 @@
     }
   },
   {
-    "login": "sanketverma1704",
-    "name": "Sanket Verma",
-    "url": "https://github.com/sanketverma1704",
-    "location": "Delhi, India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/20305658?u=0305891289a16b2111326053c0f3746fb5218fa7&v=4",
-    "bio": "Community & OSS @zarr-developers. Previously: @dunnhumby & Ballistics @ Forensic Science lab. \r\nAlso Chair, @pydatadelhi and @pydataglobal.",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "zarr-python",
-            "description": "An implementation of chunked, compressed, N-dimensional arrays for Python.",
-            "url": "https://github.com/sanketverma1704/zarr-python"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "Pranavtej",
     "name": "Pranav Teja",
     "url": "https://github.com/Pranavtej",
@@ -13395,6 +13395,25 @@
     }
   },
   {
+    "login": "Basharath",
+    "name": "Basharath",
+    "url": "https://github.com/Basharath",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14030461?u=e95de219d79fd8413b763dd07c9647beadb30cb7&v=4",
+    "bio": "Dev | Passionate problem solver | Building  products that make a difference ",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "FormEasy",
+            "description": "A simple open source library to receive contact forms for static sites",
+            "url": "https://github.com/Basharath/FormEasy"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "tangledbytes",
     "name": "Utkarsh Srivastava",
     "url": "https://github.com/tangledbytes",
@@ -13414,19 +13433,19 @@
     }
   },
   {
-    "login": "Sumangal44",
-    "name": "Sumangal Karan",
-    "url": "https://github.com/Sumangal44",
-    "location": "india",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/123644743?u=4544a6bb80651d28bc3f2f5464ff551c9e4aee68&v=4",
-    "bio": "👋 Sumangal Karan | Frontend Dev 🇮🇳\r\n🌱 Full-stack | Cloud | DevOps\r\n🚀 Founder @Frontedninjas \r\n📚 BCA Student | Midnapore\r\n",
+    "login": "codesankalp",
+    "name": "Sankalp",
+    "url": "https://github.com/codesankalp",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56037184?u=e176a04b95477c2c7662e3beb1519bb9aa3989d5&v=4",
+    "bio": "Engineer - HackerRank, Member @openwisp, GSoC'21 @openwisp, Season Of @KDE, OS-Leader @anitab-org, Open-Source",
     "pinnedItems": {
       "edges": [
         {
           "node": {
-            "name": "devsumangal",
-            "description": "🚀❤️My beautyfull portfailo website❤️🚀👨‍🏭",
-            "url": "https://github.com/Sumangal44/devsumangal"
+            "name": "dotfiles",
+            "description": "~/.*",
+            "url": "https://github.com/codesankalp/dotfiles"
           }
         }
       ]
@@ -13446,25 +13465,6 @@
             "name": "feluda",
             "description": "A configurable engine for analysing multi-lingual and multi-modal content.",
             "url": "https://github.com/tattle-made/feluda"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "codesankalp",
-    "name": "Sankalp",
-    "url": "https://github.com/codesankalp",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/56037184?u=e176a04b95477c2c7662e3beb1519bb9aa3989d5&v=4",
-    "bio": "Engineer - HackerRank, Member @openwisp, GSoC'21 @openwisp, Season Of @KDE, OS-Leader @anitab-org, Open-Source",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "dotfiles",
-            "description": "~/.*",
-            "url": "https://github.com/codesankalp/dotfiles"
           }
         }
       ]
@@ -13528,6 +13528,25 @@
     }
   },
   {
+    "login": "sanketverma1704",
+    "name": "Sanket Verma",
+    "url": "https://github.com/sanketverma1704",
+    "location": "Delhi, India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20305658?u=0305891289a16b2111326053c0f3746fb5218fa7&v=4",
+    "bio": "Community & OSS @zarr-developers. Previously: @dunnhumby & Ballistics @ Forensic Science lab. \r\nAlso Chair, @pydatadelhi and @pydataglobal.",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "zarr-python",
+            "description": "An implementation of chunked, compressed, N-dimensional arrays for Python.",
+            "url": "https://github.com/sanketverma1704/zarr-python"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "hellofaizan",
     "name": "Mohammad Faizan",
     "url": "https://github.com/hellofaizan",
@@ -13585,25 +13604,6 @@
     }
   },
   {
-    "login": "uiuxarghya",
-    "name": "Arghya Ghosh",
-    "url": "https://github.com/uiuxarghya",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/71373838?u=978a977fc4eedf43a34536c51fb0217d4da822c9&v=4",
-    "bio": "Full Stack Developer🔹Aspiring SDE🔹Java & JavaScript lover🔹A guy who makes all kinds of cool & fun stuff🔹Building @javaistic & @superiorstack, @edgexhq ",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "8bits",
-            "description": "🔗 Fast, simple & serverless, URL shortener written in NextJS.",
-            "url": "https://github.com/uiuxarghya/8bits"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "UTSAVS26",
     "name": "UTSAV SINGHAL",
     "url": "https://github.com/UTSAVS26",
@@ -13617,6 +13617,25 @@
             "name": "LeetCode-Solutions",
             "description": null,
             "url": "https://github.com/UTSAVS26/LeetCode-Solutions"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "daveaugustus",
+    "name": "Dave Augustus",
+    "url": "https://github.com/daveaugustus",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36985548?u=b60b2bf9be8b2291c2fd7c9075c10d1115278c5a&v=4",
+    "bio": "Mostly into a tunnel",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "wscat",
+            "description": null,
+            "url": "https://github.com/daveaugustus/wscat"
           }
         }
       ]
@@ -13721,19 +13740,19 @@
     }
   },
   {
-    "login": "daveaugustus",
-    "name": "Dave Augustus",
-    "url": "https://github.com/daveaugustus",
+    "login": "uiuxarghya",
+    "name": "Arghya Ghosh",
+    "url": "https://github.com/uiuxarghya",
     "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/36985548?u=b60b2bf9be8b2291c2fd7c9075c10d1115278c5a&v=4",
-    "bio": "Mostly into a tunnel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71373838?u=978a977fc4eedf43a34536c51fb0217d4da822c9&v=4",
+    "bio": "Full Stack Developer🔹Aspiring SDE🔹Java & JavaScript lover🔹A guy who makes all kinds of cool & fun stuff🔹Building @javaistic & @superiorstack, @edgexhq ",
     "pinnedItems": {
       "edges": [
         {
           "node": {
-            "name": "wscat",
-            "description": null,
-            "url": "https://github.com/daveaugustus/wscat"
+            "name": "8bits",
+            "description": "🔗 Fast, simple & serverless, URL shortener written in NextJS.",
+            "url": "https://github.com/uiuxarghya/8bits"
           }
         }
       ]
@@ -14332,6 +14351,25 @@
     }
   },
   {
+    "login": "ravikiranvm",
+    "name": "Ravi Kiran Vallamkonda",
+    "url": "https://github.com/ravikiranvm",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36404296?u=d3e14939049611e968b89aec2b1c9fb45bd8bd0f&v=4",
+    "bio": "",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "aws-finops-dashboard",
+            "description": "A terminal-based AWS cost and resource dashboard built with Python and the Rich library. It provides an overview of AWS spend by account, service-level breakdowns, budget tracking, and EC2 instance summaries.",
+            "url": "https://github.com/ravikiranvm/aws-finops-dashboard"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "mahendra204",
     "name": "Kamireddy Mahendra",
     "url": "https://github.com/mahendra204",
@@ -14378,25 +14416,6 @@
     "bio": "Open Source Contributor ✨ and Maintainer 🔥| Full Stack Developer 🧑‍💻",
     "pinnedItems": {
       "edges": []
-    }
-  },
-  {
-    "login": "ravikiranvm",
-    "name": "Ravi Kiran Vallamkonda",
-    "url": "https://github.com/ravikiranvm",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/36404296?u=d3e14939049611e968b89aec2b1c9fb45bd8bd0f&v=4",
-    "bio": "",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "aws-finops-dashboard",
-            "description": "A terminal-based AWS cost and resource dashboard built with Python and the Rich library. It provides an overview of AWS spend by account, service-level breakdowns, budget tracking, and EC2 instance summaries.",
-            "url": "https://github.com/ravikiranvm/aws-finops-dashboard"
-          }
-        }
-      ]
     }
   },
   {
@@ -14525,25 +14544,6 @@
     }
   },
   {
-    "login": "abhigyantrips",
-    "name": "Abhigyan Trips",
-    "url": "https://github.com/abhigyantrips",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/28886624?u=1b58bb9a6145a8c8ea08cb0be4b5622a18895771&v=4",
-    "bio": "Connoisseur of Jugaad.",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "reasonable.diet",
-            "description": "budget-friendly recipes for university students. (temporary site at)",
-            "url": "https://github.com/peacefulfoundation/reasonable.diet"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "Pranav-Saraswat",
     "name": "Pranav Saraswat",
     "url": "https://github.com/Pranav-Saraswat",
@@ -14557,6 +14557,25 @@
             "name": "Backup-Automation-for-Cloud-Storage-Buckets",
             "description": "This project automates the backup of files from a local directory to AWS S3 and Google Cloud Storage (GCS) using Terraform, Bash, and GitHub Actions. It ensures reliable, scheduled, and verifiable backups with versioning, notifications, and automatic cleanup.",
             "url": "https://github.com/Pranav-Saraswat/Backup-Automation-for-Cloud-Storage-Buckets"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "abhigyantrips",
+    "name": "Abhigyan Trips",
+    "url": "https://github.com/abhigyantrips",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28886624?u=1b58bb9a6145a8c8ea08cb0be4b5622a18895771&v=4",
+    "bio": "Connoisseur of Jugaad.",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "reasonable.diet",
+            "description": "budget-friendly recipes for university students. (temporary site at)",
+            "url": "https://github.com/peacefulfoundation/reasonable.diet"
           }
         }
       ]
@@ -14726,25 +14745,6 @@
     }
   },
   {
-    "login": "SahilK-027",
-    "name": "Sahil K",
-    "url": "https://github.com/SahilK-027",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/104154041?u=171382339a3a5b47c6529399fec72b39055b5996&v=4",
-    "bio": "Infinite loops & endless possibilities. ツ",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "0x7444ff",
-            "description": "This repository is a collection of GLSL shaders, coded only for the joy of digital art development. Enjoy the junction where technology meets the Art!!!",
-            "url": "https://github.com/SahilK-027/0x7444ff"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "merrcury",
     "name": "Himanshu Garg",
     "url": "https://github.com/merrcury",
@@ -14764,25 +14764,6 @@
     }
   },
   {
-    "login": "arajkumar",
-    "name": "Arunprasad Rajkumar",
-    "url": "https://github.com/arajkumar",
-    "location": "Coimbatore, India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/3874763?u=0f46861ef47ee2d1620d3b3855dfcafce24454bf&v=4",
-    "bio": "",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "jfx",
-            "description": "JavaFX mainline development",
-            "url": "https://github.com/openjdk/jfx"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "radcolor",
     "name": "Shashank",
     "url": "https://github.com/radcolor",
@@ -14796,6 +14777,25 @@
             "name": "env",
             "description": "Environment scripts and configuration files to automate and reduce the works and make life easier!",
             "url": "https://github.com/radcolor/env"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "arajkumar",
+    "name": "Arunprasad Rajkumar",
+    "url": "https://github.com/arajkumar",
+    "location": "Coimbatore, India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3874763?u=0f46861ef47ee2d1620d3b3855dfcafce24454bf&v=4",
+    "bio": "",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "jfx",
+            "description": "JavaFX mainline development",
+            "url": "https://github.com/openjdk/jfx"
           }
         }
       ]
@@ -14965,6 +14965,25 @@
     }
   },
   {
+    "login": "SahilK-027",
+    "name": "Sahil K",
+    "url": "https://github.com/SahilK-027",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/104154041?u=171382339a3a5b47c6529399fec72b39055b5996&v=4",
+    "bio": "Infinite loops & endless possibilities. ツ",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "threejs-template",
+            "description": "This template will get you started with the boiler plate for threeJS. With basic scene setup having mesh + controls + animation + lights 💡",
+            "url": "https://github.com/SahilK-027/threejs-template"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "Kalyan-velu",
     "name": "Kalyan Jyoti Borah",
     "url": "https://github.com/Kalyan-velu",
@@ -14989,25 +15008,6 @@
             "name": "cloudjot-backend",
             "description": "Code for backend of the project \"CloudJot\".",
             "url": "https://github.com/shivanshshekhar11/cloudjot-backend"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "sudhansubhushanmishra",
-    "name": "Sudhansu Bhushan Mishra",
-    "url": "https://github.com/sudhansubhushanmishra",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/13695177?u=fa49e0894483a901936f9a1900984a1e25e62ba4&v=4",
-    "bio": "A software engineer from India. I enjoy full-stack development and playing with data.",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "music-player-android",
-            "description": "A music player app for smartphones.",
-            "url": "https://github.com/sudhansubhushanmishra/music-player-android"
           }
         }
       ]
@@ -15150,17 +15150,6 @@
     }
   },
   {
-    "login": "vanpariyar",
-    "name": "Ronak J Vanpariya",
-    "url": "https://github.com/vanpariyar",
-    "location": "Sahajanand, Pipli( Bavani ),  Keshod, Junagadh , India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/26689210?v=4",
-    "bio": "Using Developing skill to solve Problem, \r\nTechnology enthusiast!! \r\nOpensource lover! \r\n\r\nSpiritual Life. ",
-    "pinnedItems": {
-      "edges": []
-    }
-  },
-  {
     "login": "Buddhsen-tripathi",
     "name": "Buddhsen Tripathi",
     "url": "https://github.com/Buddhsen-tripathi",
@@ -15180,19 +15169,30 @@
     }
   },
   {
-    "login": "ruchit288",
-    "name": "Ruchit Patel",
-    "url": "https://github.com/ruchit288",
-    "location": "Ahmedabad, Gujarat, India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/28095255?u=5fbe78e2083d79cfd578d2eb02f118fe43220da7&v=4",
-    "bio": "Open Source Contributor | Laravel Team Lead  at @vcian  | Philanthropist | Chef at home | Hodophile | Astrophile",
+    "login": "vanpariyar",
+    "name": "Ronak J Vanpariya",
+    "url": "https://github.com/vanpariyar",
+    "location": "Sahajanand, Pipli( Bavani ),  Keshod, Junagadh , India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26689210?v=4",
+    "bio": "Using Developing skill to solve Problem, \r\nTechnology enthusiast!! \r\nOpensource lover! \r\n\r\nSpiritual Life. ",
+    "pinnedItems": {
+      "edges": []
+    }
+  },
+  {
+    "login": "sudhansubhushanmishra",
+    "name": "Sudhansu Bhushan Mishra",
+    "url": "https://github.com/sudhansubhushanmishra",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13695177?u=fa49e0894483a901936f9a1900984a1e25e62ba4&v=4",
+    "bio": "A software engineer from India. I enjoy full-stack development and playing with data.",
     "pinnedItems": {
       "edges": [
         {
           "node": {
-            "name": "laravel-db-auditor",
-            "description": "Database DB Auditor provide leverage to audit your MySql database standards and also provide options to add constraints in table",
-            "url": "https://github.com/vcian/laravel-db-auditor"
+            "name": "music-player-android",
+            "description": "A music player app for smartphones.",
+            "url": "https://github.com/sudhansubhushanmishra/music-player-android"
           }
         }
       ]
@@ -15332,6 +15332,25 @@
     }
   },
   {
+    "login": "Bhavik-Jikadara",
+    "name": "Bhavik Jikadara",
+    "url": "https://github.com/Bhavik-Jikadara",
+    "location": "Surat, Gujarat , India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66177876?u=eabb33a7690517a3ee84a9fba1a1c806330251a9&v=4",
+    "bio": "🚀 AI/ML & MLOps expert 🌟 Crafting advanced solutions to speed up data retrieval 📊 and enhance ML model lifecycles.",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "Content-Generation-Workflow",
+            "description": "Implementing a scalable content team using AI involves creating a framework that blends the strengths of AI technologies with the creative and supervisory capabilities of human team members. This strategy aims to enhance efficiency, creativity, and content output quality.",
+            "url": "https://github.com/Bhavik-Jikadara/Content-Generation-Workflow"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "piyushkumar-prog",
     "name": "Piyush Kumar",
     "url": "https://github.com/piyushkumar-prog",
@@ -15345,6 +15364,25 @@
             "name": "GitHub-Explorer",
             "description": "GitHub Explorer using Next JS written in TypeScript",
             "url": "https://github.com/piyushkumar-prog/GitHub-Explorer"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "ruchit288",
+    "name": "Ruchit Patel",
+    "url": "https://github.com/ruchit288",
+    "location": "Ahmedabad, Gujarat, India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28095255?u=5fbe78e2083d79cfd578d2eb02f118fe43220da7&v=4",
+    "bio": "Open Source Contributor | Laravel Team Lead  at @vcian  | Philanthropist | Chef at home | Hodophile | Astrophile",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "laravel-db-auditor",
+            "description": "Database DB Auditor provide leverage to audit your MySql database standards and also provide options to add constraints in table",
+            "url": "https://github.com/vcian/laravel-db-auditor"
           }
         }
       ]
@@ -15427,25 +15465,6 @@
     }
   },
   {
-    "login": "afzal442",
-    "name": "Afzal Ansari",
-    "url": "https://github.com/afzal442",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/11625672?u=aa460c8cfedba8a4e3495cf4bd3af487ea2df42b&v=4",
-    "bio": "Open Source | CNCF Ambassador | GitOps Enthusiast",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "keptn-pg-killerway",
-            "description": "This repo contains keptn CD walkthrough tutorial to understand the out-of-the-box demo.",
-            "url": "https://github.com/afzal442/keptn-pg-killerway"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "Swaroop-Acharya",
     "name": "Swaroop Acharya",
     "url": "https://github.com/Swaroop-Acharya",
@@ -15459,6 +15478,25 @@
             "name": "MediMap",
             "description": "MediMap is a web platform that allows users to search for medicines at nearby pharmacies. The application provides real-time availability and pharmacy details, helping users easily find and purchase the medications they need.",
             "url": "https://github.com/Swaroop-Acharya/MediMap"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "afzal442",
+    "name": "Afzal Ansari",
+    "url": "https://github.com/afzal442",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11625672?u=aa460c8cfedba8a4e3495cf4bd3af487ea2df42b&v=4",
+    "bio": "Open Source | CNCF Ambassador | GitOps Enthusiast",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "keptn-pg-killerway",
+            "description": "This repo contains keptn CD walkthrough tutorial to understand the out-of-the-box demo.",
+            "url": "https://github.com/afzal442/keptn-pg-killerway"
           }
         }
       ]
@@ -15516,25 +15554,6 @@
             "name": "next-url-shortener",
             "description": "URL Shortener App  - easily shorten your URLs and manage links.",
             "url": "https://github.com/DalpatRathore/next-url-shortener"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "Bhavik-Jikadara",
-    "name": "Bhavik Jikadara",
-    "url": "https://github.com/Bhavik-Jikadara",
-    "location": "Surat, Gujarat , India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/66177876?u=eabb33a7690517a3ee84a9fba1a1c806330251a9&v=4",
-    "bio": "🚀 AI/ML & MLOps expert 🌟 Crafting advanced solutions to speed up data retrieval 📊 and enhance ML model lifecycles.",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "Content-Generation-Workflow",
-            "description": "Implementing a scalable content team using AI involves creating a framework that blends the strengths of AI technologies with the creative and supervisory capabilities of human team members. This strategy aims to enhance efficiency, creativity, and content output quality.",
-            "url": "https://github.com/Bhavik-Jikadara/Content-Generation-Workflow"
           }
         }
       ]
@@ -15742,25 +15761,6 @@
     }
   },
   {
-    "login": "coswat",
-    "name": "coderswat",
-    "url": "https://github.com/coswat",
-    "location": "Kerala, India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/97345827?u=6da535b4262a411390ed675364db6d70ac84523b&v=4",
-    "bio": "Software developer from Gotham. I like computer science, math and physics.",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "Acode",
-            "description": "Acode - powerful text/code editor for android",
-            "url": "https://github.com/Acode-Foundation/Acode"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "SanjayVyas",
     "name": "Sanjay Vyas",
     "url": "https://github.com/SanjayVyas",
@@ -15837,25 +15837,6 @@
     }
   },
   {
-    "login": "ayushman1024",
-    "name": "Ayushman Srivastava",
-    "url": "https://github.com/ayushman1024",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/31370112?u=0c36d6376b1685d98eef37f01437733840c28da8&v=4",
-    "bio": "Bio-less",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "TASK-Management-System",
-            "description": "Spring Boot and Angular 7 web application for task management .",
-            "url": "https://github.com/ayushman1024/TASK-Management-System"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "AdityaGarg8",
     "name": "Aditya Garg",
     "url": "https://github.com/AdityaGarg8",
@@ -15888,6 +15869,25 @@
             "name": "logseq",
             "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap",
             "url": "https://github.com/akhilesh-w/logseq"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "ayushman1024",
+    "name": "Ayushman Srivastava",
+    "url": "https://github.com/ayushman1024",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/31370112?u=0c36d6376b1685d98eef37f01437733840c28da8&v=4",
+    "bio": "Bio-less",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "TASK-Management-System",
+            "description": "Spring Boot and Angular 7 web application for task management .",
+            "url": "https://github.com/ayushman1024/TASK-Management-System"
           }
         }
       ]
@@ -15983,6 +15983,25 @@
             "name": "SimpleKafkaExampleSpringBoot",
             "description": "A simple Spring Boot (Java) app which demonstrates Apache Kafka's producer and consumer APIs.",
             "url": "https://github.com/contactsunny/SimpleKafkaExampleSpringBoot"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "coswat",
+    "name": "coderswat",
+    "url": "https://github.com/coswat",
+    "location": "Kerala, India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97345827?u=6da535b4262a411390ed675364db6d70ac84523b&v=4",
+    "bio": "Software developer from Gotham. I like computer science, math and physics.",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "Acode",
+            "description": "Acode - powerful text/code editor for android",
+            "url": "https://github.com/Acode-Foundation/Acode"
           }
         }
       ]
@@ -16198,25 +16217,6 @@
     }
   },
   {
-    "login": "shwetarkadam",
-    "name": "Shweta Kadam",
-    "url": "https://github.com/shwetarkadam",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/25820905?u=be7ce9641e1dd782f5de080134606980ddc96e0d&v=4",
-    "bio": "Engineer ,tinkerer & always a learner!",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "BEProject",
-            "description": "Amazon review and rating prediction using RNN & Naive Bayes",
-            "url": "https://github.com/shwetarkadam/BEProject"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "Gauravdarkslayer",
     "name": "Gaurav bhojwani",
     "url": "https://github.com/Gauravdarkslayer",
@@ -16268,25 +16268,6 @@
             "name": "androidx",
             "description": "Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP.",
             "url": "https://github.com/androidx/androidx"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "Devisrisamidurai",
-    "name": "Devisri",
-    "url": "https://github.com/Devisrisamidurai",
-    "location": "Chennai,India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/119413802?v=4",
-    "bio": "Aspiring SDE❇️|Excited about CloudNative technologies🌨️ and communities |CIT'26",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "End-to-End-Devops-project",
-            "description": "Complete implementation of Devops practices for a website",
-            "url": "https://github.com/Devisrisamidurai/End-to-End-Devops-project"
           }
         }
       ]
@@ -16399,19 +16380,19 @@
     }
   },
   {
-    "login": "Krishnapro",
-    "name": "Krishna Kumar",
-    "url": "https://github.com/Krishnapro",
+    "login": "Astrosp",
+    "name": "Astro",
+    "url": "https://github.com/Astrosp",
     "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/59277887?u=a42d9bb713698a0d16c9c8e03616bfaf24753f6a&v=4",
-    "bio": " Software Engineer in Data Engineering team | Open source | DevOps.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43451156?u=8f9cbb5b9ad278ca5e7bdaaf4725815aaa40373a&v=4",
+    "bio": "Cybersecurity | Backend Developer",
     "pinnedItems": {
       "edges": [
         {
           "node": {
-            "name": "notescollab",
-            "description": "This project is used to create and share notes with peers and team.",
-            "url": "https://github.com/Krishnapro/notescollab"
+            "name": "Awesome-OSINT-For-Everything",
+            "description": "OSINT tools for Information gathering, Cybersecurity, Reverse searching, bugbounty, trust and safety, red team oprations and more.",
+            "url": "https://github.com/Astrosp/Awesome-OSINT-For-Everything"
           }
         }
       ]
@@ -16437,19 +16418,38 @@
     }
   },
   {
-    "login": "Astrosp",
-    "name": "Astro",
-    "url": "https://github.com/Astrosp",
+    "login": "Krishnapro",
+    "name": "Krishna Kumar",
+    "url": "https://github.com/Krishnapro",
     "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/43451156?u=8f9cbb5b9ad278ca5e7bdaaf4725815aaa40373a&v=4",
-    "bio": "Cybersecurity | Backend Developer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59277887?u=a42d9bb713698a0d16c9c8e03616bfaf24753f6a&v=4",
+    "bio": " Software Engineer in Data Engineering team | Open source | DevOps.",
     "pinnedItems": {
       "edges": [
         {
           "node": {
-            "name": "Awesome-OSINT-For-Everything",
-            "description": "OSINT tools for Information gathering, Cybersecurity, Reverse searching, bugbounty, trust and safety, red team oprations and more.",
-            "url": "https://github.com/Astrosp/Awesome-OSINT-For-Everything"
+            "name": "notescollab",
+            "description": "This project is used to create and share notes with peers and team.",
+            "url": "https://github.com/Krishnapro/notescollab"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "shwetarkadam",
+    "name": "Shweta Kadam",
+    "url": "https://github.com/shwetarkadam",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25820905?u=be7ce9641e1dd782f5de080134606980ddc96e0d&v=4",
+    "bio": "Engineer ,tinkerer & always a learner!",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "BEProject",
+            "description": "Amazon review and rating prediction using RNN & Naive Bayes",
+            "url": "https://github.com/shwetarkadam/BEProject"
           }
         }
       ]
@@ -16475,25 +16475,6 @@
     }
   },
   {
-    "login": "akanshSirohi",
-    "name": "Akansh Sirohi",
-    "url": "https://github.com/akanshSirohi",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/34837239?u=bab5f7dd0772039addcb692cb501112fb31a6a68&v=4",
-    "bio": "A software engineer passionate about creating efficient and scalable systems. When I’m not coding, I enjoy exploring new ideas learning something new.",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "ShareX",
-            "description": "🚀 Send and receive files in hassle-free way with fast speed!",
-            "url": "https://github.com/akanshSirohi/ShareX"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "theroyakash",
     "name": "theroyakash",
     "url": "https://github.com/theroyakash",
@@ -16507,6 +16488,25 @@
             "name": "algorithms.theroyakash.com",
             "description": "algorithms.theroyakash.com website source code. [Materials for FAANG and top startup coding interview and running notes on that]",
             "url": "https://github.com/theroyakash/algorithms.theroyakash.com"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "akanshSirohi",
+    "name": "Akansh Sirohi",
+    "url": "https://github.com/akanshSirohi",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34837239?u=bab5f7dd0772039addcb692cb501112fb31a6a68&v=4",
+    "bio": "A software engineer passionate about creating efficient and scalable systems. When I’m not coding, I enjoy exploring new ideas learning something new.",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "ShareX",
+            "description": "🚀 Send and receive files in hassle-free way with fast speed!",
+            "url": "https://github.com/akanshSirohi/ShareX"
           }
         }
       ]
@@ -16545,6 +16545,25 @@
             "name": "aiotorrent",
             "description": "A lightweight, asynchronous BitTorrent library written in pure Python.",
             "url": "https://github.com/Mys7erio/aiotorrent"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "Devisrisamidurai",
+    "name": "Devisri",
+    "url": "https://github.com/Devisrisamidurai",
+    "location": "Chennai,India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/119413802?v=4",
+    "bio": "Aspiring SDE❇️|Excited about CloudNative technologies🌨️ and communities |CIT'26",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "End-to-End-Devops-project",
+            "description": "Complete implementation of Devops practices for a website",
+            "url": "https://github.com/Devisrisamidurai/End-to-End-Devops-project"
           }
         }
       ]
@@ -16801,6 +16820,25 @@
     }
   },
   {
+    "login": "IamCOD3X",
+    "name": "Sourabh Panchal",
+    "url": "https://github.com/IamCOD3X",
+    "location": "Haryana, India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/70537479?u=15455b25e4e759e85dd5f9462a91e7393b93b41d&v=4",
+    "bio": "\r\nA passionate Python Programmer and CyberSecurity Enthusiastic from The Republic Of India ",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "ZOYA-AI-3.0",
+            "description": "ZOYA 3.0 Program",
+            "url": "https://github.com/IamCOD3X/ZOYA-AI-3.0"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "ankitkat042",
     "name": "Ankit Kumar",
     "url": "https://github.com/ankitkat042",
@@ -17024,6 +17062,25 @@
     }
   },
   {
+    "login": "imDarshanGK",
+    "name": "Darshan G K",
+    "url": "https://github.com/imDarshanGK",
+    "location": "Tumkur, Karnataka, India 🇮🇳",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122042809?u=87aa59727d51d0d4967f0d486a838974257f4cef&v=4",
+    "bio": "Python Developer | Exploring Machine Learning | Open-Source Contributor | AI & Tech Enthusiast",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "TrendTags",
+            "description": "TrendTags: A platform to generate relevant tags",
+            "url": "https://github.com/imDarshanGK/TrendTags"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "Garvnanwani",
     "name": "Garv nanwani",
     "url": "https://github.com/Garvnanwani",
@@ -17037,25 +17094,6 @@
             "name": "garvnanwani.com",
             "description": "Personal website made with next js, tailwind and MDX",
             "url": "https://github.com/Garvnanwani/garvnanwani.com"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "IamCOD3X",
-    "name": "Sourabh Panchal",
-    "url": "https://github.com/IamCOD3X",
-    "location": "Haryana, India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/70537479?u=15455b25e4e759e85dd5f9462a91e7393b93b41d&v=4",
-    "bio": "\r\nA passionate Python Programmer and CyberSecurity Enthusiastic from The Republic Of India ",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "ZOYA-AI-3.0",
-            "description": "ZOYA 3.0 Program",
-            "url": "https://github.com/IamCOD3X/ZOYA-AI-3.0"
           }
         }
       ]
@@ -17092,6 +17130,17 @@
     }
   },
   {
+    "login": "ilearnbydoing",
+    "name": "Durgesh Gupta",
+    "url": "https://github.com/ilearnbydoing",
+    "location": "Mumbai, India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4979654?u=5de5d837b01ae18d6de5edb36af004a85e546a3f&v=4",
+    "bio": "I am a full stack developer.",
+    "pinnedItems": {
+      "edges": []
+    }
+  },
+  {
     "login": "omkarguravv",
     "name": "Omkar Gurav",
     "url": "https://github.com/omkarguravv",
@@ -17119,6 +17168,25 @@
     "bio": "Full Stack Developer @dataavid | BS @bsc-iitm",
     "pinnedItems": {
       "edges": []
+    }
+  },
+  {
+    "login": "jnsougata",
+    "name": "Sougata Jana",
+    "url": "https://github.com/jnsougata",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53375272?u=c61518995373a8f3144596c1f07212c484fa5d7c&v=4",
+    "bio": "I build stuffs.\r\nSometime it works, sometimes it doesn't.",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "aiotube",
+            "description": "An Alternative to YouTube Public Data API v3",
+            "url": "https://github.com/jnsougata/aiotube"
+          }
+        }
+      ]
     }
   },
   {
@@ -17168,25 +17236,6 @@
     "bio": "❤️s fish, Linux. Wanna be Pen-tester, Developer and Security enthusiast.",
     "pinnedItems": {
       "edges": []
-    }
-  },
-  {
-    "login": "imDarshanGK",
-    "name": "Darshan G K",
-    "url": "https://github.com/imDarshanGK",
-    "location": "Tumkur, Karnataka, India 🇮🇳",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/122042809?u=87aa59727d51d0d4967f0d486a838974257f4cef&v=4",
-    "bio": "Python Developer | Exploring Machine Learning | Open-Source Contributor | AI & Tech Enthusiast",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "TrendTags",
-            "description": "TrendTags: A platform to generate relevant tags",
-            "url": "https://github.com/imDarshanGK/TrendTags"
-          }
-        }
-      ]
     }
   },
   {
@@ -17288,17 +17337,6 @@
     }
   },
   {
-    "login": "ilearnbydoing",
-    "name": "Durgesh Gupta",
-    "url": "https://github.com/ilearnbydoing",
-    "location": "Mumbai, India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/4979654?u=5de5d837b01ae18d6de5edb36af004a85e546a3f&v=4",
-    "bio": "I am a full stack developer.",
-    "pinnedItems": {
-      "edges": []
-    }
-  },
-  {
     "login": "iamharshtrivedi",
     "name": "Harsh Trivedi",
     "url": "https://github.com/iamharshtrivedi",
@@ -17312,25 +17350,6 @@
             "name": "GenerativeAiSampleApp",
             "description": "Google AI SDK for Android",
             "url": "https://github.com/iamharshtrivedi/GenerativeAiSampleApp"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "jnsougata",
-    "name": "Sougata Jana",
-    "url": "https://github.com/jnsougata",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/53375272?u=c61518995373a8f3144596c1f07212c484fa5d7c&v=4",
-    "bio": "I build stuffs.\r\nSometime it works, sometimes it doesn't.",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "aiotube",
-            "description": "An Alternative to YouTube Public Data API v3",
-            "url": "https://github.com/jnsougata/aiotube"
           }
         }
       ]
@@ -17388,6 +17407,25 @@
             "name": "personalised-voice-assistant",
             "description": "A Single AI driven Personalised Voice Assistant for Multiple users with prsonalised feed.",
             "url": "https://github.com/SkyDocs/personalised-voice-assistant"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "jaywyawhare",
+    "name": "Arinjay Wyawhare",
+    "url": "https://github.com/jaywyawhare",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72088094?u=1b7367372dfabe133e7180836fe615c91c36658e&v=4",
+    "bio": "In toxic relationship with coding.",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "C-ML",
+            "description": "Machine learning framework written in C.",
+            "url": "https://github.com/jaywyawhare/C-ML"
           }
         }
       ]
@@ -17538,19 +17576,19 @@
     }
   },
   {
-    "login": "gauravsinhaweb",
-    "name": "GAURAV SINHA",
-    "url": "https://github.com/gauravsinhaweb",
-    "location": "Bangalore, India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/75125943?u=b659a0a8ae479912ff066b1eb63b927ed506548b&v=4",
-    "bio": "Fullstack engineer | IIT Patna  | AI | Web3 \r\n\r\nContributor @Real-Dev-Squad | prev - @leaf-engineering @apiwizlabs",
+    "login": "hsk11",
+    "name": "Harpal Singh",
+    "url": "https://github.com/hsk11",
+    "location": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83590561?u=87d78779d97c4e773646725be0123967dccfb931&v=4",
+    "bio": "Creator of Jai.js Full Stack Framework. Enjoy building software, SAAS, and frameworks. ⚡",
     "pinnedItems": {
       "edges": [
         {
           "node": {
-            "name": "pixzone",
-            "description": "Pixzone is a Social media application where you can frame your views on a social space through your creativity.",
-            "url": "https://github.com/gauravsinhaweb/pixzone"
+            "name": "jai-server",
+            "description": "Fast, simple, secure, powerful web Framework for node. REST API server",
+            "url": "https://github.com/jaijs/jai-server"
           }
         }
       ]
@@ -17576,19 +17614,38 @@
     }
   },
   {
-    "login": "hsk11",
-    "name": "Harpal Singh",
-    "url": "https://github.com/hsk11",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/83590561?u=87d78779d97c4e773646725be0123967dccfb931&v=4",
-    "bio": "Creator of Jai.js Full Stack Framework. Enjoy building software, SAAS, and frameworks. ⚡",
+    "login": "PrakharDoneria",
+    "name": "Prakhar Doneria",
+    "url": "https://github.com/PrakharDoneria",
+    "location": "Etawah, Uttar Pradesh, India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92568876?u=cad28ccb57df5fa0c1b89c65820997e8e2406a7f&v=4",
+    "bio": "Founder of @ProTecGames",
     "pinnedItems": {
       "edges": [
         {
           "node": {
-            "name": "jai-server",
-            "description": "Fast, simple, secure, powerful web Framework for node. REST API server",
-            "url": "https://github.com/jaijs/jai-server"
+            "name": "sanskrit-lang",
+            "description": "Programming Language inspired from Sanskrit Language",
+            "url": "https://github.com/PrakharDoneria/sanskrit-lang"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "gauravsinhaweb",
+    "name": "GAURAV SINHA",
+    "url": "https://github.com/gauravsinhaweb",
+    "location": "Bangalore, India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/75125943?u=b659a0a8ae479912ff066b1eb63b927ed506548b&v=4",
+    "bio": "Fullstack engineer | IIT Patna  | AI | Web3 \r\n\r\nContributor @Real-Dev-Squad | prev - @leaf-engineering @apiwizlabs",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "pixzone",
+            "description": "Pixzone is a Social media application where you can frame your views on a social space through your creativity.",
+            "url": "https://github.com/gauravsinhaweb/pixzone"
           }
         }
       ]
@@ -17627,25 +17684,6 @@
             "name": "web-scraping-with-python",
             "description": "In this repository i will expalin how to scrap websites using python programming language with BeautifulSoup and requestsmodulues",
             "url": "https://github.com/rajat4665/web-scraping-with-python"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "jaywyawhare",
-    "name": "Arinjay Wyawhare",
-    "url": "https://github.com/jaywyawhare",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/72088094?u=1b7367372dfabe133e7180836fe615c91c36658e&v=4",
-    "bio": "In toxic relationship with coding.",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "C-ML",
-            "description": "Machine learning framework written in C.",
-            "url": "https://github.com/jaywyawhare/C-ML"
           }
         }
       ]
@@ -17709,25 +17747,6 @@
     }
   },
   {
-    "login": "PrakharDoneria",
-    "name": "Prakhar Doneria",
-    "url": "https://github.com/PrakharDoneria",
-    "location": "Etawah, Uttar Pradesh, India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/92568876?u=cad28ccb57df5fa0c1b89c65820997e8e2406a7f&v=4",
-    "bio": "Founder of @ProTecGames",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "Who-me",
-            "description": null,
-            "url": "https://github.com/PrakharDoneria/Who-me"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "akbaruddin",
     "name": "Akbar Uddin",
     "url": "https://github.com/akbaruddin",
@@ -17782,17 +17801,6 @@
           }
         }
       ]
-    }
-  },
-  {
-    "login": "yesbhautik",
-    "name": "Bhautik Bavadiya",
-    "url": "https://github.com/yesbhautik",
-    "location": "India",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/63995315?u=8d8ae243b98c34c49b5936f871886df835b2a9f4&v=4",
-    "bio": "",
-    "pinnedItems": {
-      "edges": []
     }
   }
 ]
