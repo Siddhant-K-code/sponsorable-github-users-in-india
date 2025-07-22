@@ -259,21 +259,21 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Shivay Lamba](https://github.com/shivaylamba)
-
-| [@shivaylamba](https://github.com/shivaylamba) | [❤️Sponsor](https://github.com/sponsors/shivaylamba) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/19529592?u=e77bc6ec65fe61f452ca870bc63f99d2b48614b3&v=4" alt="" width="40" /> | GSoC Mentor 2024-2025 @jenkinsci @kubeflow ｜｜  @GSoC Mentor 2021 @tensorflow ｜｜  GSoC Mentor 2020 @jenkinsci @cncf |
-| [AIDENANALYSIS--TFJS-Physiotherapist](https://github.com/shivaylamba/AIDENANALYSIS--TFJS-Physiotherapist) | AIDENANALYSIS is a web app utilising tensorflow.js, browser-based Machine Learning library, to enable accessible physiotherapy for the Visually Impaired and other people as well  |
-
-    
-
 ## [Dhrubaraj Pati](https://github.com/codewithdhruba01)
 
 | [@codewithdhruba01](https://github.com/codewithdhruba01) | [❤️Sponsor](https://github.com/sponsors/codewithdhruba01) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/146111647?u=895561d03e3da19096926525bec83e5ac2452f21&v=4" alt="" width="40" /> | SVU'26 •  Web Developer • Learning 3D Web Development • Learning React • UI\/UX Designing • Python • Typescript • Open Source Contribution |
 | [Learn-python-language](https://github.com/codewithdhruba01/Learn-python-language) | This repository provides a structured breakdown of key Python topics from beginner to advanced |
+
+    
+
+## [Shivay Lamba](https://github.com/shivaylamba)
+
+| [@shivaylamba](https://github.com/shivaylamba) | [❤️Sponsor](https://github.com/sponsors/shivaylamba) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/19529592?u=e77bc6ec65fe61f452ca870bc63f99d2b48614b3&v=4" alt="" width="40" /> | GSoC Mentor 2024-2025 @jenkinsci @kubeflow ｜｜  @GSoC Mentor 2021 @tensorflow ｜｜  GSoC Mentor 2020 @jenkinsci @cncf |
+| [AIDENANALYSIS--TFJS-Physiotherapist](https://github.com/shivaylamba/AIDENANALYSIS--TFJS-Physiotherapist) | AIDENANALYSIS is a web app utilising tensorflow.js, browser-based Machine Learning library, to enable accessible physiotherapy for the Visually Impaired and other people as well  |
 
     
 
@@ -736,21 +736,21 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Subin Siby](https://github.com/subins2000)
-
-| [@subins2000](https://github.com/subins2000) | [❤️Sponsor](https://github.com/sponsors/subins2000) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/2305675?u=14941509f5d0518664a12fc5912b7c8c4c925550&v=4" alt="" width="40" /> | Curious full stack dev. 10+ years of dev experience. One of the tech leads @bigbinary ........ ........ 206 Partial Content : https:\/\/gitlab.com\/subins2000 |
-| [govarnam](https://github.com/varnamproject/govarnam) | Easily type Indic languages on computer and mobile. GoVarnam is a cross-platform transliteration library. Manglish -&gt; Malayalam, Thanglish -&gt; Tamil, Hinglish -&gt; Hindi plus another 10 languages. GoVarnam is a near-Go port of libvarnam |
-
-    
-
 ## [Prince Kumar](https://github.com/Prince-1501)
 
 | [@Prince-1501](https://github.com/Prince-1501) | [❤️Sponsor](https://github.com/sponsors/Prince-1501) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/37762770?u=bf5d61f916fdb361ec28e9fc00bc9c98f2389fac&v=4" alt="" width="40" /> | Competitive Programmer ｜ JavaScript Developer ｜ YouTuber \#HelloWorld ☺️ |
 | <!-- no item --> | <!-- no description --> |
+
+    
+
+## [Subin Siby](https://github.com/subins2000)
+
+| [@subins2000](https://github.com/subins2000) | [❤️Sponsor](https://github.com/sponsors/subins2000) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/2305675?u=14941509f5d0518664a12fc5912b7c8c4c925550&v=4" alt="" width="40" /> | Curious full stack dev. 10+ years of dev experience. One of the tech leads @bigbinary ........ ........ 206 Partial Content : https:\/\/gitlab.com\/subins2000 |
+| [govarnam](https://github.com/varnamproject/govarnam) | Easily type Indic languages on computer and mobile. GoVarnam is a cross-platform transliteration library. Manglish -&gt; Malayalam, Thanglish -&gt; Tamil, Hinglish -&gt; Hindi plus another 10 languages. GoVarnam is a near-Go port of libvarnam |
 
     
 
@@ -808,15 +808,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [pushkar](https://github.com/thepushkarp)
-
-| [@thepushkarp](https://github.com/thepushkarp) | [❤️Sponsor](https://github.com/sponsors/thepushkarp) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/42088801?u=d07d1bb9bfee7057ec4f0d00617dea46f6483512&v=4" alt="" width="40" /> | i like words, maths and code |
-| [radarpipeline](https://github.com/RADAR-base/radarpipeline) | A python feature generation and visualzation package use with RADAR project data. |
-
-    
-
 ## [Azeem Idrisi](https://github.com/AzeemIdrisi)
 
 | [@AzeemIdrisi](https://github.com/AzeemIdrisi) | [❤️Sponsor](https://github.com/sponsors/AzeemIdrisi) |
@@ -832,6 +823,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/59874304?u=d6b1f9fab61716fe54efd462713e41d156d6ffb0&v=4" alt="" width="40" /> | Frontend Developer from India |
 | [code\_deck](https://github.com/Vishal-raj-1/code_deck) | Code Deck: An online coding IDE |
+
+    
+
+## [pushkar](https://github.com/thepushkarp)
+
+| [@thepushkarp](https://github.com/thepushkarp) | [❤️Sponsor](https://github.com/sponsors/thepushkarp) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/42088801?u=d07d1bb9bfee7057ec4f0d00617dea46f6483512&v=4" alt="" width="40" /> | i like words, maths and code |
+| [radarpipeline](https://github.com/RADAR-base/radarpipeline) | A python feature generation and visualzation package use with RADAR project data. |
 
     
 
@@ -1244,7 +1244,7 @@ This repository is a list of GitHub users who are living in India and are sponso
 
 | [@ShivaBhattacharjee](https://github.com/ShivaBhattacharjee) | [❤️Sponsor](https://github.com/sponsors/ShivaBhattacharjee) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/95211406?u=82922f49b9dafd1cb8c9af05ded015c7730cf9b0&v=4" alt="" width="40" /> | another wanna be 19yo who codes in JS and calls himself software developer  |
+| <img src="https://avatars.githubusercontent.com/u/95211406?u=a686e0f930e3654cb77b7b910508f64f03b5002c&v=4" alt="" width="40" /> | another wanna be 19yo who codes in JS and calls himself software developer  |
 | <!-- no item --> | <!-- no description --> |
 
     
@@ -1339,20 +1339,20 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Arun](https://github.com/akpythonyt)
-
-| [@akpythonyt](https://github.com/akpythonyt) | [❤️Sponsor](https://github.com/sponsors/akpythonyt) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/72851630?u=8b04735151bf2402e1b6d0b82d1db60ec86377f1&v=4" alt="" width="40" /> | 🧑‍💻Software engineer working in data science |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
 ## [Saurav Hathi](https://github.com/sauravhathi)
 
 | [@sauravhathi](https://github.com/sauravhathi) | [❤️Sponsor](https://github.com/sponsors/sauravhathi) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/61316762?u=5feccd9e73f3c75db45de70e1689ee295c049ddf&v=4" alt="" width="40" /> | Currently working as a freelance web engineer. |
+| <!-- no item --> | <!-- no description --> |
+
+    
+
+## [Arun](https://github.com/akpythonyt)
+
+| [@akpythonyt](https://github.com/akpythonyt) | [❤️Sponsor](https://github.com/sponsors/akpythonyt) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/72851630?u=8b04735151bf2402e1b6d0b82d1db60ec86377f1&v=4" alt="" width="40" /> | 🧑‍💻Software engineer working in data science |
 | <!-- no item --> | <!-- no description --> |
 
     
@@ -1402,6 +1402,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
+## [Aditya Telange](https://github.com/adityatelange)
+
+| [@adityatelange](https://github.com/adityatelange) | [❤️Sponsor](https://github.com/sponsors/adityatelange) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/21258296?u=b2b5e14a8f8d4d03b27e1c4805f512d4d96ec4c8&v=4" alt="" width="40" /> |  |
+| <!-- no item --> | <!-- no description --> |
+
+    
+
 ## [Milind Mishra](https://github.com/thatbeautifuldream)
 
 | [@thatbeautifuldream](https://github.com/thatbeautifuldream) | [❤️Sponsor](https://github.com/sponsors/thatbeautifuldream) |
@@ -1411,12 +1420,12 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Aditya Telange](https://github.com/adityatelange)
+## [Gaini Laxman](https://github.com/Gaini-Laxman)
 
-| [@adityatelange](https://github.com/adityatelange) | [❤️Sponsor](https://github.com/sponsors/adityatelange) |
+| [@Gaini-Laxman](https://github.com/Gaini-Laxman) | [❤️Sponsor](https://github.com/sponsors/Gaini-Laxman) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/21258296?u=b2b5e14a8f8d4d03b27e1c4805f512d4d96ec4c8&v=4" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
+| <img src="https://avatars.githubusercontent.com/u/119339682?u=992a62edff82a8cf0f5bb6a895b84d93264a70a8&v=4" alt="" width="40" /> | Hi there 👋, My name is Laxman. A self-taught, passionate and fast-learner full-stack developer from Hyderabad, India 🌎. Now I'm Full Stack Developer.  |
+| [README.md](https://github.com/Gaini-Laxman/README.md) | <!-- no description --> |
 
     
 
@@ -1435,15 +1444,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/81755723?u=5fe2eaf40a96bd532eb482710d8fafa8e81e3809&v=4" alt="" width="40" /> | rendering pixels on the web |
 | [Cheatsheets-for-Developers](https://github.com/AakashRao-dev/Cheatsheets-for-Developers) | 📊 Get all of my CSS Cheatsheets from here which I have created & shared on twitter. Thanks for the support. 💜 |
-
-    
-
-## [Gaini Laxman](https://github.com/Gaini-Laxman)
-
-| [@Gaini-Laxman](https://github.com/Gaini-Laxman) | [❤️Sponsor](https://github.com/sponsors/Gaini-Laxman) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/119339682?u=992a62edff82a8cf0f5bb6a895b84d93264a70a8&v=4" alt="" width="40" /> | Hi there 👋, My name is Laxman. A self-taught, passionate and fast-learner full-stack developer from Hyderabad, India 🌎. Now I'm Full Stack Developer.  |
-| [README.md](https://github.com/Gaini-Laxman/README.md) | <!-- no description --> |
 
     
 
@@ -1560,7 +1560,7 @@ This repository is a list of GitHub users who are living in India and are sponso
 | [@Aryamanz29](https://github.com/Aryamanz29) | [❤️Sponsor](https://github.com/sponsors/Aryamanz29) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/56113566?u=d19f5725120c82fd5f2e3dfeb03ae78c1550c8fb&v=4" alt="" width="40" /> | Engineering @AtlanHQ ｜ GSoC'23 & GSoC'22 🔅 @OpenWISP ｜ Ex-Intern @ravenprotocol ｜ OSD'21 Mentor @anitab-org 🤝 Supervisor @ GWOC21 @Girlscript |
-| [atlan-python](https://github.com/atlanhq/atlan-python) | <!-- no description --> |
+| [atlan-python](https://github.com/atlanhq/atlan-python) | The official Python SDK for the Atlan 💙 |
 
     
 
@@ -1582,6 +1582,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
+## [Prajjwal Pathak](https://github.com/itspyguru)
+
+| [@itspyguru](https://github.com/itspyguru) | [❤️Sponsor](https://github.com/sponsors/itspyguru) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/71623767?u=ede92bb5cb58ffcfb7ea5196c8f411cd387b5e98&v=4" alt="" width="40" /> | Python Enthusiast 🚀 ｜ Otaku ｜ Cosmos lover 🌌 |
+| [Python-Projects](https://github.com/itspyguru/Python-Projects) | Few projects created with python |
+
+    
+
 ## [Bhupesh Varshney](https://github.com/Bhupesh-V)
 
 | [@Bhupesh-V](https://github.com/Bhupesh-V) | [❤️Sponsor](https://github.com/sponsors/Bhupesh-V) |
@@ -1600,12 +1609,12 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Prajjwal Pathak](https://github.com/itspyguru)
+## [Kshitij Gupta](https://github.com/AgentFabulous)
 
-| [@itspyguru](https://github.com/itspyguru) | [❤️Sponsor](https://github.com/sponsors/itspyguru) |
+| [@AgentFabulous](https://github.com/AgentFabulous) | [❤️Sponsor](https://github.com/sponsors/AgentFabulous) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/71623767?u=ede92bb5cb58ffcfb7ea5196c8f411cd387b5e98&v=4" alt="" width="40" /> | Python Enthusiast 🚀 ｜ Otaku ｜ Cosmos lover 🌌 |
-| [Python-Projects](https://github.com/itspyguru/Python-Projects) | Few projects created with python |
+| <img src="https://avatars.githubusercontent.com/u/18647641?u=3a7fccf2018ad9afdc0d3ae67f5a06b43be79a02&v=4" alt="" width="40" /> | SDE @Google;  Ex-Teracube & Ex-Murena. Android and Linux developer. MUJ ‘21. @PotatoProject ｜ @Lawnchair |
+| [begonia](https://github.com/AgentFabulous/begonia) | Linux kernel source tree for the Redmi Note 8 Pro \(xiaomi-mt6785\) |
 
     
 
@@ -1624,15 +1633,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/16557206?u=aab73fb33f8b5dac49eb0a9fa8f9cbed726be5e9&v=4" alt="" width="40" /> | The repositories here contain work examples from various consulting assignments, technical corporate trainings and research activities on technologies. |
 | [Datasets\_For\_Work](https://github.com/ajaykuma/Datasets_For_Work) | Sample data |
-
-    
-
-## [Kshitij Gupta](https://github.com/AgentFabulous)
-
-| [@AgentFabulous](https://github.com/AgentFabulous) | [❤️Sponsor](https://github.com/sponsors/AgentFabulous) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/18647641?u=3a7fccf2018ad9afdc0d3ae67f5a06b43be79a02&v=4" alt="" width="40" /> | SDE @Google;  Ex-Teracube & Ex-Murena. Android and Linux developer. MUJ ‘21. @PotatoProject ｜ @Lawnchair |
-| [begonia](https://github.com/AgentFabulous/begonia) | Linux kernel source tree for the Redmi Note 8 Pro \(xiaomi-mt6785\) |
 
     
 
@@ -1669,15 +1669,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/26477157?u=27f57fbb87d7e2ab6dd75d3e2b408ff548eca582&v=4" alt="" width="40" /> | Android Platform @ Euler Motors.  Founder @StyxProject.  Contributor @AOSPA.  |
 | [android\_device\_xiaomi\_phoenix](https://github.com/AOSPA/android_device_xiaomi_phoenix) | <!-- no description --> |
-
-    
-
-## [Saurabh Rai](https://github.com/srbhr)
-
-| [@srbhr](https://github.com/srbhr) | [❤️Sponsor](https://github.com/sponsors/srbhr) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/54472864?u=05093561f3f8394688e89afaa30542451c3faa23&v=4" alt="" width="40" /> | Developer Relations @apideck-io ｜ Building Resume Matcher ｜ www.resumematcher.fyi |
-| [Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.  |
 
     
 
@@ -1789,21 +1780,21 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Ben S George](https://github.com/AlbertEinsteinTG)
-
-| [@AlbertEinsteinTG](https://github.com/AlbertEinsteinTG) | [❤️Sponsor](https://github.com/sponsors/AlbertEinsteinTG) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/73480087?u=5031f705ad0aea3f7cef96d4e4ba1a13538e4bd4&v=4" alt="" width="40" /> | Busy with studies 😒 |
-| [Adv-Auto-Filter-Bot](https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot) | A Advanced Auto Filter Bot Which Can Be Used In Many Groups With Multiple Channel Support....  |
-
-    
-
 ## [Rajasegar Chandran](https://github.com/rajasegar)
 
 | [@rajasegar](https://github.com/rajasegar) | [❤️Sponsor](https://github.com/sponsors/rajasegar) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/2083049?u=daa03f2f7416096f5abc4df64a8901921451fdff&v=4" alt="" width="40" /> | Javascript Toolsmith, Front-end developer |
 | [alacritty-themes](https://github.com/rajasegar/alacritty-themes) | :rainbow: :lollipop: Themes :candy: :heart\_eyes: for Alacritty: A cross-platform GPU-accelerated Terminal emulator |
+
+    
+
+## [Ben S George](https://github.com/AlbertEinsteinTG)
+
+| [@AlbertEinsteinTG](https://github.com/AlbertEinsteinTG) | [❤️Sponsor](https://github.com/sponsors/AlbertEinsteinTG) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/73480087?u=5031f705ad0aea3f7cef96d4e4ba1a13538e4bd4&v=4" alt="" width="40" /> | Busy with studies 😒 |
+| [Adv-Auto-Filter-Bot](https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot) | A Advanced Auto Filter Bot Which Can Be Used In Many Groups With Multiple Channel Support....  |
 
     
 
@@ -1834,15 +1825,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Siddharth Gelera \(reaper\)](https://github.com/barelyhuman)
-
-| [@barelyhuman](https://github.com/barelyhuman) | [❤️Sponsor](https://github.com/sponsors/barelyhuman) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/43572006?u=49e7710c0d1602408ee0b6c125cf2f05b4385608&v=4" alt="" width="40" /> | just another developer |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
 ## [Ritesh Yadav](https://github.com/DARK-art108)
 
 | [@DARK-art108](https://github.com/DARK-art108) | [❤️Sponsor](https://github.com/sponsors/DARK-art108) |
@@ -1852,12 +1834,30 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
+## [Siddharth Gelera \(reaper\)](https://github.com/barelyhuman)
+
+| [@barelyhuman](https://github.com/barelyhuman) | [❤️Sponsor](https://github.com/sponsors/barelyhuman) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/43572006?u=49e7710c0d1602408ee0b6c125cf2f05b4385608&v=4" alt="" width="40" /> | just another developer |
+| <!-- no item --> | <!-- no description --> |
+
+    
+
 ## [Ayush Bhardwaj](https://github.com/hastagAB)
 
 | [@hastagAB](https://github.com/hastagAB) | [❤️Sponsor](https://github.com/sponsors/hastagAB) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/31137526?u=cad0fa1669ded8da0c5ba70555f371161ba4f64f&v=4" alt="" width="40" /> | Building @Agentibus-ai 🚀 ｜ Ex-MLH Fellow @facebookresearch ｜ CS Grad @PoliMi ｜ Ex-Performance @ZS 👨🏻‍💻｜ GSoC @FOSSology ｜ NLP Researcher 👨🏻‍💻 ｜ Inventor  |
 | [MLH-Fellowship\_24.FAL.A.2](https://github.com/hastagAB/MLH-Fellowship_24.FAL.A.2) | 🚀 MLH Fall 2024 Fellowship Report 🚀 ｜ Meta's AudioSeal Project |
+
+    
+
+## [Anubhav Saxena](https://github.com/InflixOP)
+
+| [@InflixOP](https://github.com/InflixOP) | [❤️Sponsor](https://github.com/sponsors/InflixOP) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/121241401?u=e1f1a9bf962baef0777f643621ec31ef374fafed&v=4" alt="" width="40" /> | 🚀 Engineering Student ｜｜ 👨‍💻 Young Enthusiast Coder ｜｜ 🤖 AI-ML & Blockchain Developer         |
+| [ContentSnap](https://github.com/InflixOP/ContentSnap) | ContentSnap is a powerful browser extension that leverages cutting-edge NLP models to summarize web articles, blogs, and research papers into easy-to-digest formats — all in one click. |
 
     
 
@@ -1885,15 +1885,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/6671379?u=a87247ec809b89665fb2e8f77e25b92e28a66ba1&v=4" alt="" width="40" /> |  |
 | [direnvp](https://github.com/dhanvi/direnvp) | direnv profile switcher |
-
-    
-
-## [Anubhav Saxena](https://github.com/InflixOP)
-
-| [@InflixOP](https://github.com/InflixOP) | [❤️Sponsor](https://github.com/sponsors/InflixOP) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/121241401?u=e1f1a9bf962baef0777f643621ec31ef374fafed&v=4" alt="" width="40" /> | 🚀 Engineering Student ｜｜ 👨‍💻 Young Enthusiast Coder ｜｜ 🤖 AI-ML & Blockchain Developer         |
-| [ContentSnap](https://github.com/InflixOP/ContentSnap) | ContentSnap is a powerful browser extension that leverages cutting-edge NLP models to summarize web articles, blogs, and research papers into easy-to-digest formats — all in one click. |
 
     
 
@@ -2275,21 +2266,21 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [🚀 Progyan Bhattacharya 👨🏻‍💻](https://github.com/0xTheProDev)
-
-| [@0xTheProDev](https://github.com/0xTheProDev) | [❤️Sponsor](https://github.com/sponsors/0xTheProDev) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/14367736?u=133b67215d8cd2b3873ca57f67c0108afc2a264f&v=4" alt="" width="40" /> | Software Engineer ｜ Maintainer otjs ｜ Former @aws Community Builder ｜ Open for Grant\/Sponsorships |
-| [fastapi-clean-example](https://github.com/0xTheProDev/fastapi-clean-example) | Clean Architecture Example using FastAPI framework |
-
-    
-
 ## [Hari K T](https://github.com/harikt)
 
 | [@harikt](https://github.com/harikt) | [❤️Sponsor](https://github.com/sponsors/harikt) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/120454?u=e370aa2c95f8623d6e2bd83f07fad78bd1c91ee3&v=4" alt="" width="40" /> | Opensource lover, contributor, trying to maintain @auraphp . |
 | <!-- no item --> | <!-- no description --> |
+
+    
+
+## [🚀 Progyan Bhattacharya 👨🏻‍💻](https://github.com/0xTheProDev)
+
+| [@0xTheProDev](https://github.com/0xTheProDev) | [❤️Sponsor](https://github.com/sponsors/0xTheProDev) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/14367736?u=133b67215d8cd2b3873ca57f67c0108afc2a264f&v=4" alt="" width="40" /> | Software Engineer ｜ Maintainer otjs ｜ Former @aws Community Builder ｜ Open for Grant\/Sponsorships |
+| [fastapi-clean-example](https://github.com/0xTheProDev/fastapi-clean-example) | Clean Architecture Example using FastAPI framework |
 
     
 
@@ -2338,6 +2329,24 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
+## [Apurva Kumar](https://github.com/apurva313)
+
+| [@apurva313](https://github.com/apurva313) | [❤️Sponsor](https://github.com/sponsors/apurva313) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/102182985?u=18a598aa2b49e2a7aa21d61e6f8e2bcfe243b2e2&v=4" alt="" width="40" /> | B.Tech CSE ｜ AI\/ML & Research Enthusiast ｜ Python, JavaScript, Java, SQL ｜ MERN, Django, GCP, AWS ｜ CNN, LSTM, NLP ｜ Full Stack & ML Engineer |
+| [Java](https://github.com/apurva313/Java) | Java code repository showcasing diverse projects, applications, and exercises. Explore Java concepts, algorithms, and applications to enhance your coding skills and deepen your understanding of Java programming. |
+
+    
+
+## [Shivam ](https://github.com/itshivams)
+
+| [@itshivams](https://github.com/itshivams) | [❤️Sponsor](https://github.com/sponsors/itshivams) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/143623476?u=0841feeab2589bf8450e480556ea5deacad19dbc&v=4" alt="" width="40" /> | &gt; Just another node in the network |
+| <!-- no item --> | <!-- no description --> |
+
+    
+
 ## [Adithya Sreyaj](https://github.com/adisreyaj)
 
 | [@adisreyaj](https://github.com/adisreyaj) | [❤️Sponsor](https://github.com/sponsors/adisreyaj) |
@@ -2362,15 +2371,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/24257914?u=b8d4128fe964d67c25635ae5154e60945cef94e4&v=4" alt="" width="40" /> | Software Engineer, Designer |
 | [poliastro](https://github.com/poliastro/poliastro) | poliastro - :rocket: Astrodynamics in Python |
-
-    
-
-## [Shivam ](https://github.com/itshivams)
-
-| [@itshivams](https://github.com/itshivams) | [❤️Sponsor](https://github.com/sponsors/itshivams) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/143623476?u=0841feeab2589bf8450e480556ea5deacad19dbc&v=4" alt="" width="40" /> | &gt; Just another node in the network |
-| <!-- no item --> | <!-- no description --> |
 
     
 
@@ -2446,24 +2446,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Apurva Kumar](https://github.com/apurva313)
-
-| [@apurva313](https://github.com/apurva313) | [❤️Sponsor](https://github.com/sponsors/apurva313) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/102182985?u=18a598aa2b49e2a7aa21d61e6f8e2bcfe243b2e2&v=4" alt="" width="40" /> | B.Tech CSE ｜ AI\/ML & Research Enthusiast ｜ Python, JavaScript, Java, SQL ｜ MERN, Django, GCP, AWS ｜ CNN, LSTM, NLP ｜ Full Stack & ML Engineer |
-| [Java](https://github.com/apurva313/Java) | Java code repository showcasing diverse projects, applications, and exercises. Explore Java concepts, algorithms, and applications to enhance your coding skills and deepen your understanding of Java programming. |
-
-    
-
-## [Nitij](https://github.com/Nitij)
-
-| [@Nitij](https://github.com/Nitij) | [❤️Sponsor](https://github.com/sponsors/Nitij) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/5063760?u=66d6aca2a28ebcd145c10983a532336bc494591f&v=4" alt="" width="40" /> | Just a regular guy who likes programming, gaming, riding motorcycles, staying fit and a lot of other stuff. |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
 ## [Dhairya Majmudar](https://github.com/DhairyaMajmudar)
 
 | [@DhairyaMajmudar](https://github.com/DhairyaMajmudar) | [❤️Sponsor](https://github.com/sponsors/DhairyaMajmudar) |
@@ -2473,11 +2455,11 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [decipher](https://github.com/decipher3114)
+## [Nitij](https://github.com/Nitij)
 
-| [@decipher3114](https://github.com/decipher3114) | [❤️Sponsor](https://github.com/sponsors/decipher3114) |
+| [@Nitij](https://github.com/Nitij) | [❤️Sponsor](https://github.com/sponsors/Nitij) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/84389932?u=22a26613c65c20cb546d00bb6421a98ba98e06cc&v=4" alt="" width="40" /> |  |
+| <img src="https://avatars.githubusercontent.com/u/5063760?u=66d6aca2a28ebcd145c10983a532336bc494591f&v=4" alt="" width="40" /> | Just a regular guy who likes programming, gaming, riding motorcycles, staying fit and a lot of other stuff. |
 | <!-- no item --> | <!-- no description --> |
 
     
@@ -2491,12 +2473,12 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Robin Rodricks](https://github.com/robinrodricks)
+## [decipher](https://github.com/decipher3114)
 
-| [@robinrodricks](https://github.com/robinrodricks) | [❤️Sponsor](https://github.com/sponsors/robinrodricks) |
+| [@decipher3114](https://github.com/decipher3114) | [❤️Sponsor](https://github.com/sponsors/decipher3114) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/6797866?u=7588f3f1b30ecb151b5850caf1d17dd86bf591d0&v=4" alt="" width="40" /> | Cloud Solutions Architect \(AWS, Azure, .NET, Golang, Python, Node, Angular\) |
-| [FluentFTP](https://github.com/robinrodricks/FluentFTP) | An FTP and FTPS client for .NET & .NET Standard, optimized for speed. Provides extensive FTP commands, File uploads\/downloads, SSL\/TLS connections, Automatic directory listing parsing, File hashing\/checksums, File permissions\/CHMOD, FTP proxies, FXP support, UTF-8 support, Async\/await support, Powershell support and more. Written entirely in C\#. |
+| <img src="https://avatars.githubusercontent.com/u/84389932?u=22a26613c65c20cb546d00bb6421a98ba98e06cc&v=4" alt="" width="40" /> |  |
+| <!-- no item --> | <!-- no description --> |
 
     
 
@@ -2506,6 +2488,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/69336518?u=359ccef9374b43c85ccccf0902667920db5be4f2&v=4" alt="" width="40" /> | Software Engineer, building products with startups and b2b companies |
 | [invoicen](https://github.com/aayushchugh/invoicen) | A robust and scalable invoicing solution designed to simplify billing and payment workflows for businesses. |
+
+    
+
+## [Robin Rodricks](https://github.com/robinrodricks)
+
+| [@robinrodricks](https://github.com/robinrodricks) | [❤️Sponsor](https://github.com/sponsors/robinrodricks) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/6797866?u=7588f3f1b30ecb151b5850caf1d17dd86bf591d0&v=4" alt="" width="40" /> | Cloud Solutions Architect \(AWS, Azure, .NET, Golang, Python, Node, Angular\) |
+| [FluentFTP](https://github.com/robinrodricks/FluentFTP) | An FTP and FTPS client for .NET & .NET Standard, optimized for speed. Provides extensive FTP commands, File uploads\/downloads, SSL\/TLS connections, Automatic directory listing parsing, File hashing\/checksums, File permissions\/CHMOD, FTP proxies, FXP support, UTF-8 support, Async\/await support, Powershell support and more. Written entirely in C\#. |
 
     
 
@@ -2581,6 +2572,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
+## [Smit Barmase](https://github.com/smitbarmase)
+
+| [@smitbarmase](https://github.com/smitbarmase) | [❤️Sponsor](https://github.com/sponsors/smitbarmase) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/37347831?u=1aadea8b01ecc2d2d26c65916ddf764dc23baa4d&v=4" alt="" width="40" /> |  |
+| [zed](https://github.com/zed-industries/zed) | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
+
+    
+
 ## [Sakthivel Nadar](https://github.com/SakthivelNadar)
 
 | [@SakthivelNadar](https://github.com/SakthivelNadar) | [❤️Sponsor](https://github.com/sponsors/SakthivelNadar) |
@@ -2608,15 +2608,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Smit Barmase](https://github.com/smitbarmase)
-
-| [@smitbarmase](https://github.com/smitbarmase) | [❤️Sponsor](https://github.com/sponsors/smitbarmase) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/37347831?u=1aadea8b01ecc2d2d26c65916ddf764dc23baa4d&v=4" alt="" width="40" /> |  |
-| [zed](https://github.com/zed-industries/zed) | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
-
-    
-
 ## [Anurag Sharma](https://github.com/anu0012)
 
 | [@anu0012](https://github.com/anu0012) | [❤️Sponsor](https://github.com/sponsors/anu0012) |
@@ -2626,21 +2617,21 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Yajat Malhotra](https://github.com/iamyajat)
-
-| [@iamyajat](https://github.com/iamyajat) | [❤️Sponsor](https://github.com/sponsors/iamyajat) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/68477362?u=bf063c34817ae7a0a6b3e6c26abea78818d200a2&v=4" alt="" width="40" /> | Kaggle Notebooks Expert ｜ ML Developer ｜ App Developer |
-| [HypeLinks-API](https://github.com/iamyajat/HypeLinks-API) | A Smart Bookmark API that can classify websites into 10 different categories built using FastAPI and Tensorflow 2.0 |
-
-    
-
 ## [Ani](https://github.com/anistark)
 
 | [@anistark](https://github.com/anistark) | [❤️Sponsor](https://github.com/sponsors/anistark) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/5357586?u=cc4b84a2b68320f49be16871f4867bd7409137c7&v=4" alt="" width="40" /> | Entrepreneur & Developer. Love solving hard problems. Always curiously building for the future of tech. |
 | [feluda](https://github.com/anistark/feluda) | Detect license usage restrictions in your project! |
+
+    
+
+## [Yajat Malhotra](https://github.com/iamyajat)
+
+| [@iamyajat](https://github.com/iamyajat) | [❤️Sponsor](https://github.com/sponsors/iamyajat) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/68477362?u=bf063c34817ae7a0a6b3e6c26abea78818d200a2&v=4" alt="" width="40" /> | Kaggle Notebooks Expert ｜ ML Developer ｜ App Developer |
+| [HypeLinks-API](https://github.com/iamyajat/HypeLinks-API) | A Smart Bookmark API that can classify websites into 10 different categories built using FastAPI and Tensorflow 2.0 |
 
     
 
@@ -2662,21 +2653,21 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [yashksaini-coder](https://github.com/yashksaini-coder)
-
-| [@yashksaini-coder](https://github.com/yashksaini-coder) | [❤️Sponsor](https://github.com/sponsors/yashksaini-coder) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/115717039?u=0b29ef1048c61b16c2d3aa0256da535c59085ded&v=4" alt="" width="40" /> | Building 🌐 Skynet from Terminator 🤖  |
-| [Kleos](https://github.com/yashksaini-coder/Kleos) | Every system has its `telos´ — its final cause. This CLI fulfills the purpose of MindsDB's Knowledge Base: to seek, structure, and serve insight through intelligent agents. |
-
-    
-
 ## [Megh Bari](https://github.com/megh-bari)
 
 | [@megh-bari](https://github.com/megh-bari) | [❤️Sponsor](https://github.com/sponsors/megh-bari) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/142393952?u=b2128fb89d5b1dbcd543edef7b7175cf9655ade1&v=4" alt="" width="40" /> | 🚀 Let's code, build, and innovate together!  |
 | [pattern-craft](https://github.com/megh-bari/pattern-craft) | Professional-grade background patterns and gradients for your websites and apps. Easily copy and paste into your next project. Crafted with modern CSS and Tailwind for seamless integration. |
+
+    
+
+## [yashksaini-coder](https://github.com/yashksaini-coder)
+
+| [@yashksaini-coder](https://github.com/yashksaini-coder) | [❤️Sponsor](https://github.com/sponsors/yashksaini-coder) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/115717039?u=0b29ef1048c61b16c2d3aa0256da535c59085ded&v=4" alt="" width="40" /> | Building 🌐 Skynet from Terminator 🤖  |
+| [Kleos](https://github.com/yashksaini-coder/Kleos) | Every system has its `telos´ — its final cause. This CLI fulfills the purpose of MindsDB's Knowledge Base: to seek, structure, and serve insight through intelligent agents. |
 
     
 
@@ -2851,6 +2842,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
+## [Ashish](https://github.com/ashish0kumar)
+
+| [@ashish0kumar](https://github.com/ashish0kumar) | [❤️Sponsor](https://github.com/sponsors/ashish0kumar) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/143941235?u=5d0901a878fc26d2e7ee0bf37b538edffd2c8104&v=4" alt="" width="40" /> | cs undergrad :: web & systems dev |
+| [windots](https://github.com/ashish0kumar/windots) | 🌾 My Windows setup |
+
+    
+
 ## [Jyotiraditya Panda](https://github.com/imjyotiraditya)
 
 | [@imjyotiraditya](https://github.com/imjyotiraditya) | [❤️Sponsor](https://github.com/sponsors/imjyotiraditya) |
@@ -2884,6 +2884,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/65061890?u=2288b62b2e381d6a208ee7e5b36413008b3be3b9&v=4" alt="" width="40" /> | Full Stack Engineer ｜ Integration Ninja |
 | [mcp-marketplace](https://github.com/Nabhag8848/mcp-marketplace) | Discover MCP Servers over the Internet |
+
+    
+
+## [Aman Varshney](https://github.com/AmanVarshney01)
+
+| [@AmanVarshney01](https://github.com/AmanVarshney01) | [❤️Sponsor](https://github.com/sponsors/AmanVarshney01) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/45312299?u=3153e14a97701a29b37c87c003b1355ded3d189d&v=4" alt="" width="40" /> |     |
+| [create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack) | A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations |
 
     
 
@@ -2941,15 +2950,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Aman Varshney](https://github.com/AmanVarshney01)
-
-| [@AmanVarshney01](https://github.com/AmanVarshney01) | [❤️Sponsor](https://github.com/sponsors/AmanVarshney01) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/45312299?u=3153e14a97701a29b37c87c003b1355ded3d189d&v=4" alt="" width="40" /> |     |
-| [create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack) | A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations |
-
-    
-
 ## [Abin Simon](https://github.com/meain)
 
 | [@meain](https://github.com/meain) | [❤️Sponsor](https://github.com/sponsors/meain) |
@@ -3001,15 +3001,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/83997633?u=ce8480137a19bc67e22c2d445f7ee86f7fc201f2&v=4" alt="" width="40" /> | I am so lazy that I automate everything. |
 | [winget-releaser](https://github.com/vedantmgoyal9/winget-releaser) | Publish new releases of your application to the Windows Package Manager easily. |
-
-    
-
-## [Ashish](https://github.com/ashish0kumar)
-
-| [@ashish0kumar](https://github.com/ashish0kumar) | [❤️Sponsor](https://github.com/sponsors/ashish0kumar) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/143941235?u=5d0901a878fc26d2e7ee0bf37b538edffd2c8104&v=4" alt="" width="40" /> | cs undergrad :: web & systems dev |
-| [windots](https://github.com/ashish0kumar/windots) | 🌾 My Windows setup |
 
     
 
@@ -3085,6 +3076,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
+## [Nisarg Jhaveri](https://github.com/nisargjhaveri)
+
+| [@nisargjhaveri](https://github.com/nisargjhaveri) | [❤️Sponsor](https://github.com/sponsors/nisargjhaveri) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/6381721?u=d0e6e679ccfa0f0987b31aea1e970bc15d4d5abd&v=4" alt="" width="40" /> |  |
+| [remote-adb](https://github.com/nisargjhaveri/remote-adb) | Share Android devices for debugging on a remote machine via an easy web interface |
+
+    
+
 ## [Pushpak Chhajed](https://github.com/pushpak1300)
 
 | [@pushpak1300](https://github.com/pushpak1300) | [❤️Sponsor](https://github.com/sponsors/pushpak1300) |
@@ -3118,15 +3118,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/58552395?u=6000819d41d46f2e543ee79f8b1203adb5434949&v=4" alt="" width="40" /> | AFK for an indefinite period due to personal reasons.  |
 | [Myne](https://github.com/Pool-Of-Tears/Myne) | An android app to download & read ebooks from Project Gutenberg, built with  Jetpack Compose. |
-
-    
-
-## [Nisarg Jhaveri](https://github.com/nisargjhaveri)
-
-| [@nisargjhaveri](https://github.com/nisargjhaveri) | [❤️Sponsor](https://github.com/sponsors/nisargjhaveri) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/6381721?u=d0e6e679ccfa0f0987b31aea1e970bc15d4d5abd&v=4" alt="" width="40" /> |  |
-| [remote-adb](https://github.com/nisargjhaveri/remote-adb) | Share Android devices for debugging on a remote machine via an easy web interface |
 
     
 
@@ -3427,6 +3418,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
+## [Rinkit Adhana](https://github.com/rinkitadhana)
+
+| [@rinkitadhana](https://github.com/rinkitadhana) | [❤️Sponsor](https://github.com/sponsors/rinkitadhana) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/115058302?u=bd8a6b2a27ca07b1e2013186c318d3f9a28af71a&v=4" alt="" width="40" /> | If I can imagine it, then I can build it. |
+| [The-Daily-Crimes](https://github.com/rinkitadhana/The-Daily-Crimes) | A dynamic, newspaper-style web app shedding light on the rising crime rates in India. This project presents data-driven insights and sharp commentary on crucial issues, wrapped in an engaging and interactive design. |
+
+    
+
 ## [Sujit Kumar](https://github.com/therealsujitk)
 
 | [@therealsujitk](https://github.com/therealsujitk) | [❤️Sponsor](https://github.com/sponsors/therealsujitk) |
@@ -3472,15 +3472,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Rinkit Adhana](https://github.com/rinkitadhana)
-
-| [@rinkitadhana](https://github.com/rinkitadhana) | [❤️Sponsor](https://github.com/sponsors/rinkitadhana) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/115058302?u=bd8a6b2a27ca07b1e2013186c318d3f9a28af71a&v=4" alt="" width="40" /> | If I can imagine it, then I can build it. |
-| [The-Daily-Crimes](https://github.com/rinkitadhana/The-Daily-Crimes) | A dynamic, newspaper-style web app shedding light on the rising crime rates in India. This project presents data-driven insights and sharp commentary on crucial issues, wrapped in an engaging and interactive design. |
-
-    
-
 ## [JD Solanki](https://github.com/jd-solanki)
 
 | [@jd-solanki](https://github.com/jd-solanki) | [❤️Sponsor](https://github.com/sponsors/jd-solanki) |
@@ -3499,12 +3490,30 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
+## [Kartik Labhshetwar](https://github.com/KartikLabhshetwar)
+
+| [@KartikLabhshetwar](https://github.com/KartikLabhshetwar) | [❤️Sponsor](https://github.com/sponsors/KartikLabhshetwar) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/141413343?u=32360e0e3022aec830c6824a0f69955a9f2aed00&v=4" alt="" width="40" /> | Build ship grow. |
+| [mind-mentor](https://github.com/KartikLabhshetwar/mind-mentor) | Mind Mentor is an innovative AI-powered study assistant designed to revolutionize the way students learn and prepare for exams. |
+
+    
+
 ## [AunAli K.](https://github.com/Aunali321)
 
 | [@Aunali321](https://github.com/Aunali321) | [❤️Sponsor](https://github.com/sponsors/Aunali321) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/48486084?u=d1ab9a42909f2aac16c74f706bdd287130cd85db&v=4" alt="" width="40" /> | A 21 year old open-source developer from India. I'm very passionate about AI\/ML, reverse engineering and all sorts of music! |
 | [revanced-manager](https://github.com/ReVanced/revanced-manager) | 💊 Application to use ReVanced on Android  |
+
+    
+
+## [panchajanya.](https://github.com/Panchajanya1999)
+
+| [@Panchajanya1999](https://github.com/Panchajanya1999) | [❤️Sponsor](https://github.com/sponsors/Panchajanya1999) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/26135639?u=ba93a1495b520d095a21977a44d97e6001a56746&v=4" alt="" width="40" /> |  |
+| [msm-4.14](https://github.com/Panchajanya1999/msm-4.14) | source code for android-msm-4.14 ｜｜ Backported Stuffs can be found here ｜｜ alert FORCE PUSH ｜｜ |
 
     
 
@@ -3517,12 +3526,12 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [panchajanya.](https://github.com/Panchajanya1999)
+## [Sachin](https://github.com/S4CH)
 
-| [@Panchajanya1999](https://github.com/Panchajanya1999) | [❤️Sponsor](https://github.com/sponsors/Panchajanya1999) |
+| [@S4CH](https://github.com/S4CH) | [❤️Sponsor](https://github.com/sponsors/S4CH) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/26135639?u=ba93a1495b520d095a21977a44d97e6001a56746&v=4" alt="" width="40" /> |  |
-| [msm-4.14](https://github.com/Panchajanya1999/msm-4.14) | source code for android-msm-4.14 ｜｜ Backported Stuffs can be found here ｜｜ alert FORCE PUSH ｜｜ |
+| <img src="https://avatars.githubusercontent.com/u/78366282?u=a9899ed648fab55d92635d363c9b07b104383c48&v=4" alt="" width="40" /> | Security Researcher ｜ Red Teamer ｜ CTF Player |
+| [s4ch.github.io](https://github.com/S4CH/s4ch.github.io) | Another random blog about security |
 
     
 
@@ -3553,12 +3562,12 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Sachin](https://github.com/S4CH)
+## [Zishan Ahamed Thandar](https://github.com/ZishanAdThandar)
 
-| [@S4CH](https://github.com/S4CH) | [❤️Sponsor](https://github.com/sponsors/S4CH) |
+| [@ZishanAdThandar](https://github.com/ZishanAdThandar) | [❤️Sponsor](https://github.com/sponsors/ZishanAdThandar) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/78366282?u=a9899ed648fab55d92635d363c9b07b104383c48&v=4" alt="" width="40" /> | Security Researcher ｜ Red Teamer ｜ CTF Player |
-| [s4ch.github.io](https://github.com/S4CH/s4ch.github.io) | Another random blog about security |
+| <img src="https://avatars.githubusercontent.com/u/16804210?u=93f464fe707d3d62335b642ae9414b11c2516d98&v=4" alt="" width="40" /> | Security Researcher ｜ Pentester ｜ Ethical Hacker ｜ Bug Hunter ｜ CTF Competitor ｜ Building tools to automate vulnerability hunting ｜ FOSS Advocate ｜ Developer |
+| <!-- no item --> | <!-- no description --> |
 
     
 
@@ -3580,15 +3589,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Zishan Ahamed Thandar](https://github.com/ZishanAdThandar)
-
-| [@ZishanAdThandar](https://github.com/ZishanAdThandar) | [❤️Sponsor](https://github.com/sponsors/ZishanAdThandar) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/16804210?u=93f464fe707d3d62335b642ae9414b11c2516d98&v=4" alt="" width="40" /> | Security Researcher ｜ Pentester ｜ Ethical Hacker ｜ Bug Hunter ｜ CTF Competitor ｜ Building tools to automate vulnerability hunting ｜ FOSS Advocate ｜ Developer |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
 ## [Priyansh Prajapat ](https://github.com/oyepriyansh)
 
 | [@oyepriyansh](https://github.com/oyepriyansh) | [❤️Sponsor](https://github.com/sponsors/oyepriyansh) |
@@ -3607,15 +3607,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Kartik Labhshetwar](https://github.com/KartikLabhshetwar)
-
-| [@KartikLabhshetwar](https://github.com/KartikLabhshetwar) | [❤️Sponsor](https://github.com/sponsors/KartikLabhshetwar) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/141413343?u=32360e0e3022aec830c6824a0f69955a9f2aed00&v=4" alt="" width="40" /> | Build ship grow. |
-| [mind-mentor](https://github.com/KartikLabhshetwar/mind-mentor) | Mind Mentor is an innovative AI-powered study assistant designed to revolutionize the way students learn and prepare for exams. |
-
-    
-
 ## [Raman Sharma](https://github.com/RamanSharma100)
 
 | [@RamanSharma100](https://github.com/RamanSharma100) | [❤️Sponsor](https://github.com/sponsors/RamanSharma100) |
@@ -3631,15 +3622,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/2667549?v=4" alt="" width="40" /> | I am a learner. I like to program for anything but Cyber security & Forensic, AI & ML and Web development take me to deep diving. Python, C, C++ |
 | [ClaMP](https://github.com/urwithajit9/ClaMP) | A Malware classifier dataset built with header fields’ values of Portable Executable files |
-
-    
-
-## [Khushal Agarwal](https://github.com/khushal87)
-
-| [@khushal87](https://github.com/khushal87) | [❤️Sponsor](https://github.com/sponsors/khushal87) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/39884168?u=87cff3f5b4575ddedec7f398254b718589e456b8&v=4" alt="" width="40" /> | Software Engineer @getstream ｜ Google summer of Code'21 @react-native-elements ｜ JavaScript ⭐  |
-| [google-summer-of-code](https://github.com/khushal87/google-summer-of-code) | A summary of my work done during the Google Summer of Code\(GSoC\)'21 at the organization React Native Elements. |
 
     
 
@@ -3679,6 +3661,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
+## [Khushal Agarwal](https://github.com/khushal87)
+
+| [@khushal87](https://github.com/khushal87) | [❤️Sponsor](https://github.com/sponsors/khushal87) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/39884168?u=87cff3f5b4575ddedec7f398254b718589e456b8&v=4" alt="" width="40" /> | Software Engineer @getstream ｜ Google summer of Code'21 @react-native-elements ｜ JavaScript ⭐  |
+| [google-summer-of-code](https://github.com/khushal87/google-summer-of-code) | A summary of my work done during the Google Summer of Code\(GSoC\)'21 at the organization React Native Elements. |
+
+    
+
 ## [BIKI DAS](https://github.com/Biki-das)
 
 | [@Biki-das](https://github.com/Biki-das) | [❤️Sponsor](https://github.com/sponsors/Biki-das) |
@@ -3715,12 +3706,30 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
+## [Dhanush R](https://github.com/TheOnlyWayUp)
+
+| [@TheOnlyWayUp](https://github.com/TheOnlyWayUp) | [❤️Sponsor](https://github.com/sponsors/TheOnlyWayUp) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/76237496?u=48d1a4e47698bb98fdcbc026da7edb84e61eddac&v=4" alt="" width="40" /> | 🥪 Full Stack Developer 8️⃣ Years of experience 💬 Contact me at hi@towu.dev \/ theonlywayup on discord 🔥 Love to Learn   |
+| [Wattpad-Py](https://github.com/TheOnlyWayUp/Wattpad-Py) | ⚡🐍 Fast, Pythonic, Asynchronous, Fully-Typed, and Well-Documented. `wattpad-py` is the \_only\_ Wattpad API Wrapper for Python. |
+
+    
+
 ## [Aryan Kathawale](https://github.com/kiritocode1)
 
 | [@kiritocode1](https://github.com/kiritocode1) | [❤️Sponsor](https://github.com/sponsors/kiritocode1) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/78982932?u=de375cdf1a6975397030755c3fb18baefb96e411&v=4" alt="" width="40" /> | 4+ YOE in Software development.  Freelance Developer familiar with Typescript, Go, Gleam,C, Java and Python.   |
 | [resend\_demo](https://github.com/kiritocode1/resend_demo) | another clone of a loved startup  |
+
+    
+
+## [K Om Senapati ](https://github.com/k0msenapati)
+
+| [@k0msenapati](https://github.com/k0msenapati) | [❤️Sponsor](https://github.com/sponsors/k0msenapati) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/92045934?u=cd01df903e3fa5e00b3dbaf98ca45482a459dcc3&v=4" alt="" width="40" /> | Open Source Contributor ｜ Python, JS\/TS ｜ CSE '27  |
+| [real-time-voting-app](https://github.com/k0msenapati/real-time-voting-app) | 🗳️ Real-time voting app with live updates, ⚡ powered by Fluvio and SSE... |
 
     
 
@@ -3733,12 +3742,12 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Dhanush R](https://github.com/TheOnlyWayUp)
+## [Dipankar Das](https://github.com/dipankardas011)
 
-| [@TheOnlyWayUp](https://github.com/TheOnlyWayUp) | [❤️Sponsor](https://github.com/sponsors/TheOnlyWayUp) |
+| [@dipankardas011](https://github.com/dipankardas011) | [❤️Sponsor](https://github.com/sponsors/dipankardas011) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/76237496?u=48d1a4e47698bb98fdcbc026da7edb84e61eddac&v=4" alt="" width="40" /> | 🥪 Full Stack Developer 8️⃣ Years of experience 💬 Contact me at hi@towu.dev \/ theonlywayup on discord 🔥 Love to Learn   |
-| [Wattpad-Py](https://github.com/TheOnlyWayUp/Wattpad-Py) | ⚡🐍 Fast, Pythonic, Asynchronous, Fully-Typed, and Well-Documented. `wattpad-py` is the \_only\_ Wattpad API Wrapper for Python. |
+| <img src="https://avatars.githubusercontent.com/u/65275144?u=6ce72e98eb7a71b9489b1b25224e2fd9d013b386&v=4" alt="" width="40" /> | Platform Engineer ｜ Founder of @ksctl ｜ Member of @kubernetes and @kubernetes-sigs ｜ Contributor of @cncf-tags Green-Reviews |
+| [ksctl](https://github.com/ksctl/ksctl) | Simplified Kubernetes Clusters Lifecycle Management \(Core\)  |
 
     
 
@@ -3769,12 +3778,12 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Dipankar Das](https://github.com/dipankardas011)
+## [Tarun Pothulapati](https://github.com/Pothulapati)
 
-| [@dipankardas011](https://github.com/dipankardas011) | [❤️Sponsor](https://github.com/sponsors/dipankardas011) |
+| [@Pothulapati](https://github.com/Pothulapati) | [❤️Sponsor](https://github.com/sponsors/Pothulapati) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/65275144?u=6ce72e98eb7a71b9489b1b25224e2fd9d013b386&v=4" alt="" width="40" /> | Platform Engineer ｜ Founder of @ksctl ｜ Member of @kubernetes and @kubernetes-sigs ｜ Contributor of @cncf-tags Green-Reviews |
-| [ksctl](https://github.com/ksctl/ksctl) | Simplified Kubernetes Clusters Lifecycle Management \(Core\)  |
+| <img src="https://avatars.githubusercontent.com/u/7892868?u=c5789e09edef22224ca0d1dacb747823be3cad77&v=4" alt="" width="40" /> |  |
+| [dragonfly-operator](https://github.com/dragonflydb/dragonfly-operator) | A Kubernetes operator to install and manage Dragonfly instances. |
 
     
 
@@ -3796,15 +3805,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Arpit Bhalla](https://github.com/arpitBhalla)
-
-| [@arpitBhalla](https://github.com/arpitBhalla) | [❤️Sponsor](https://github.com/sponsors/arpitBhalla) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/55053424?u=d579c31232beb45e220f18b0a9c07184cb47c53b&v=4" alt="" width="40" /> | Engineering @datadash-xyz  |
-| [react-native-elements](https://github.com/react-native-elements/react-native-elements) | Cross-Platform React Native UI Toolkit |
-
-    
-
 ## [souvik dutta](https://github.com/souvik666)
 
 | [@souvik666](https://github.com/souvik666) | [❤️Sponsor](https://github.com/sponsors/souvik666) |
@@ -3814,21 +3814,21 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Tarun Pothulapati](https://github.com/Pothulapati)
-
-| [@Pothulapati](https://github.com/Pothulapati) | [❤️Sponsor](https://github.com/sponsors/Pothulapati) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/7892868?u=c5789e09edef22224ca0d1dacb747823be3cad77&v=4" alt="" width="40" /> |  |
-| [dragonfly-operator](https://github.com/dragonflydb/dragonfly-operator) | A Kubernetes operator to install and manage Dragonfly instances. |
-
-    
-
 ## [Arunvel Sriram](https://github.com/arunvelsriram)
 
 | [@arunvelsriram](https://github.com/arunvelsriram) | [❤️Sponsor](https://github.com/sponsors/arunvelsriram) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/6568319?u=e9f621501a5388d3ea31e160818d83799d669541&v=4" alt="" width="40" /> | Developer ｜ Polyglot ｜ DevOps ｜ Open Source |
 | [docker-time-sync-agent](https://github.com/arunvelsriram/docker-time-sync-agent) | docker-time-sync-agent is a tool to prevent time drift in Docker for Mac's HyperKit VM. |
+
+    
+
+## [Arpit Bhalla](https://github.com/arpitBhalla)
+
+| [@arpitBhalla](https://github.com/arpitBhalla) | [❤️Sponsor](https://github.com/sponsors/arpitBhalla) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/55053424?u=d579c31232beb45e220f18b0a9c07184cb47c53b&v=4" alt="" width="40" /> | Engineering @datadash-xyz  |
+| [react-native-elements](https://github.com/react-native-elements/react-native-elements) | Cross-Platform React Native UI Toolkit |
 
     
 
@@ -3913,15 +3913,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [K Om Senapati ](https://github.com/k0msenapati)
-
-| [@k0msenapati](https://github.com/k0msenapati) | [❤️Sponsor](https://github.com/sponsors/k0msenapati) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/92045934?u=cd01df903e3fa5e00b3dbaf98ca45482a459dcc3&v=4" alt="" width="40" /> | Open Source Contributor ｜ Python, JS\/TS ｜ CSE '27  |
-| [real-time-voting-app](https://github.com/k0msenapati/real-time-voting-app) | 🗳️ Real-time voting app with live updates, ⚡ powered by Fluvio and SSE... |
-
-    
-
 ## [Khushal Sharma](https://github.com/Logan1x)
 
 | [@Logan1x](https://github.com/Logan1x) | [❤️Sponsor](https://github.com/sponsors/Logan1x) |
@@ -4003,12 +3994,12 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Sikriti Dakua](https://github.com/devloop01)
+## [Shriharsh](https://github.com/Shriharsh-Deshmukh)
 
-| [@devloop01](https://github.com/devloop01) | [❤️Sponsor](https://github.com/sponsors/devloop01) |
+| [@Shriharsh-Deshmukh](https://github.com/Shriharsh-Deshmukh) | [❤️Sponsor](https://github.com/sponsors/Shriharsh-Deshmukh) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/38714423?u=fd32f0f31a466f8de51d5d13008019cbd93843f2&v=4" alt="" width="40" /> |  |
-| [webgpu-examples](https://github.com/devloop01/webgpu-examples) | <!-- no description --> |
+| <img src="https://avatars.githubusercontent.com/u/147980267?v=4" alt="" width="40" /> | 👋 Hello there! I am a passionate software developer with a knack for problem-solving and a love for writing clean and efficient code. |
+| [DataVerseMagic](https://github.com/Shriharsh-Deshmukh/DataVerseMagic) | Welcome to the DataVerseMagic \(Database Management System Repository\). |
 
     
 
@@ -4018,6 +4009,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/11075561?u=9d4de53bdbc552c92b6a3e24082fab4fb169b4ff&v=4" alt="" width="40" /> | Developer ｜ Traveler ｜ Engineering  @userflow 📈 ｜ Previously @teleporthq 🤖 ｜ @codesandbox 📦  |
 | [teleport-code-generators](https://github.com/teleporthq/teleport-code-generators) | A collection of code generators for modern JavaScript applications |
+
+    
+
+## [Sikriti Dakua](https://github.com/devloop01)
+
+| [@devloop01](https://github.com/devloop01) | [❤️Sponsor](https://github.com/sponsors/devloop01) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/38714423?u=fd32f0f31a466f8de51d5d13008019cbd93843f2&v=4" alt="" width="40" /> |  |
+| [webgpu-examples](https://github.com/devloop01/webgpu-examples) | <!-- no description --> |
 
     
 
@@ -4048,12 +4048,12 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Shriharsh](https://github.com/Shriharsh-Deshmukh)
+## [Santosh Arron](https://github.com/santosharron)
 
-| [@Shriharsh-Deshmukh](https://github.com/Shriharsh-Deshmukh) | [❤️Sponsor](https://github.com/sponsors/Shriharsh-Deshmukh) |
+| [@santosharron](https://github.com/santosharron) | [❤️Sponsor](https://github.com/sponsors/santosharron) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/147980267?v=4" alt="" width="40" /> | 👋 Hello there! I am a passionate software developer with a knack for problem-solving and a love for writing clean and efficient code. |
-| [DataVerseMagic](https://github.com/Shriharsh-Deshmukh/DataVerseMagic) | Welcome to the DataVerseMagic \(Database Management System Repository\). |
+| <img src="https://avatars.githubusercontent.com/u/73644573?u=d3df0d83da0f1655d26f3b21fcaa5596db6dc1ae&v=4" alt="" width="40" /> |  |
+| [Brian-AI](https://github.com/santosharron/Brian-AI) | Brian uses GPT-4 to control your browser and perform repetitive actions on your behalf. Currently it allows you to define ad-hoc instructions. |
 
     
 
@@ -4075,21 +4075,21 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Santosh Arron](https://github.com/santosharron)
-
-| [@santosharron](https://github.com/santosharron) | [❤️Sponsor](https://github.com/sponsors/santosharron) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/73644573?u=d3df0d83da0f1655d26f3b21fcaa5596db6dc1ae&v=4" alt="" width="40" /> |  |
-| [Brian-AI](https://github.com/santosharron/Brian-AI) | Brian uses GPT-4 to control your browser and perform repetitive actions on your behalf. Currently it allows you to define ad-hoc instructions. |
-
-    
-
 ## [Shubham Tribhuvan](https://github.com/Shubhamtribhuvan8)
 
 | [@Shubhamtribhuvan8](https://github.com/Shubhamtribhuvan8) | [❤️Sponsor](https://github.com/sponsors/Shubhamtribhuvan8) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/106821254?u=a193e89f087469544ed1af401c58a218d394b722&v=4" alt="" width="40" /> |  Full Stack Web Developer |
 | [appleClone](https://github.com/Shubhamtribhuvan8/appleClone) |  The "Appleclone" project is a self-initiated project that uses the React library, along with HTML, CSS, and JavaScript, to create a user-friendly and interactive website. This project aims to imitate the design and functionality of Apple's official website, offering a clean and modern interface that showcases various products, such as iPhones, Mac |
+
+    
+
+## [Devesh Pal](https://github.com/New-dev0)
+
+| [@New-dev0](https://github.com/New-dev0) | [❤️Sponsor](https://github.com/sponsors/New-dev0) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/69723581?u=77846dcec13e7e0f35d7d3ae858883db7070ae80&v=4" alt="" width="40" /> | Human ｜ @TeamUltroid  |
+| [TgTwitterStreamer](https://github.com/New-dev0/TgTwitterStreamer) | Continuous Integration from Twitter to Telegram. |
 
     
 
@@ -4120,12 +4120,12 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Devesh Pal](https://github.com/New-dev0)
+## [shub39](https://github.com/shub39)
 
-| [@New-dev0](https://github.com/New-dev0) | [❤️Sponsor](https://github.com/sponsors/New-dev0) |
+| [@shub39](https://github.com/shub39) | [❤️Sponsor](https://github.com/sponsors/shub39) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/69723581?u=77846dcec13e7e0f35d7d3ae858883db7070ae80&v=4" alt="" width="40" /> | Human ｜ @TeamUltroid  |
-| [TgTwitterStreamer](https://github.com/New-dev0/TgTwitterStreamer) | Continuous Integration from Twitter to Telegram. |
+| <img src="https://avatars.githubusercontent.com/u/143277026?u=83db1253d0910ad10fe0052a02bb8351a8803c08&v=4" alt="" width="40" /> | Android dev and Linux nerd |
+| [Rush](https://github.com/shub39/Rush) | ✨ App to search, save and share lyrics like spotify!  |
 
     
 
@@ -4135,15 +4135,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/73882557?u=de1c16f50969b161d7c31a10ed88e8f374b92ab7&v=4" alt="" width="40" /> | Security @Canonical ｜ @kubernetes Release Team Lead v1.34 ｜ @kubernetes Security Response Committee ｜ @cncf Ambassador ｜ @mindersec maintainer |
 | [checkstyle](https://github.com/checkstyle/checkstyle) | Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. |
-
-    
-
-## [shub39](https://github.com/shub39)
-
-| [@shub39](https://github.com/shub39) | [❤️Sponsor](https://github.com/sponsors/shub39) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/143277026?u=83db1253d0910ad10fe0052a02bb8351a8803c08&v=4" alt="" width="40" /> | Android dev and Linux nerd |
-| [Rush](https://github.com/shub39/Rush) | ✨ App to search, save and share lyrics like spotify!  |
 
     
 
@@ -4210,6 +4201,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
+## [Arkapravo Ghosh](https://github.com/Arkapravo-Ghosh)
+
+| [@Arkapravo-Ghosh](https://github.com/Arkapravo-Ghosh) | [❤️Sponsor](https://github.com/sponsors/Arkapravo-Ghosh) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/65386474?u=3725db0fbc854f5596e902317732316944d2650a&v=4" alt="" width="40" /> | I use Arch btw |
+| [Smart-Parking-System](https://github.com/Arkapravo-Ghosh/Smart-Parking-System) | Smart Parking System made using Node JS, Express JS and React JS |
+
+    
+
 ## [Ghazi](https://github.com/mgks)
 
 | [@mgks](https://github.com/mgks) | [❤️Sponsor](https://github.com/sponsors/mgks) |
@@ -4234,15 +4234,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/26383905?u=41b5f265617d49c435eef4fe09f0fe5e1e03f80b&v=4" alt="" width="40" /> | A graphics programmer interested in coding games and game engines. Check out my projects on GitHub. |
 | [Sentinel](https://github.com/CybernetHacker14/Sentinel) | DX11 C++14 Game Engine |
-
-    
-
-## [Arkapravo Ghosh](https://github.com/Arkapravo-Ghosh)
-
-| [@Arkapravo-Ghosh](https://github.com/Arkapravo-Ghosh) | [❤️Sponsor](https://github.com/sponsors/Arkapravo-Ghosh) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/65386474?u=3725db0fbc854f5596e902317732316944d2650a&v=4" alt="" width="40" /> | I use Arch btw |
-| [Smart-Parking-System](https://github.com/Arkapravo-Ghosh/Smart-Parking-System) | Smart Parking System made using Node JS, Express JS and React JS |
 
     
 
@@ -4363,6 +4354,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
+## [Pankaj Kumar](https://github.com/PankajKumardev)
+
+| [@PankajKumardev](https://github.com/PankajKumardev) | [❤️Sponsor](https://github.com/sponsors/PankajKumardev) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/104948046?u=63ea8a440f941b9017db0f560bcafd9f416d16c1&v=4" alt="" width="40" /> | Full Stack Developer  |
+| [Bolt-Clone](https://github.com/PankajKumardev/Bolt-Clone) | ⚡ Bolt - Transform Ideas into Websites |
+
+    
+
 ## [Radhika Malpani](https://github.com/RadhikaMalpani1702)
 
 | [@RadhikaMalpani1702](https://github.com/RadhikaMalpani1702) | [❤️Sponsor](https://github.com/sponsors/RadhikaMalpani1702) |
@@ -4378,6 +4378,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/4963236?u=64c43ccce19c501ed6251d5e86ad958353a935aa&v=4" alt="" width="40" /> | Tech Entrepreneur, trying to live an authentic life. |
 | [backdrop](https://github.com/fluttercommunity/backdrop) | Backdrop implementation in flutter. |
+
+    
+
+## [Fenrir](https://github.com/fenrir2608)
+
+| [@fenrir2608](https://github.com/fenrir2608) | [❤️Sponsor](https://github.com/sponsors/fenrir2608) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/111949832?u=12917bdc2cb195ca76408d8114f7d5f659175c48&v=4" alt="" width="40" /> | i like coding |
+| [goGreen](https://github.com/fenrir2608/goGreen) | make your profile look like you've been hard at work... even if you haven't. |
 
     
 
@@ -4435,30 +4444,12 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Fenrir](https://github.com/fenrir2608)
-
-| [@fenrir2608](https://github.com/fenrir2608) | [❤️Sponsor](https://github.com/sponsors/fenrir2608) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/111949832?u=12917bdc2cb195ca76408d8114f7d5f659175c48&v=4" alt="" width="40" /> | i like coding |
-| [goGreen](https://github.com/fenrir2608/goGreen) | make your profile look like you've been hard at work... even if you haven't. |
-
-    
-
 ## [Alok Kumar verma](https://github.com/alokVerma749)
 
 | [@alokVerma749](https://github.com/alokVerma749) | [❤️Sponsor](https://github.com/sponsors/alokVerma749) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/87599400?v=4" alt="" width="40" /> | I am a FullStack Web Developer. I strives to build immersive and beautiful web applications through carefully crafted code and user-centric design. |
 | [foody-monk](https://github.com/alokVerma749/foody-monk) | This is food ordering web app build using MERN stack |
-
-    
-
-## [Pankaj Kumar](https://github.com/PankajKumardev)
-
-| [@PankajKumardev](https://github.com/PankajKumardev) | [❤️Sponsor](https://github.com/sponsors/PankajKumardev) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/104948046?u=63ea8a440f941b9017db0f560bcafd9f416d16c1&v=4" alt="" width="40" /> | Full Stack Developer  |
-| [Bolt-Clone](https://github.com/PankajKumardev/Bolt-Clone) | ⚡ Bolt - Transform Ideas into Websites |
 
     
 
@@ -4547,7 +4538,7 @@ This repository is a list of GitHub users who are living in India and are sponso
 
 | [@codeaashu](https://github.com/codeaashu) | [❤️Sponsor](https://github.com/sponsors/codeaashu) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/130897584?u=41ab2de64fdb54a8594cbdb3896c0b33fbead3d8&v=4" alt="" width="40" /> | Product Engineer at LPS • GSoC '25 • Building DevDisplay • Holder of 1800+ GitHub Stars 🌟 |
+| <img src="https://avatars.githubusercontent.com/u/130897584?u=41ab2de64fdb54a8594cbdb3896c0b33fbead3d8&v=4" alt="" width="40" /> | Product Engineer at LPS • Building DevDisplay • Holder of 1800+ GitHub Stars 🌟 |
 | [DevDisplay](https://github.com/codeaashu/DevDisplay) | The First Global Platform for Developers to Fulfill All Their Tech Needs. |
 
     
@@ -4579,21 +4570,21 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Prakhar Tiwari](https://github.com/prakhartiwari0)
-
-| [@prakhartiwari0](https://github.com/prakhartiwari0) | [❤️Sponsor](https://github.com/sponsors/prakhartiwari0) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/65062036?u=c493054c6cea8af0dc821bbd96e1c2132b4a1d94&v=4" alt="" width="40" /> | Creative Web Developer who loves building Open Source projects to solve problems & have fun :\) 🔥❤️  Currently Working on @mywebshortcuts 🌏💻 |
-| [mywebshortcuts](https://github.com/mywebshortcuts/mywebshortcuts) | The Browser Extension to create Custom Keyboard Shortcuts on the web 🌎💻 |
-
-    
-
 ## [Rohit Kushvaha](https://github.com/RohitKushvaha01)
 
 | [@RohitKushvaha01](https://github.com/RohitKushvaha01) | [❤️Sponsor](https://github.com/sponsors/RohitKushvaha01) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/99863818?u=b77190b03c1ea2d8c66dc268bf19cfc35e41f0c2&v=4" alt="" width="40" /> |  |
 | [Acode](https://github.com/Acode-Foundation/Acode) | Acode - powerful text\/code editor for android |
+
+    
+
+## [Prakhar Tiwari](https://github.com/prakhartiwari0)
+
+| [@prakhartiwari0](https://github.com/prakhartiwari0) | [❤️Sponsor](https://github.com/sponsors/prakhartiwari0) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/65062036?u=c493054c6cea8af0dc821bbd96e1c2132b4a1d94&v=4" alt="" width="40" /> | Creative Web Developer who loves building Open Source projects to solve problems & have fun :\) 🔥❤️  Currently Working on @mywebshortcuts 🌏💻 |
+| [mywebshortcuts](https://github.com/mywebshortcuts/mywebshortcuts) | The Browser Extension to create Custom Keyboard Shortcuts on the web 🌎💻 |
 
     
 
@@ -4651,15 +4642,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Ayan](https://github.com/ayan2809)
-
-| [@ayan2809](https://github.com/ayan2809) | [❤️Sponsor](https://github.com/sponsors/ayan2809) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/42286904?u=c3a453500d84b0ee9eca457daaa3877b9590bd39&v=4" alt="" width="40" /> | Software Engineer @ JP Morgan Chase & Co. ｜ Ex-PRISM Developer at Samsung R&D Institute India ｜ CS Undergrad VIT Chennai |
-| [XAN-MiniOS](https://github.com/ayan2809/XAN-MiniOS) | My own 64 bit x86 architecture kernel from scratch along with a mini OS on top of it developed in a Dockerised environment |
-
-    
-
 ## [Abdul Rahman](https://github.com/fingers10)
 
 | [@fingers10](https://github.com/fingers10) | [❤️Sponsor](https://github.com/sponsors/fingers10) |
@@ -4705,6 +4687,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
+## [Ayan](https://github.com/ayan2809)
+
+| [@ayan2809](https://github.com/ayan2809) | [❤️Sponsor](https://github.com/sponsors/ayan2809) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/42286904?u=c3a453500d84b0ee9eca457daaa3877b9590bd39&v=4" alt="" width="40" /> | Software Engineer @ JP Morgan Chase & Co. ｜ Ex-PRISM Developer at Samsung R&D Institute India ｜ CS Undergrad VIT Chennai |
+| [XAN-MiniOS](https://github.com/ayan2809/XAN-MiniOS) | My own 64 bit x86 architecture kernel from scratch along with a mini OS on top of it developed in a Dockerised environment |
+
+    
+
 ## [Pranav](https://github.com/thecmdrunner)
 
 | [@thecmdrunner](https://github.com/thecmdrunner) | [❤️Sponsor](https://github.com/sponsors/thecmdrunner) |
@@ -4729,6 +4720,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/46242040?u=9ee8e75ce236e50144c5992c955664822b8f2ec3&v=4" alt="" width="40" /> | Software Engineer II ｜ Product Engineer |
 | [VS-Code-Theme-Portfolio](https://github.com/SRX-OSS/VS-Code-Theme-Portfolio) | Visual Studio Code Themed Developer Portfolio |
+
+    
+
+## [Sai Rajendra Immadi](https://github.com/immadisairaj)
+
+| [@immadisairaj](https://github.com/immadisairaj) | [❤️Sponsor](https://github.com/sponsors/immadisairaj) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/40348358?u=73b13f570340c4c2b82ee4e43bafdaa1b21dd764&v=4" alt="" width="40" /> | Flutter Dev ｜ Open-Source Enthusiast ｜ Musician \(Plays Tabla\) |
+| [radiosai](https://github.com/immadisairaj/radiosai) | A radio player mobile application which streams audio from Radio Sai Global Harmony. |
 
     
 
@@ -4768,21 +4768,21 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
+## [Nirmal Scaria](https://github.com/NirmalScaria)
+
+| [@NirmalScaria](https://github.com/NirmalScaria) | [❤️Sponsor](https://github.com/sponsors/NirmalScaria) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/46727865?u=011861f81e5a54ed4a7de63f7408321adce68e05&v=4" alt="" width="40" /> | Designer . Developer . Pentester |
+| [le-git-graph](https://github.com/NirmalScaria/le-git-graph) | Browser extension to add git graph to GitHub website. |
+
+    
+
 ## [Subhash](https://github.com/subhashhhhhh)
 
 | [@subhashhhhhh](https://github.com/subhashhhhhh) | [❤️Sponsor](https://github.com/sponsors/subhashhhhhh) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/79552953?u=545dfa6aefd36664ee0a6a8152c218253fae3933&v=4" alt="" width="40" /> | Computer Engineering Student at Thapar University. TIET '26 |
 | [Fastlytics](https://github.com/subhashhhhhh/Fastlytics) | A modern web app for Formula 1 data analytics, providing race results, standings, and telemetry charts. |
-
-    
-
-## [Sai Rajendra Immadi](https://github.com/immadisairaj)
-
-| [@immadisairaj](https://github.com/immadisairaj) | [❤️Sponsor](https://github.com/sponsors/immadisairaj) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/40348358?u=73b13f570340c4c2b82ee4e43bafdaa1b21dd764&v=4" alt="" width="40" /> | Flutter Dev ｜ Open-Source Enthusiast ｜ Musician \(Plays Tabla\) |
-| [radiosai](https://github.com/immadisairaj/radiosai) | A radio player mobile application which streams audio from Radio Sai Global Harmony. |
 
     
 
@@ -4813,12 +4813,12 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Nirmal Scaria](https://github.com/NirmalScaria)
+## [Nikhil Rajput](https://github.com/nixrajput)
 
-| [@NirmalScaria](https://github.com/NirmalScaria) | [❤️Sponsor](https://github.com/sponsors/NirmalScaria) |
+| [@nixrajput](https://github.com/nixrajput) | [❤️Sponsor](https://github.com/sponsors/nixrajput) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/46727865?u=011861f81e5a54ed4a7de63f7408321adce68e05&v=4" alt="" width="40" /> | Designer . Developer . Pentester |
-| [le-git-graph](https://github.com/NirmalScaria/le-git-graph) | Browser extension to add git graph to GitHub website. |
+| <img src="https://avatars.githubusercontent.com/u/10887215?u=6fcca9c94ca637575598d809a41a93b1caaf9c75&v=4" alt="" width="40" /> | Proud Bhartiya 🇮🇳 Full Stack Developer 💻 SDE 🛠️ 2+ Years Experience 🔥 Open Source 🌍 React.js, Next.js, Node.js, & Flutter enthusiast ✨ |
+| [social-media-app-flutter](https://github.com/nixrajput/social-media-app-flutter) | Rippl is a social media application developed using Flutter and managed with the GetX state management tool. It vows to revolutionize your social engagements by offering a smooth and immersive experience. |
 
     
 
@@ -4837,15 +4837,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/54478821?u=1505b78860a2b4cd51ec171ef5d11cf88e6e6318&v=4" alt="" width="40" /> | APLer |
 | [ullu](https://github.com/Dyalog/ullu) | Testing primitives of DyalogAPL |
-
-    
-
-## [Soumyaranjan Panda](https://github.com/soummyaanon)
-
-| [@soummyaanon](https://github.com/soummyaanon) | [❤️Sponsor](https://github.com/sponsors/soummyaanon) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/91568463?u=0348c4dc9f84c0e066f4a4edab32302d5c7db292&v=4" alt="" width="40" /> | S.I.H 2023 🏆   ｜ AI Software Engineer ｜ Freelancer ｜ Tech Enthusiast 💻.   Building @Aarekhit-AI  |
-| [-noteX](https://github.com/soummyaanon/-noteX) | This Is My latest project Using React.js Appwrite ShadCN-Ui,AccernityUi, Framer, TailWindCss this is A Personal Ai Powerd Note taking App powerd By Google Geminie Pro It is Still in development Phase but ya  test it and give me you valuable feedback guys . Happy Coding |
 
     
 
@@ -4873,15 +4864,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/29014463?u=515d723b19644d0b1ef7839a1259b326714cbccb&v=4" alt="" width="40" /> | Creator of @gitthermal & @logchimp, software engineer at @codecarrotlabs, ex @flatio |
 | [logchimp](https://github.com/logchimp/logchimp) | Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work! |
-
-    
-
-## [Nikhil Rajput](https://github.com/nixrajput)
-
-| [@nixrajput](https://github.com/nixrajput) | [❤️Sponsor](https://github.com/sponsors/nixrajput) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/10887215?u=6fcca9c94ca637575598d809a41a93b1caaf9c75&v=4" alt="" width="40" /> | Proud Bhartiya 🇮🇳 Full Stack Developer 💻 SDE 🛠️ 2+ Years Experience 🔥 Open Source 🌍 React.js, Next.js, Node.js, & Flutter enthusiast ✨ |
-| [social-media-app-flutter](https://github.com/nixrajput/social-media-app-flutter) | Rippl is a social media application developed using Flutter and managed with the GetX state management tool. It vows to revolutionize your social engagements by offering a smooth and immersive experience. |
 
     
 
@@ -4921,6 +4903,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
+## [Soumyaranjan Panda](https://github.com/soummyaanon)
+
+| [@soummyaanon](https://github.com/soummyaanon) | [❤️Sponsor](https://github.com/sponsors/soummyaanon) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/91568463?u=0348c4dc9f84c0e066f4a4edab32302d5c7db292&v=4" alt="" width="40" /> | S.I.H 2023 🏆   ｜ AI Software Engineer ｜ Freelancer ｜ Tech Enthusiast 💻.   Building @Aarekhit-AI  |
+| [-noteX](https://github.com/soummyaanon/-noteX) | This Is My latest project Using React.js Appwrite ShadCN-Ui,AccernityUi, Framer, TailWindCss this is A Personal Ai Powerd Note taking App powerd By Google Geminie Pro It is Still in development Phase but ya  test it and give me you valuable feedback guys . Happy Coding |
+
+    
+
 ## [Neel Shah](https://github.com/neelshah2409)
 
 | [@neelshah2409](https://github.com/neelshah2409) | [❤️Sponsor](https://github.com/sponsors/neelshah2409) |
@@ -4957,6 +4948,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
+## [Sukesh Ashok Kumar](https://github.com/sukesh-ak)
+
+| [@sukesh-ak](https://github.com/sukesh-ak) | [❤️Sponsor](https://github.com/sponsors/sukesh-ak) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/53081362?u=71ad3f047dadc6dd5a530cfaebbe56cef46b09c6&v=4" alt="" width="40" /> | Polymath who loves Technology and Motorcycles. |
+| [AutoDebug](https://github.com/sukesh-ak/AutoDebug) | Simple Debugger to run Windbg Commands and also query .NET CLR Runtime data in C\# |
+
+    
+
 ## [Subhadip Saha](https://github.com/subh05sus)
 
 | [@subh05sus](https://github.com/subh05sus) | [❤️Sponsor](https://github.com/sponsors/subh05sus) |
@@ -4966,12 +4966,12 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Sukesh Ashok Kumar](https://github.com/sukesh-ak)
+## [Midhun K M](https://github.com/StarkGang)
 
-| [@sukesh-ak](https://github.com/sukesh-ak) | [❤️Sponsor](https://github.com/sponsors/sukesh-ak) |
+| [@StarkGang](https://github.com/StarkGang) | [❤️Sponsor](https://github.com/sponsors/StarkGang) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/53081362?u=71ad3f047dadc6dd5a530cfaebbe56cef46b09c6&v=4" alt="" width="40" /> | Polymath who loves Technology and Motorcycles. |
-| [AutoDebug](https://github.com/sukesh-ak/AutoDebug) | Simple Debugger to run Windbg Commands and also query .NET CLR Runtime data in C\# |
+| <img src="https://avatars.githubusercontent.com/u/66051049?u=643d91b5438c5ba29926aabce3049b5046e8a854&v=4" alt="" width="40" /> | Embrace boundless potential; defy limits. Be exceptional, shape the extraordinary. |
+| [FlaskUtilityServer](https://github.com/StarkGang/FlaskUtilityServer) | An flask interface to communicate to your main pc \(server\) using other devices connected to same network. |
 
     
 
@@ -5002,39 +5002,12 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Midhun K M](https://github.com/StarkGang)
-
-| [@StarkGang](https://github.com/StarkGang) | [❤️Sponsor](https://github.com/sponsors/StarkGang) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/66051049?u=643d91b5438c5ba29926aabce3049b5046e8a854&v=4" alt="" width="40" /> | Embrace boundless potential; defy limits. Be exceptional, shape the extraordinary. |
-| [FlaskUtilityServer](https://github.com/StarkGang/FlaskUtilityServer) | An flask interface to communicate to your main pc \(server\) using other devices connected to same network. |
-
-    
-
 ## [Vikas](https://github.com/krey-yon)
 
 | [@krey-yon](https://github.com/krey-yon) | [❤️Sponsor](https://github.com/sponsors/krey-yon) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/101702902?u=8b70fdcb5579f5be0b8eb937b67c7cc89f2a8842&v=4" alt="" width="40" /> | LPU 2nd Year |
 | [Cliven](https://github.com/krey-yon/Cliven) | Chat with your PDFs using local AI models  Process PDF documents and have interactive conversations with their content. Everything runs locally - no data leaves your machine. |
-
-    
-
-## [Vimal K. Vishwakarma](https://github.com/vimalcvs)
-
-| [@vimalcvs](https://github.com/vimalcvs) | [❤️Sponsor](https://github.com/sponsors/vimalcvs) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/40199448?u=c4f53e515c3089dc619dbdc802df97675eaee2c5&v=4" alt="" width="40" /> |  ......... |
-| [material-smart-rating](https://github.com/vimalcvs/material-smart-rating) | 😍⭐⭐Material Smart Rating App - An Android library that encourages users to rate the app on Google Play.⭐⭐😘 |
-
-    
-
-## [Akhil G Krishnan](https://github.com/akhilgkrishnan)
-
-| [@akhilgkrishnan](https://github.com/akhilgkrishnan) | [❤️Sponsor](https://github.com/sponsors/akhilgkrishnan) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/22231095?u=009beb45d45553063bf76db6597ad7865fa22029&v=4" alt="" width="40" /> | @rails Triage Team ｜ Open Source Contributor ｜ Full-stack Web Developer in Rails, React, Node ｜ Senior Software Developer @Saeloun｜ Prev @bigbinary and @sapaad |
-| [rails](https://github.com/rails/rails) | Ruby on Rails |
 
     
 
@@ -5047,6 +5020,24 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
+## [Vimal K. Vishwakarma](https://github.com/vimalcvs)
+
+| [@vimalcvs](https://github.com/vimalcvs) | [❤️Sponsor](https://github.com/sponsors/vimalcvs) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/40199448?u=c4f53e515c3089dc619dbdc802df97675eaee2c5&v=4" alt="" width="40" /> |  ......... |
+| [material-smart-rating](https://github.com/vimalcvs/material-smart-rating) | 😍⭐⭐Material Smart Rating App - An Android library that encourages users to rate the app on Google Play.⭐⭐😘 |
+
+    
+
+## [Rahul V Ramesh](https://github.com/rahulvramesh)
+
+| [@rahulvramesh](https://github.com/rahulvramesh) | [❤️Sponsor](https://github.com/sponsors/rahulvramesh) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/4546714?u=64c6f90e38c4099422cec38ed5c901e50a400a94&v=4" alt="" width="40" /> | I need it, so I built it 🚀 🐼  |
+| [MailbayPi-Backend](https://github.com/rahulvramesh/MailbayPi-Backend) | Tiny SMTP server for raspberry-pi, used for Temp Mail |
+
+    
+
 ## [Samar Panda](https://github.com/samarpanda)
 
 | [@samarpanda](https://github.com/samarpanda) | [❤️Sponsor](https://github.com/sponsors/samarpanda) |
@@ -5056,12 +5047,21 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Anupam Haldkar](https://github.com/anupamhaldkar)
+## [Rohan Sharma](https://github.com/RS-labhub)
 
-| [@anupamhaldkar](https://github.com/anupamhaldkar) | [❤️Sponsor](https://github.com/sponsors/anupamhaldkar) |
+| [@RS-labhub](https://github.com/RS-labhub) | [❤️Sponsor](https://github.com/sponsors/RS-labhub) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/48323127?u=cb8455df226e109f07230f0c048319febffa7bfb&v=4" alt="" width="40" /> | Spring Booter ♨️ ｜ Specialist Programmer 👨🏻‍💻  ｜ Full Stack Dev 🌟 ｜ Learning with Community  |
-| [RideSharingProject](https://github.com/anupamhaldkar/RideSharingProject) | :oncoming\_taxi: Android based Ride Cab Service Application :taxi: |
+| <img src="https://avatars.githubusercontent.com/u/117426013?u=7792be6be0f6464a53355556f97a7d5710222f9e&v=4" alt="" width="40" /> | Hi there!🧟 You're the most beautiful person I've ever met!  Building @developersHub |
+| [Radhika](https://github.com/RS-labhub/Radhika) | Yours day-2-day life assistant and bff 💞 |
+
+    
+
+## [Akhil G Krishnan](https://github.com/akhilgkrishnan)
+
+| [@akhilgkrishnan](https://github.com/akhilgkrishnan) | [❤️Sponsor](https://github.com/sponsors/akhilgkrishnan) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/22231095?u=009beb45d45553063bf76db6597ad7865fa22029&v=4" alt="" width="40" /> | @rails Triage Team ｜ Open Source Contributor ｜ Full-stack Web Developer in Rails, React, Node ｜ Senior Software Developer @Saeloun｜ Prev @bigbinary and @sapaad |
+| [rails](https://github.com/rails/rails) | Ruby on Rails |
 
     
 
@@ -5083,15 +5083,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Rahul V Ramesh](https://github.com/rahulvramesh)
-
-| [@rahulvramesh](https://github.com/rahulvramesh) | [❤️Sponsor](https://github.com/sponsors/rahulvramesh) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/4546714?u=64c6f90e38c4099422cec38ed5c901e50a400a94&v=4" alt="" width="40" /> | I need it, so I built it 🚀 🐼  |
-| [MailbayPi-Backend](https://github.com/rahulvramesh/MailbayPi-Backend) | Tiny SMTP server for raspberry-pi, used for Temp Mail |
-
-    
-
 ## [Agriya Khetarpal](https://github.com/agriyakhetarpal)
 
 | [@agriyakhetarpal](https://github.com/agriyakhetarpal) | [❤️Sponsor](https://github.com/sponsors/agriyakhetarpal) |
@@ -5110,12 +5101,12 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Rohan Sharma](https://github.com/RS-labhub)
+## [Anupam Haldkar](https://github.com/anupamhaldkar)
 
-| [@RS-labhub](https://github.com/RS-labhub) | [❤️Sponsor](https://github.com/sponsors/RS-labhub) |
+| [@anupamhaldkar](https://github.com/anupamhaldkar) | [❤️Sponsor](https://github.com/sponsors/anupamhaldkar) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/117426013?u=7792be6be0f6464a53355556f97a7d5710222f9e&v=4" alt="" width="40" /> | Hi there!🧟 You're the most beautiful person I've ever met!  Building @developersHub |
-| [Radhika](https://github.com/RS-labhub/Radhika) | Yours day-2-day life assistant and bff 💞 |
+| <img src="https://avatars.githubusercontent.com/u/48323127?u=cb8455df226e109f07230f0c048319febffa7bfb&v=4" alt="" width="40" /> | Spring Booter ♨️ ｜ Specialist Programmer 👨🏻‍💻  ｜ Full Stack Dev 🌟 ｜ Learning with Community  |
+| [RideSharingProject](https://github.com/anupamhaldkar/RideSharingProject) | :oncoming\_taxi: Android based Ride Cab Service Application :taxi: |
 
     
 
@@ -5200,15 +5191,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Abhibhaw Asthana](https://github.com/abhibhaw)
-
-| [@abhibhaw](https://github.com/abhibhaw) | [❤️Sponsor](https://github.com/sponsors/abhibhaw) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/39991296?u=f86110ef6d7c457be9f671fdf37d315ce62dbecb&v=4" alt="" width="40" /> | I am better at multitasking than windows :D |
-| [devtron](https://github.com/devtron-labs/devtron) | The only Kubernetes dashboard you need |
-
-    
-
 ## [Gokul Nair](https://github.com/gokulnair2001)
 
 | [@gokulnair2001](https://github.com/gokulnair2001) | [❤️Sponsor](https://github.com/sponsors/gokulnair2001) |
@@ -5242,6 +5224,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/1505631?u=2d24542e4235399c6e0b9fd74ad81c0c1aad5108&v=4" alt="" width="40" /> | Software Engineer at @Stripe.  |
 | [analogwp-templates](https://github.com/analogwp/analogwp-templates) | Style Kits for Elementor adds a number of intuitive styling controls in the Elementor editor that allow you to apply styles globally or per page. |
+
+    
+
+## [Abhibhaw Asthana](https://github.com/abhibhaw)
+
+| [@abhibhaw](https://github.com/abhibhaw) | [❤️Sponsor](https://github.com/sponsors/abhibhaw) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/39991296?u=f86110ef6d7c457be9f671fdf37d315ce62dbecb&v=4" alt="" width="40" /> | I am better at multitasking than windows :D |
+| [devtron](https://github.com/devtron-labs/devtron) | The only Kubernetes dashboard you need |
 
     
 
@@ -5281,6 +5272,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
+## [Amaan](https://github.com/AmaanSayyad)
+
+| [@AmaanSayyad](https://github.com/AmaanSayyad) | [❤️Sponsor](https://github.com/sponsors/AmaanSayyad) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/69464744?u=4f2dec35c84eedd046fbdccd59e1911ca04aa019&v=4" alt="" width="40" /> | A Blockchain Developer, Developer Advocate & Budding Entrepreneur |
+| [COVID-19\_Face\_Mask\_Recognition\_System](https://github.com/AmaanSayyad/COVID-19_Face_Mask_Recognition_System) | The Face Mask Recognition System uses AI technology to detect the person with or without a mask. It can be connected with any surveillance system installed at your premises. The authorities or admin can check the person through the system to confirm whether the person is wearing a mask or not. |
+
+    
+
 ## [Rahul Vashishtha](https://github.com/rahul-vashishtha)
 
 | [@rahul-vashishtha](https://github.com/rahul-vashishtha) | [❤️Sponsor](https://github.com/sponsors/rahul-vashishtha) |
@@ -5290,12 +5290,12 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Amaan](https://github.com/AmaanSayyad)
+## [Rishi Mondal](https://github.com/MAVRICK-1)
 
-| [@AmaanSayyad](https://github.com/AmaanSayyad) | [❤️Sponsor](https://github.com/sponsors/AmaanSayyad) |
+| [@MAVRICK-1](https://github.com/MAVRICK-1) | [❤️Sponsor](https://github.com/sponsors/MAVRICK-1) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/69464744?u=4f2dec35c84eedd046fbdccd59e1911ca04aa019&v=4" alt="" width="40" /> | A Blockchain Developer, Developer Advocate & Budding Entrepreneur |
-| [COVID-19\_Face\_Mask\_Recognition\_System](https://github.com/AmaanSayyad/COVID-19_Face_Mask_Recognition_System) | The Face Mask Recognition System uses AI technology to detect the person with or without a mask. It can be connected with any surveillance system installed at your premises. The authorities or admin can check the person through the system to confirm whether the person is wearing a mask or not. |
+| <img src="https://avatars.githubusercontent.com/u/146999057?u=f27962b99760dd798c6b332d77d267b673394745&v=4" alt="" width="40" /> | Maintainer CNCF @kubestellar ｜ GSoc @ucsc-ospo ｜ LFX CNCF ｜ Breaking code, fixing bugs, and occasionally making it work! Always caffeinated, always committing |
+| [Rishi-AI](https://github.com/MAVRICK-1/Rishi-AI) | <!-- no description --> |
 
     
 
@@ -5344,30 +5344,12 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Rishi Mondal](https://github.com/MAVRICK-1)
-
-| [@MAVRICK-1](https://github.com/MAVRICK-1) | [❤️Sponsor](https://github.com/sponsors/MAVRICK-1) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/146999057?u=f27962b99760dd798c6b332d77d267b673394745&v=4" alt="" width="40" /> | Maintainer CNCF @kubestellar ｜ GSoc @ucsc-ospo ｜ LFX CNCF ｜ Breaking code, fixing bugs, and occasionally making it work! Always caffeinated, always committing |
-| [Rishi-AI](https://github.com/MAVRICK-1/Rishi-AI) | <!-- no description --> |
-
-    
-
 ## [Puranjay Jain](https://github.com/puranjayjain)
 
 | [@puranjayjain](https://github.com/puranjayjain) | [❤️Sponsor](https://github.com/sponsors/puranjayjain) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/5458094?u=8b4b8d4bd834f3d1a9650c4ed68507d038961b3d&v=4" alt="" width="40" /> | Fullstack Developer ｜ A fan of zuzu 😁  |
 | [react-materialui-notifications](https://github.com/puranjayjain/react-materialui-notifications) | Spec compliant notifications for react and material ui users |
-
-    
-
-## [Shalini Verma](https://github.com/ShaliniVerma21)
-
-| [@ShaliniVerma21](https://github.com/ShaliniVerma21) | [❤️Sponsor](https://github.com/sponsors/ShaliniVerma21) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/46881467?u=94d6532e900080c34700508a9379e899775ae769&v=4" alt="" width="40" /> |  🚀 Full Stack Developer ｜ 💻 Corporate Trainer ｜ 🤝 Freelancer ｜ 🌱 Mentor ｜ 📊 Trader ｜ 🎥 YouTuber ｜ 📈 Data Analyst ｜ 🧠 Data Scientist  |
-| [Core-Java-Programs-and-Excersizes-Batch-18thNov-2024](https://github.com/ShaliniVerma21/Core-Java-Programs-and-Excersizes-Batch-18thNov-2024) | Day-wise Core Java examples and programs, designed to master Core Java step-by-step. Collaborative Space: Share and grow with the community. |
 
     
 
@@ -5461,6 +5443,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
+## [Shalini Verma](https://github.com/ShaliniVerma21)
+
+| [@ShaliniVerma21](https://github.com/ShaliniVerma21) | [❤️Sponsor](https://github.com/sponsors/ShaliniVerma21) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/46881467?u=94d6532e900080c34700508a9379e899775ae769&v=4" alt="" width="40" /> |  🚀 Full Stack Developer ｜ 💻 Corporate Trainer ｜ 🤝 Freelancer ｜ 🌱 Mentor ｜ 📊 Trader ｜ 🎥 YouTuber ｜ 📈 Data Analyst ｜ 🧠 Data Scientist  |
+| [Core-Java-Programs-and-Excersizes-Batch-18thNov-2024](https://github.com/ShaliniVerma21/Core-Java-Programs-and-Excersizes-Batch-18thNov-2024) | Day-wise Core Java examples and programs, designed to master Core Java step-by-step. Collaborative Space: Share and grow with the community. |
+
+    
+
 ## [Ojuswi Rastogi](https://github.com/OjusWiZard)
 
 | [@OjusWiZard](https://github.com/OjusWiZard) | [❤️Sponsor](https://github.com/sponsors/OjusWiZard) |
@@ -5542,21 +5533,21 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Saksham Gupta](https://github.com/saksham-gt)
-
-| [@saksham-gt](https://github.com/saksham-gt) | [❤️Sponsor](https://github.com/sponsors/saksham-gt) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/55953830?u=ce6cdb24c3668b6ca86da7825f07bce11e651c8d&v=4" alt="" width="40" /> | Tinkering with tech ｜ Music Lover  |
-| [collaction\_app](https://github.com/CollActionteam/collaction_app) | CollAction cross-platform mobile application for iOS and Android |
-
-    
-
 ## [Sairaj Jawalikar](https://github.com/s41r4j)
 
 | [@s41r4j](https://github.com/s41r4j) | [❤️Sponsor](https://github.com/sponsors/s41r4j) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/65067289?u=53f6cb1f347603331e44344791d44a9ddac03125&v=4" alt="" width="40" /> | \[ LIV1NG LIF3 \_ H4CK1NG M1ND5 \] |
 | <!-- no item --> | <!-- no description --> |
+
+    
+
+## [Harsh Vardhan Pandey](https://github.com/geekyharsh05)
+
+| [@geekyharsh05](https://github.com/geekyharsh05) | [❤️Sponsor](https://github.com/sponsors/geekyharsh05) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/121746800?u=9b50a4db99d12b919935668dc3bd9a325613e306&v=4" alt="" width="40" /> | Writing code that works… eventually. |
+| [cms](https://github.com/code100x/cms) | Repo for https:\/\/app.100xdevs.com\/  |
 
     
 
@@ -5623,6 +5614,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
+## [Saksham Gupta](https://github.com/saksham-gt)
+
+| [@saksham-gt](https://github.com/saksham-gt) | [❤️Sponsor](https://github.com/sponsors/saksham-gt) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/55953830?u=ce6cdb24c3668b6ca86da7825f07bce11e651c8d&v=4" alt="" width="40" /> | Tinkering with tech ｜ Music Lover  |
+| [collaction\_app](https://github.com/CollActionteam/collaction_app) | CollAction cross-platform mobile application for iOS and Android |
+
+    
+
 ## [Kazi Ahmed](https://github.com/tzsk)
 
 | [@tzsk](https://github.com/tzsk) | [❤️Sponsor](https://github.com/sponsors/tzsk) |
@@ -5638,6 +5638,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/49872129?u=a795acd8997fed31394f789987d71f92731bf709&v=4" alt="" width="40" /> | On a quest 🏃 to win 🏆 every duel with a JavaScript sword ⚔️    |
 | [splitiphy](https://github.com/iamsomraj/splitiphy) | Splitiphy is a simple web app that allows you to easily split bills with friends and family. It is built using Next.js, Tailwind CSS, and Drizzle. |
+
+    
+
+## [MrPreet](https://github.com/jsonpreet)
+
+| [@jsonpreet](https://github.com/jsonpreet) | [❤️Sponsor](https://github.com/sponsors/jsonpreet) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/26606638?u=73704da6a8c1c1420feef32927a8660056b0eee0&v=4" alt="" width="40" /> | Founder: Pinsta.xyz |
+| [Pinsta](https://github.com/jsonpreet/Pinsta) | Pinsta is a decentralized Image & Video Sharing service, designed to save and collect discovery information using Images, Videos, and Animated Gifs in the form of Pin Boards built with Lens Protocol 🌿 |
 
     
 
@@ -5722,30 +5731,21 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Harsh Vardhan Pandey](https://github.com/geekyharsh05)
-
-| [@geekyharsh05](https://github.com/geekyharsh05) | [❤️Sponsor](https://github.com/sponsors/geekyharsh05) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/121746800?u=9b50a4db99d12b919935668dc3bd9a325613e306&v=4" alt="" width="40" /> | Writing code that works… eventually. |
-| [cms](https://github.com/code100x/cms) | Repo for https:\/\/app.100xdevs.com\/  |
-
-    
-
-## [MrPreet](https://github.com/jsonpreet)
-
-| [@jsonpreet](https://github.com/jsonpreet) | [❤️Sponsor](https://github.com/sponsors/jsonpreet) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/26606638?u=73704da6a8c1c1420feef32927a8660056b0eee0&v=4" alt="" width="40" /> | Founder: Pinsta.xyz |
-| [Pinsta](https://github.com/jsonpreet/Pinsta) | Pinsta is a decentralized Image & Video Sharing service, designed to save and collect discovery information using Images, Videos, and Animated Gifs in the form of Pin Boards built with Lens Protocol 🌿 |
-
-    
-
 ## [Sribalaji Annamalai Senthilkumar](https://github.com/iamthecloverly)
 
 | [@iamthecloverly](https://github.com/iamthecloverly) | [❤️Sponsor](https://github.com/sponsors/iamthecloverly) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/86469621?u=91fde7ff9b9c44ea699e63f68ff355431d807b7a&v=4" alt="" width="40" /> | Tech Enthusiast ｜ Knows little about Android. ｜ Official Maintainer of crDroidAndroid\/\/ PixelPlusUI \/\/ Cybersecurity Analyst |
 | [site](https://github.com/Droid-ify/site) | Official website for Droid-ify |
+
+    
+
+## [Muraleedharan Koluthappallil ](https://github.com/kolumnin)
+
+| [@kolumnin](https://github.com/kolumnin) | [❤️Sponsor](https://github.com/sponsors/kolumnin) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/53961270?u=a2881ddbb55794ffcdc48984791ec71a72c84167&v=4" alt="" width="40" /> | Ph.D.\(Physics\), Male, 65+. An active user of the incomprehensible scripts, fearing effects of synchronised activities  by biosphere, men and bots.. @kolumnin |
+| [botify.github.io](https://github.com/kolumnin/botify.github.io) | My Botify link |
 
     
 
@@ -5794,15 +5794,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Muraleedharan Koluthappallil ](https://github.com/kolumnin)
-
-| [@kolumnin](https://github.com/kolumnin) | [❤️Sponsor](https://github.com/sponsors/kolumnin) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/53961270?u=a2881ddbb55794ffcdc48984791ec71a72c84167&v=4" alt="" width="40" /> | Ph.D.\(Physics\), Male, 65+. An active user of the incomprehensible scripts, fearing effects of synchronised activities  by biosphere, men and bots.. @kolumnin |
-| [botify.github.io](https://github.com/kolumnin/botify.github.io) | My Botify link |
-
-    
-
 ## [Sumit Banik](https://github.com/0xSumitBanik)
 
 | [@0xSumitBanik](https://github.com/0xSumitBanik) | [❤️Sponsor](https://github.com/sponsors/0xSumitBanik) |
@@ -5827,6 +5818,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/51271771?u=d400485d38cab4db2f9ebcb15713d74317d86c6f&v=4" alt="" width="40" /> | Software Engineer |
 | [QuickSearchAdvanced](https://github.com/MQ-xz/QuickSearchAdvanced) | Advanced version of QuickSearch which auto search all question in google forms and mark right answers in the form itself. |
+
+    
+
+## [Hema Kalyan Murapaka](https://github.com/KalyanM45)
+
+| [@KalyanM45](https://github.com/KalyanM45) | [❤️Sponsor](https://github.com/sponsors/KalyanM45) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/101493756?u=a6ceb3f95d2e2d7ef0a4eb7eba4293c281cd8646&v=4" alt="" width="40" /> | Generative AI Engineer ｜ Artificial Intelligence Researcher ｜ 2X LinkedIn's Top Voice ｜ MLOps ｜ Data Science Content Creator |
+| <!-- no item --> | <!-- no description --> |
 
     
 
@@ -5875,24 +5875,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [0-harshit-0](https://github.com/0-harshit-0)
-
-| [@0-harshit-0](https://github.com/0-harshit-0) | [❤️Sponsor](https://github.com/sponsors/0-harshit-0) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/59227793?u=cc6090faaab2bbbae49a0c1dfded19cd765a2636&v=4" alt="" width="40" /> | Network error, error fetching description. |
-| [Cryptic-ImageSteganography](https://github.com/0-harshit-0/Cryptic-ImageSteganography) | Tool for image steganography |
-
-    
-
-## [Hema Kalyan Murapaka](https://github.com/KalyanM45)
-
-| [@KalyanM45](https://github.com/KalyanM45) | [❤️Sponsor](https://github.com/sponsors/KalyanM45) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/101493756?u=a6ceb3f95d2e2d7ef0a4eb7eba4293c281cd8646&v=4" alt="" width="40" /> | Generative AI Engineer ｜ Artificial Intelligence Researcher ｜ 2X LinkedIn's Top Voice ｜ MLOps ｜ Data Science Content Creator |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
 ## [Pranav M S](https://github.com/pranavms13)
 
 | [@pranavms13](https://github.com/pranavms13) | [❤️Sponsor](https://github.com/sponsors/pranavms13) |
@@ -5911,6 +5893,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
+## [0-harshit-0](https://github.com/0-harshit-0)
+
+| [@0-harshit-0](https://github.com/0-harshit-0) | [❤️Sponsor](https://github.com/sponsors/0-harshit-0) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/59227793?u=cc6090faaab2bbbae49a0c1dfded19cd765a2636&v=4" alt="" width="40" /> | Network error, error fetching description. |
+| [Cryptic-ImageSteganography](https://github.com/0-harshit-0/Cryptic-ImageSteganography) | Tool for image steganography |
+
+    
+
 ## [50nu](https://github.com/sonumahajan)
 
 | [@sonumahajan](https://github.com/sonumahajan) | [❤️Sponsor](https://github.com/sponsors/sonumahajan) |
@@ -5926,6 +5917,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/612092?v=4" alt="" width="40" /> |  |
 | [goodfirstissue](https://github.com/rajatjindal/goodfirstissue) | webhook for goodfirstissue github app |
+
+    
+
+## [Shashank Shekhar](https://github.com/ashwamegh)
+
+| [@ashwamegh](https://github.com/ashwamegh) | [❤️Sponsor](https://github.com/sponsors/ashwamegh) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/7360968?u=965a1cd7dd927e278b37867ef11e155f23e91343&v=4" alt="" width="40" /> | React.js ｜ Angular v2+｜ Vue.js ｜ Node.js ｜ Express.js ｜ TypeScript ｜ React Native ｜ AWS ｜ Azure Cloud |
+| [blog.shashankshekhar.dev](https://github.com/ashwamegh/blog.shashankshekhar.dev) | 💾 ‎  Personal blog running on Gatsby, React, and Node.js. |
 
     
 
@@ -5953,15 +5953,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/95992247?u=27abd8397abdcf824d9fdec9af05955f89fd1a9d&v=4" alt="" width="40" /> | Just a chad with a curios mind |
 | [X-Asena](https://github.com/Neeraj-x0/X-Asena) | open source whatsapp bot made using @WhiskeySockets\/Baileys |
-
-    
-
-## [Shashank Shekhar](https://github.com/ashwamegh)
-
-| [@ashwamegh](https://github.com/ashwamegh) | [❤️Sponsor](https://github.com/sponsors/ashwamegh) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/7360968?u=965a1cd7dd927e278b37867ef11e155f23e91343&v=4" alt="" width="40" /> | React.js ｜ Angular v2+｜ Vue.js ｜ Node.js ｜ Express.js ｜ TypeScript ｜ React Native ｜ AWS ｜ Azure Cloud |
-| [blog.shashankshekhar.dev](https://github.com/ashwamegh/blog.shashankshekhar.dev) | 💾 ‎  Personal blog running on Gatsby, React, and Node.js. |
 
     
 
@@ -6019,6 +6010,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
+## [Abhinav Saxena](https://github.com/abhinavs)
+
+| [@abhinavs](https://github.com/abhinavs) | [❤️Sponsor](https://github.com/sponsors/abhinavs) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/188896?u=c037c0eb850dcb8dc3e724a92624f68ab3f01941&v=4" alt="" width="40" /> |  |
+| [httplex](https://github.com/abhinavs/httplex) | HTTPlex - test and debug HTTP requests |
+
+    
+
 ## [Sayyad Aslam](https://github.com/aslams2020)
 
 | [@aslams2020](https://github.com/aslams2020) | [❤️Sponsor](https://github.com/sponsors/aslams2020) |
@@ -6052,15 +6052,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/56874272?u=96e7c0eb7c6e6ed363182965ff1a5555648efd99&v=4" alt="" width="40" /> | Engineer ｜ Building quality Software   |
 | [Tetromino](https://github.com/geeekgod/Tetromino) | Tetris Game in React js for Computer Graphics mini-project. |
-
-    
-
-## [Abhinav Saxena](https://github.com/abhinavs)
-
-| [@abhinavs](https://github.com/abhinavs) | [❤️Sponsor](https://github.com/sponsors/abhinavs) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/188896?u=c037c0eb850dcb8dc3e724a92624f68ab3f01941&v=4" alt="" width="40" /> |  |
-| [httplex](https://github.com/abhinavs/httplex) | HTTPlex - test and debug HTTP requests |
 
     
 
@@ -6106,6 +6097,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/3907269?u=03d6a04fed3ee57a0effaa3c378f928588debfc0&v=4" alt="" width="40" /> | Freeing the world, one software at a time. |
 | [zola-deploy-action](https://github.com/shalzz/zola-deploy-action) | Github action for building a Zola site and deploying to Github Pages |
+
+    
+
+## [UTSAV SINGHAL](https://github.com/UTSAVS26)
+
+| [@UTSAVS26](https://github.com/UTSAVS26) | [❤️Sponsor](https://github.com/sponsors/UTSAVS26) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/119779889?u=073311e35c3f2e3e23eae16674ec92717e4e0c71&v=4" alt="" width="40" /> | AI\/ML Researcher ｜ Quantum Cryptography ｜ LLM + RAG + LangChain Developer ｜ Open Source Contributor ｜ Top 10% Kaggle ｜ Python • TensorFlow • OpenCV • NLP |
+| [LeetCode-Solutions](https://github.com/UTSAVS26/LeetCode-Solutions) | <!-- no description --> |
 
     
 
@@ -6181,21 +6181,21 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [UTSAV SINGHAL](https://github.com/UTSAVS26)
-
-| [@UTSAVS26](https://github.com/UTSAVS26) | [❤️Sponsor](https://github.com/sponsors/UTSAVS26) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/119779889?u=073311e35c3f2e3e23eae16674ec92717e4e0c71&v=4" alt="" width="40" /> | AI\/ML Researcher ｜ Quantum Cryptography ｜ LLM + RAG + LangChain Developer ｜ Open Source Contributor ｜ Top 10% Kaggle ｜ Python • TensorFlow • OpenCV • NLP |
-| [LeetCode-Solutions](https://github.com/UTSAVS26/LeetCode-Solutions) | <!-- no description --> |
-
-    
-
 ## [Vinayak Patil](https://github.com/Vinayak-09)
 
 | [@Vinayak-09](https://github.com/Vinayak-09) | [❤️Sponsor](https://github.com/sponsors/Vinayak-09) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/45603862?u=c6ac307181b3bd6f4cfd16256f757d96270cc24f&v=4" alt="" width="40" /> | Computer Engineer |
 | <!-- no item --> | <!-- no description --> |
+
+    
+
+## [மனோஜ்குமார் பழனிச்சாமி](https://github.com/SmartManoj)
+
+| [@SmartManoj](https://github.com/SmartManoj) | [❤️Sponsor](https://github.com/sponsors/SmartManoj) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/7231077?u=e74cde52bd0c17d5615ff028d8646e75de81c943&v=4" alt="" width="40" /> | Raising an AI Software Engineer 🤖 |
+| [Arc-Tools](https://github.com/SmartManoj/Arc-Tools) | Arc Prize 2025 |
 
     
 
@@ -6271,15 +6271,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [மனோஜ்குமார் பழனிச்சாமி](https://github.com/SmartManoj)
-
-| [@SmartManoj](https://github.com/SmartManoj) | [❤️Sponsor](https://github.com/sponsors/SmartManoj) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/7231077?u=e74cde52bd0c17d5615ff028d8646e75de81c943&v=4" alt="" width="40" /> | Raising an AI Software Engineer 🤖 |
-| [Arc-Tools](https://github.com/SmartManoj/Arc-Tools) | Arc Prize 2025 |
-
-    
-
 ## [Owais Ahmad](https://github.com/Owaiskhan9654)
 
 | [@Owaiskhan9654](https://github.com/Owaiskhan9654) | [❤️Sponsor](https://github.com/sponsors/Owaiskhan9654) |
@@ -6325,6 +6316,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
+## [ruthra kumar](https://github.com/ruthra-kumar)
+
+| [@ruthra-kumar](https://github.com/ruthra-kumar) | [❤️Sponsor](https://github.com/sponsors/ruthra-kumar) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/3272205?u=da47c45fa5047bbe90ae7ff1300ef0cacd8294f0&v=4" alt="" width="40" /> |  |
+| [erpnext](https://github.com/ruthra-kumar/erpnext) | Free and Open Source Enterprise Resource Planning \(ERP\) |
+
+    
+
 ## [Denny George](https://github.com/dennyabrain)
 
 | [@dennyabrain](https://github.com/dennyabrain) | [❤️Sponsor](https://github.com/sponsors/dennyabrain) |
@@ -6358,15 +6358,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/57517785?u=b5880574ffdce861ee941fd7bfc2d5257b88041a&v=4" alt="" width="40" /> | Cyber Security ｜ Open Source ｜ Devops |
 | [winutil](https://github.com/padsalatushal/winutil) | Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates |
-
-    
-
-## [ruthra kumar](https://github.com/ruthra-kumar)
-
-| [@ruthra-kumar](https://github.com/ruthra-kumar) | [❤️Sponsor](https://github.com/sponsors/ruthra-kumar) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/3272205?u=da47c45fa5047bbe90ae7ff1300ef0cacd8294f0&v=4" alt="" width="40" /> |  |
-| [erpnext](https://github.com/ruthra-kumar/erpnext) | Free and Open Source Enterprise Resource Planning \(ERP\) |
 
     
 
@@ -6568,6 +6559,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
+## [Hrisikesh](https://github.com/VirusZzHkP)
+
+| [@VirusZzHkP](https://github.com/VirusZzHkP) | [❤️Sponsor](https://github.com/sponsors/VirusZzHkP) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/76624193?u=2d7d4b169d8feecb04056f2a889f1a003b4c9d9e&v=4" alt="" width="40" /> | 🧠 Independent Security Researcher ｜｜ Cracking codes, mastering OSINT, safeguarding privacy. 🌐 For my web dev & utility projects, visit 👉 @hrisikeshpal  |
+| <!-- no item --> | <!-- no description --> |
+
+    
+
 ## [Prateek Pandey](https://github.com/prateekpandey14)
 
 | [@prateekpandey14](https://github.com/prateekpandey14) | [❤️Sponsor](https://github.com/sponsors/prateekpandey14) |
@@ -6658,15 +6658,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Hrisikesh](https://github.com/VirusZzHkP)
-
-| [@VirusZzHkP](https://github.com/VirusZzHkP) | [❤️Sponsor](https://github.com/sponsors/VirusZzHkP) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/76624193?u=2d7d4b169d8feecb04056f2a889f1a003b4c9d9e&v=4" alt="" width="40" /> | 🧠 Independent Security Researcher ｜｜ Cracking codes, mastering OSINT, safeguarding privacy. 🌐 For my web dev & utility projects, visit 👉 @hrisikeshpal  |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
 ## [Rohit](https://github.com/rohitdasu)
 
 | [@rohitdasu](https://github.com/rohitdasu) | [❤️Sponsor](https://github.com/sponsors/rohitdasu) |
@@ -6712,6 +6703,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
+## [Shobhit Nagpal](https://github.com/Shobhit-Nagpal)
+
+| [@Shobhit-Nagpal](https://github.com/Shobhit-Nagpal) | [❤️Sponsor](https://github.com/sponsors/Shobhit-Nagpal) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/74096450?u=3696462563db9d5df17a32a146d98256786bda0e&v=4" alt="" width="40" /> | making fun tools for the internet |
+| [ontime](https://github.com/cpvalente/ontime) | Free, open-source time keeping for live events |
+
+    
+
 ## [Ranit Manik](https://github.com/RanitManik)
 
 | [@RanitManik](https://github.com/RanitManik) | [❤️Sponsor](https://github.com/sponsors/RanitManik) |
@@ -6745,6 +6745,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/32841439?u=791158091f4a13c8b6460cdbf29cdfba9effedfa&v=4" alt="" width="40" /> | Web Designer & Developer in love with music, cycling and discovering new worlds and cultures. |
 | [cinny](https://github.com/cinnyapp/cinny) | Yet another matrix client |
+
+    
+
+## [Nikhil Jose](https://github.com/nikiljos)
+
+| [@nikiljos](https://github.com/nikiljos) | [❤️Sponsor](https://github.com/sponsors/nikiljos) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/57913645?u=31d400111b7989df8c3d555a00659aad1846c360&v=4" alt="" width="40" /> |  |
+| [OpenBadgX](https://github.com/nikiljos/OpenBadgX) | OpenBadgX - Open Source Certificate\/Badge awarding platform |
 
     
 
@@ -6802,6 +6811,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
+## [Nishant Rana](https://github.com/NishantRana07)
+
+| [@NishantRana07](https://github.com/NishantRana07) | [❤️Sponsor](https://github.com/sponsors/NishantRana07) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/126577697?u=b5949121bc495395bbc7b32fa3899a1534011a0c&v=4" alt="" width="40" /> | For Collaboration and Help - nishantelite007@gmail.com |
+| [MCA-Alumni-Network](https://github.com/abhishekraoas/MCA-Alumni-Network) | We are Creating a MCA Alumni Network where we can connect with the our Senior's \/ Alumni  |
+
+    
+
 ## [Bartick Maiti](https://github.com/bartick)
 
 | [@bartick](https://github.com/bartick) | [❤️Sponsor](https://github.com/sponsors/bartick) |
@@ -6826,6 +6844,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/112823140?u=0e261856ef4429f5f2329f7913755890aafcea01&v=4" alt="" width="40" /> | Algorithms & 7mm |
 | [MY-DSA-Sheet](https://github.com/yashsiwach/MY-DSA-Sheet) | 🙌Caution Beginner Don't Follow this !! Contains Twist Probelms !!❤️‍🔥Solving this might decrease you confidence !! |
+
+    
+
+## [Mohasin Haque](https://github.com/Mohasin-Haque)
+
+| [@Mohasin-Haque](https://github.com/Mohasin-Haque) | [❤️Sponsor](https://github.com/sponsors/Mohasin-Haque) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/72180173?u=d6d016ee06611b6dc0ac666e353ce912732bf79e&v=4" alt="" width="40" /> | M.C.A. 2nd Year at GL Bajaj Institute of technology and management. Web Dev Enthusiast. \#Keen Learner. |
+| [Fun-with-Triangles](https://github.com/Mohasin-Haque/Fun-with-Triangles) | If you love to solve questions on triangles then this app is for you. Check it for more info. Made by using HTML, CSS and JavaScript. |
 
     
 
@@ -6856,12 +6883,12 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Nishant Rana](https://github.com/NishantRana07)
+## [Abhinav](https://github.com/AbhinavTheDev)
 
-| [@NishantRana07](https://github.com/NishantRana07) | [❤️Sponsor](https://github.com/sponsors/NishantRana07) |
+| [@AbhinavTheDev](https://github.com/AbhinavTheDev) | [❤️Sponsor](https://github.com/sponsors/AbhinavTheDev) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/126577697?u=b5949121bc495395bbc7b32fa3899a1534011a0c&v=4" alt="" width="40" /> | For Collaboration and Help - nishantelite007@gmail.com |
-| [MCA-Alumni-Network](https://github.com/abhishekraoas/MCA-Alumni-Network) | We are Creating a MCA Alumni Network where we can connect with the our Senior's \/ Alumni  |
+| <img src="https://avatars.githubusercontent.com/u/85792055?u=6cf3458bb2dd9c021f1d546b185815e1fc62f22f&v=4" alt="" width="40" /> | ML Engineer, Developer , Technical Writer |
+| [coding-agent](https://github.com/AbhinavTheDev/coding-agent) | Your own Coding Agent 🤖 |
 
     
 
@@ -6874,30 +6901,12 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Animesh Roy](https://github.com/anir0y)
+## [Shaikh Minhaj](https://github.com/minhaj-313)
 
-| [@anir0y](https://github.com/anir0y) | [❤️Sponsor](https://github.com/sponsors/anir0y) |
+| [@minhaj-313](https://github.com/minhaj-313) | [❤️Sponsor](https://github.com/sponsors/minhaj-313) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/29829469?u=480cbbe3773b2d8c5f7c26308b357c870ad54534&v=4" alt="" width="40" /> | Cybersecurity cat, hunting digital bugs. Loves napping on keyboards. |
-| [vwa\_docker](https://github.com/anir0y/vwa_docker) | vulnerable web application |
-
-    
-
-## [Mohasin Haque](https://github.com/Mohasin-Haque)
-
-| [@Mohasin-Haque](https://github.com/Mohasin-Haque) | [❤️Sponsor](https://github.com/sponsors/Mohasin-Haque) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/72180173?u=d6d016ee06611b6dc0ac666e353ce912732bf79e&v=4" alt="" width="40" /> | M.C.A. 2nd Year at GL Bajaj Institute of technology and management. Web Dev Enthusiast. \#Keen Learner. |
-| [Fun-with-Triangles](https://github.com/Mohasin-Haque/Fun-with-Triangles) | If you love to solve questions on triangles then this app is for you. Check it for more info. Made by using HTML, CSS and JavaScript. |
-
-    
-
-## [Nikhil Jose](https://github.com/nikiljos)
-
-| [@nikiljos](https://github.com/nikiljos) | [❤️Sponsor](https://github.com/sponsors/nikiljos) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/57913645?u=31d400111b7989df8c3d555a00659aad1846c360&v=4" alt="" width="40" /> |  |
-| [OpenBadgX](https://github.com/nikiljos/OpenBadgX) | OpenBadgX - Open Source Certificate\/Badge awarding platform |
+| <img src="https://avatars.githubusercontent.com/u/107562768?u=a1c57bdefd06cb0b0856cca930167f7d24c66a43&v=4" alt="" width="40" /> | Cybersecurity Expert 🔐 ｜ SOC Analyst 🛡️ ｜ Ethical Hacker 🧠 ｜ Founder @ Synapsium Technologies 🚀 ｜ Web Developer 💻 ｜Open to Collaborations 🤝 |
+| <!-- no item --> | <!-- no description --> |
 
     
 
@@ -6907,6 +6916,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/92421383?u=33e706a40e966a1b05865489d61c5e7ab4a8a8ea&v=4" alt="" width="40" /> | Cloud Consultant - DevOps @ AWS ｜｜ MCA 24' @ NIT Warangal ｜｜ Full Stack Developer ｜｜ GitHub ｜｜ DevOps ｜｜ Cloud Computing ｜｜ Problem Solver   |
 | [portfolio-react](https://github.com/Sagargupta16/portfolio-react) | It is an React application showcasing my skills, projects, and professional journey. This platform serves as a comprehensive hub of information, providing insights into my background, achievements, and expertise. |
+
+    
+
+## [Rahul Mishra](https://github.com/BlankParticle)
+
+| [@BlankParticle](https://github.com/BlankParticle) | [❤️Sponsor](https://github.com/sponsors/BlankParticle) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/130567419?u=0267a8a02a1e43655efb58ee979d0886eb7c74f8&v=4" alt="" width="40" /> |  Trying to make an impact on your life,  🎄 one line at a time |
+| [www](https://github.com/BlankParticle/www) | 🧩 Source code of my personal website. |
 
     
 
@@ -6937,21 +6955,21 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Abhinav](https://github.com/AbhinavTheDev)
-
-| [@AbhinavTheDev](https://github.com/AbhinavTheDev) | [❤️Sponsor](https://github.com/sponsors/AbhinavTheDev) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/85792055?u=6cf3458bb2dd9c021f1d546b185815e1fc62f22f&v=4" alt="" width="40" /> | ML Engineer, Developer , Technical Writer |
-| [coding-agent](https://github.com/AbhinavTheDev/coding-agent) | Your own Coding Agent 🤖 |
-
-    
-
 ## [GrayHat](https://github.com/GrayHat12)
 
 | [@GrayHat12](https://github.com/GrayHat12) | [❤️Sponsor](https://github.com/sponsors/GrayHat12) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/37294843?u=4e97324d614edc239bb618501e51186f451d3b02&v=4" alt="" width="40" /> | Student |
 | [pykachu](https://github.com/GrayHat12/pykachu) | Lightweigth and extensible serializer for python |
+
+    
+
+## [Animesh Roy](https://github.com/anir0y)
+
+| [@anir0y](https://github.com/anir0y) | [❤️Sponsor](https://github.com/sponsors/anir0y) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/29829469?u=480cbbe3773b2d8c5f7c26308b357c870ad54534&v=4" alt="" width="40" /> | Cybersecurity cat, hunting digital bugs. Loves napping on keyboards. |
+| [vwa\_docker](https://github.com/anir0y/vwa_docker) | vulnerable web application |
 
     
 
@@ -6964,30 +6982,12 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Shaikh Minhaj](https://github.com/minhaj-313)
-
-| [@minhaj-313](https://github.com/minhaj-313) | [❤️Sponsor](https://github.com/sponsors/minhaj-313) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/107562768?u=a1c57bdefd06cb0b0856cca930167f7d24c66a43&v=4" alt="" width="40" /> | Cybersecurity Expert 🔐 ｜ SOC Analyst 🛡️ ｜ Ethical Hacker 🧠 ｜ Founder @ Synapsium Technologies 🚀 ｜ Web Developer 💻 ｜Open to Collaborations 🤝 |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
 ## [Pranjal Agarwal](https://github.com/Pranjal360Agarwal)
 
 | [@Pranjal360Agarwal](https://github.com/Pranjal360Agarwal) | [❤️Sponsor](https://github.com/sponsors/Pranjal360Agarwal) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/98935622?u=0d587747b0ceec9149ebab1237d34b17569dd445&v=4" alt="" width="40" /> | Hi, I'm Pranjal Agarwal.  • Competitive Programmer • Software Developer • Open Source Contributor • Project Mentor & Admin |
 | [ApnaBharat-Bus-Booking-Reservation-System](https://github.com/Pranjal360Agarwal/ApnaBharat-Bus-Booking-Reservation-System) | It is the system containing fully functional features from booking ticket to generating the ticket. With the bus ticket reservation system, you can manage\/book reservations, clients data and passengers lists, can add new bus or new route as an Operator admin.  |
-
-    
-
-## [Shobhit Nagpal](https://github.com/Shobhit-Nagpal)
-
-| [@Shobhit-Nagpal](https://github.com/Shobhit-Nagpal) | [❤️Sponsor](https://github.com/sponsors/Shobhit-Nagpal) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/74096450?u=3696462563db9d5df17a32a146d98256786bda0e&v=4" alt="" width="40" /> | making fun tools for the internet |
-| [ontime](https://github.com/cpvalente/ontime) | Free, open-source time keeping for live events |
 
     
 
@@ -7006,15 +7006,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/75434191?u=0aa88e4ae941c44425b2be4595cf92b68f578f8a&v=4" alt="" width="40" /> | Open Source Contributor ✨ and Maintainer 🔥｜ Full Stack Developer 🧑‍💻 |
 | <!-- no item --> | <!-- no description --> |
-
-    
-
-## [Rahul Mishra](https://github.com/BlankParticle)
-
-| [@BlankParticle](https://github.com/BlankParticle) | [❤️Sponsor](https://github.com/sponsors/BlankParticle) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/130567419?u=0267a8a02a1e43655efb58ee979d0886eb7c74f8&v=4" alt="" width="40" /> |  Trying to make an impact on your life,  🎄 one line at a time |
-| [www](https://github.com/BlankParticle/www) | 🧩 Source code of my personal website. |
 
     
 
@@ -7045,15 +7036,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Kamireddy Mahendra](https://github.com/mahendra204)
-
-| [@mahendra204](https://github.com/mahendra204) | [❤️Sponsor](https://github.com/sponsors/mahendra204) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/120042495?u=ee53046d1c14286d7f6474d0980637f4599663c3&v=4" alt="" width="40" /> | \# Data Analyst  \# Data Engineer \# Data Science \#Data Analytics |
-| [Data-Analysis\_Projects-PowerBI-Dashboards-](https://github.com/mahendra204/Data-Analysis_Projects-PowerBI-Dashboards-) | <!-- no description --> |
-
-    
-
 ## [Subraata Kumar](https://github.com/subraatakumar)
 
 | [@subraatakumar](https://github.com/subraatakumar) | [❤️Sponsor](https://github.com/sponsors/subraatakumar) |
@@ -7063,12 +7045,30 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
+## [Kamireddy Mahendra](https://github.com/mahendra204)
+
+| [@mahendra204](https://github.com/mahendra204) | [❤️Sponsor](https://github.com/sponsors/mahendra204) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/120042495?u=ee53046d1c14286d7f6474d0980637f4599663c3&v=4" alt="" width="40" /> | \# Data Analyst  \# Data Engineer \# Data Science \#Data Analytics |
+| [Data-Analysis\_Projects-PowerBI-Dashboards-](https://github.com/mahendra204/Data-Analysis_Projects-PowerBI-Dashboards-) | <!-- no description --> |
+
+    
+
 ## [Abhigyan Trips](https://github.com/abhigyantrips)
 
 | [@abhigyantrips](https://github.com/abhigyantrips) | [❤️Sponsor](https://github.com/sponsors/abhigyantrips) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/28886624?u=1b58bb9a6145a8c8ea08cb0be4b5622a18895771&v=4" alt="" width="40" /> | Connoisseur of Jugaad. |
 | [reasonable.diet](https://github.com/peacefulfoundation/reasonable.diet) | budget-friendly recipes for university students. \(temporary site at\) |
+
+    
+
+## [Buddhsen Tripathi](https://github.com/Buddhsen-tripathi)
+
+| [@Buddhsen-tripathi](https://github.com/Buddhsen-tripathi) | [❤️Sponsor](https://github.com/sponsors/Buddhsen-tripathi) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/72216705?u=9968182e61a1109f43a835098a366b1eaf4b063b&v=4" alt="" width="40" /> |  |
+| [Landing-Page-Inspirations](https://github.com/Buddhsen-tripathi/Landing-Page-Inspirations) | A curated collection of the best landing pages, UI components, and design resources. Perfect for developers, designers, and indie hackers looking for inspiration or best practices. |
 
     
 
@@ -7123,6 +7123,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/35341198?u=656f531d0057be5705966416b4883f1a598a2bc1&v=4" alt="" width="40" /> | Software Developer ❤️ |
 | [Voicefy](https://github.com/Abusayid693/Voicefy) | Generate best audio experiences with cloud services, build using best in market could service providers \(in-development\) |
+
+    
+
+## [Dhanush S](https://github.com/ipuppyyt)
+
+| [@ipuppyyt](https://github.com/ipuppyyt) | [❤️Sponsor](https://github.com/sponsors/ipuppyyt) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/71689062?v=4" alt="" width="40" /> | Developer ｜ UI Designer ｜ Marketing Associate |
+| [react-bits](https://github.com/DavidHDev/react-bits) | An open source collection of animated, interactive & fully customizable React components for building stunning, memorable websites. |
 
     
 
@@ -7189,15 +7198,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Dhanush S](https://github.com/ipuppyyt)
-
-| [@ipuppyyt](https://github.com/ipuppyyt) | [❤️Sponsor](https://github.com/sponsors/ipuppyyt) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/71689062?v=4" alt="" width="40" /> | Developer ｜ UI Designer ｜ Marketing Associate |
-| [react-bits](https://github.com/DavidHDev/react-bits) | An open source collection of animated, interactive & fully customizable React components for building stunning, memorable websites. |
-
-    
-
 ## [Manvendra Bhangui](https://github.com/mbhangui)
 
 | [@mbhangui](https://github.com/mbhangui) | [❤️Sponsor](https://github.com/sponsors/mbhangui) |
@@ -7261,21 +7261,21 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Easy Coding Tutorial](https://github.com/EasyCodingTutorial)
-
-| [@EasyCodingTutorial](https://github.com/EasyCodingTutorial) | [❤️Sponsor](https://github.com/sponsors/EasyCodingTutorial) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/84335112?u=3818946564eb82c0e2741a4bea15d544690a7e43&v=4" alt="" width="40" /> | SDE |
-| [Top3\_Websites\_of\_2024](https://github.com/EasyCodingTutorial/Top3_Websites_of_2024) | Top 3 Websites of 2024  |
-
-    
-
 ## [WirelessAlien](https://github.com/WirelessAlien)
 
 | [@WirelessAlien](https://github.com/WirelessAlien) | [❤️Sponsor](https://github.com/sponsors/WirelessAlien) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/121420261?u=b50808a7ce5022ed981672dd540aa893fb4a7b5f&v=4" alt="" width="40" /> | Learning... |
 | [BhagavadGitaApp](https://github.com/WirelessAlien/BhagavadGitaApp) | A Simple Open-source Android App for Bhagavad Gita |
+
+    
+
+## [Easy Coding Tutorial](https://github.com/EasyCodingTutorial)
+
+| [@EasyCodingTutorial](https://github.com/EasyCodingTutorial) | [❤️Sponsor](https://github.com/sponsors/EasyCodingTutorial) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/84335112?u=3818946564eb82c0e2741a4bea15d544690a7e43&v=4" alt="" width="40" /> | SDE |
+| [Top3\_Websites\_of\_2024](https://github.com/EasyCodingTutorial/Top3_Websites_of_2024) | Top 3 Websites of 2024  |
 
     
 
@@ -7423,21 +7423,21 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Shivansh Shekhar](https://github.com/shivanshshekhar11)
-
-| [@shivanshshekhar11](https://github.com/shivanshshekhar11) | [❤️Sponsor](https://github.com/sponsors/shivanshshekhar11) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/57763204?u=d5fb46e3e8a48928a27da55f1c07802e2f55b7e7&v=4" alt="" width="40" /> | Providing IT consulting and solutions to the lords in feudal Japan. |
-| [cloudjot-backend](https://github.com/shivanshshekhar11/cloudjot-backend) | Code for backend of the project "CloudJot". |
-
-    
-
 ## [Tushar Chandra](https://github.com/me-tusharchandra)
 
 | [@me-tusharchandra](https://github.com/me-tusharchandra) | [❤️Sponsor](https://github.com/sponsors/me-tusharchandra) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/64960756?u=cdb37390c88786b3239cb804bb5637aca51b6aaa&v=4" alt="" width="40" /> | IIITD'25 ECE ｜ YouTuber ｜ AI\/ML Engineer |
 | [Loan.ly](https://github.com/me-tusharchandra/Loan.ly) | AI based Lead Generator for Banks |
+
+    
+
+## [Shivansh Shekhar](https://github.com/shivanshshekhar11)
+
+| [@shivanshshekhar11](https://github.com/shivanshshekhar11) | [❤️Sponsor](https://github.com/sponsors/shivanshshekhar11) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/57763204?u=d5fb46e3e8a48928a27da55f1c07802e2f55b7e7&v=4" alt="" width="40" /> | Providing IT consulting and solutions to the lords in feudal Japan. |
+| [cloudjot-backend](https://github.com/shivanshshekhar11/cloudjot-backend) | Code for backend of the project "CloudJot". |
 
     
 
@@ -7477,12 +7477,12 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Buddhsen Tripathi](https://github.com/Buddhsen-tripathi)
+## [Prayag Prajapati](https://github.com/prayag17)
 
-| [@Buddhsen-tripathi](https://github.com/Buddhsen-tripathi) | [❤️Sponsor](https://github.com/sponsors/Buddhsen-tripathi) |
+| [@prayag17](https://github.com/prayag17) | [❤️Sponsor](https://github.com/sponsors/prayag17) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/72216705?u=9968182e61a1109f43a835098a366b1eaf4b063b&v=4" alt="" width="40" /> |  |
-| [Landing-Page-Inspirations](https://github.com/Buddhsen-tripathi/Landing-Page-Inspirations) | A curated collection of the best landing pages, UI components, and design resources. Perfect for developers, designers, and indie hackers looking for inspiration or best practices. |
+| <img src="https://avatars.githubusercontent.com/u/55829513?u=3d1427595d2cdc256900bd1fa3a41f847e2a9b16&v=4" alt="" width="40" /> |  |
+| [Blink](https://github.com/prayag17/Blink) | Modern Desktop Jellyfin Client made with Tauri and React :atom\_symbol: |
 
     
 
@@ -7549,15 +7549,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Chinmay Sonawane](https://github.com/chinmay29hub)
-
-| [@chinmay29hub](https://github.com/chinmay29hub) | [❤️Sponsor](https://github.com/sponsors/chinmay29hub) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/69494946?u=72b93911ea099e558417591dbf164d0d525767d3&v=4" alt="" width="40" /> |  |
-| [chinmay29hub](https://github.com/chinmay29hub/chinmay29hub) | 🚀 Personal README Template for Developers ｜ Dark Mode Optimized 🌙 ｜ Fork, Star & Make It Yours! Visit chinmay29hub — Crafted with 💻 & a pinch of Voodoo Programming ¯\\_\(ツ\)\_\/¯ |
-
-    
-
 ## [Bhavik Jikadara](https://github.com/Bhavik-Jikadara)
 
 | [@Bhavik-Jikadara](https://github.com/Bhavik-Jikadara) | [❤️Sponsor](https://github.com/sponsors/Bhavik-Jikadara) |
@@ -7573,15 +7564,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/69510006?u=ec41eeede4bbd569d228a6550690b58ea82dbe75&v=4" alt="" width="40" /> | Fullstack Engineer - React.js ｜ Next.js  ｜ MERN Stack. |
 | [next-url-shortener](https://github.com/DalpatRathore/next-url-shortener) | URL Shortener App  - easily shorten your URLs and manage links. |
-
-    
-
-## [Prayag Prajapati](https://github.com/prayag17)
-
-| [@prayag17](https://github.com/prayag17) | [❤️Sponsor](https://github.com/sponsors/prayag17) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/55829513?u=3d1427595d2cdc256900bd1fa3a41f847e2a9b16&v=4" alt="" width="40" /> |  |
-| [Blink](https://github.com/prayag17/Blink) | Modern Desktop Jellyfin Client made with Tauri and React :atom\_symbol: |
 
     
 
@@ -7609,6 +7591,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/45932883?u=7c831f8f2982830f6b4531ffae8585d5d43c3eab&v=4" alt="" width="40" /> | Software Engineer |
 | [maui](https://github.com/dotnet/maui) | .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop. |
+
+    
+
+## [Chinmay Sonawane](https://github.com/chinmay29hub)
+
+| [@chinmay29hub](https://github.com/chinmay29hub) | [❤️Sponsor](https://github.com/sponsors/chinmay29hub) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/69494946?u=72b93911ea099e558417591dbf164d0d525767d3&v=4" alt="" width="40" /> |  |
+| [chinmay29hub](https://github.com/chinmay29hub/chinmay29hub) | 🚀 Personal README Template for Developers ｜ Dark Mode Optimized 🌙 ｜ Fork, Star & Make It Yours! Visit chinmay29hub — Crafted with 💻 & a pinch of Voodoo Programming ¯\\_\(ツ\)\_\/¯ |
 
     
 
@@ -7738,12 +7729,30 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
+## [Ajay K V | CodingSalad](https://github.com/Ajay9o9)
+
+| [@Ajay9o9](https://github.com/Ajay9o9) | [❤️Sponsor](https://github.com/sponsors/Ajay9o9) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/31621065?u=42ab926432af9ae6c4ce7833f20a7a22bdda1340&v=4" alt="" width="40" /> | Lead Flutter developer. Dart, Python, Kotlin, Java, JS, TS.  Total 7 years of exp, 9  years of coding. I make youtube videos on channel codingsalad |
+| [flutter\_rope\_simulation](https://github.com/Ajay9o9/flutter_rope_simulation) | A demo flutter app, showing how to do rope simulation in custompaint. |
+
+    
+
 ## [Ayushman Srivastava](https://github.com/ayushman1024)
 
 | [@ayushman1024](https://github.com/ayushman1024) | [❤️Sponsor](https://github.com/sponsors/ayushman1024) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/31370112?u=0c36d6376b1685d98eef37f01437733840c28da8&v=4" alt="" width="40" /> | Bio-less |
 | [TASK-Management-System](https://github.com/ayushman1024/TASK-Management-System) | Spring Boot and Angular 7 web application for task management . |
+
+    
+
+## [Akhilesh](https://github.com/akhilesh-w)
+
+| [@akhilesh-w](https://github.com/akhilesh-w) | [❤️Sponsor](https://github.com/sponsors/akhilesh-w) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/77394282?u=8abc77a5f16714382fb0a4b5c31783e449720049&v=4" alt="" width="40" /> | Developer |
+| [logseq](https://github.com/akhilesh-w/logseq) | A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http:\/\/github.com\/logseq\/logseq\/releases. roadmap: http:\/\/trello.com\/b\/8txSM12G\/roadmap |
 
     
 
@@ -7792,6 +7801,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
+## [Arinjay Wyawhare](https://github.com/jaywyawhare)
+
+| [@jaywyawhare](https://github.com/jaywyawhare) | [❤️Sponsor](https://github.com/sponsors/jaywyawhare) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/72088094?u=1b7367372dfabe133e7180836fe615c91c36658e&v=4" alt="" width="40" /> | In toxic relationship with coding. |
+| [C-ML](https://github.com/jaywyawhare/C-ML) | Machine learning framework written in C. |
+
+    
+
 ## [Sunny Srinidhi](https://github.com/contactsunny)
 
 | [@contactsunny](https://github.com/contactsunny) | [❤️Sponsor](https://github.com/sponsors/contactsunny) |
@@ -7819,30 +7837,12 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Ajay K V | CodingSalad](https://github.com/Ajay9o9)
-
-| [@Ajay9o9](https://github.com/Ajay9o9) | [❤️Sponsor](https://github.com/sponsors/Ajay9o9) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/31621065?u=42ab926432af9ae6c4ce7833f20a7a22bdda1340&v=4" alt="" width="40" /> | Lead Flutter developer. Dart, Python, Kotlin, Java, JS, TS.  Total 7 years of exp, 9  years of coding. I make youtube videos on channel codingsalad |
-| [flutter\_rope\_simulation](https://github.com/Ajay9o9/flutter_rope_simulation) | A demo flutter app, showing how to do rope simulation in custompaint. |
-
-    
-
 ## [Aayush Atharva](https://github.com/hyperxpro)
 
 | [@hyperxpro](https://github.com/hyperxpro) | [❤️Sponsor](https://github.com/sponsors/hyperxpro) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/24762260?u=09d40986a37a05913dbe729e7504dea324eaf685&v=4" alt="" width="40" /> |  |
 | [netty](https://github.com/netty/netty) | Netty project - an event-driven asynchronous network application framework |
-
-    
-
-## [Akhilesh](https://github.com/akhilesh-w)
-
-| [@akhilesh-w](https://github.com/akhilesh-w) | [❤️Sponsor](https://github.com/sponsors/akhilesh-w) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/77394282?u=8abc77a5f16714382fb0a4b5c31783e449720049&v=4" alt="" width="40" /> | Developer |
-| [logseq](https://github.com/akhilesh-w/logseq) | A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http:\/\/github.com\/logseq\/logseq\/releases. roadmap: http:\/\/trello.com\/b\/8txSM12G\/roadmap |
 
     
 
@@ -7888,6 +7888,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/68847718?u=b2f1e5d9049611f73cf69ba269172589424b157d&v=4" alt="" width="40" /> | Evolving my database 🧠 with awesome things happening in the Tech. |
 | [pu-convocation](https://github.com/mihirpaldhikar/pu-convocation) | The Official Repository for Parul University Convocation Management System.  |
+
+    
+
+## [Abhay](https://github.com/abhayymishraa)
+
+| [@abhayymishraa](https://github.com/abhayymishraa) | [❤️Sponsor](https://github.com/sponsors/abhayymishraa) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/133818254?u=2e496d21cf42b7d9c78809f50ba9eb65dcc950cb&v=4" alt="" width="40" /> | GSoC'25 @OWASPFoundation  |
+| [chatbot-langchain-streamlit-pinecone](https://github.com/abhayymishraa/chatbot-langchain-streamlit-pinecone) | A lightweight Streamlit application deployed via Docker, featuring a Document Helper Chatbot that leverages Cohere embeddings, Pinecone vector storage, and LangChain for LLM-powered conversations. |
 
     
 
@@ -7972,15 +7981,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Debajyati Dey](https://github.com/Debajyati)
-
-| [@Debajyati](https://github.com/Debajyati) | [❤️Sponsor](https://github.com/sponsors/Debajyati) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/127122455?u=ed68518463e6c68d6cce7bf016d015c587715418&v=4" alt="" width="40" /> | CSE student, Linux Enthusiast  |
-| [Efficienvim](https://github.com/Debajyati/Efficienvim) | A Highly Efficient & Multifaceted Neovim Starter Configuration entirely in lua with Lazy.nvim |
-
-    
-
 ## [Vibhakar Solanki](https://github.com/p0lygun)
 
 | [@p0lygun](https://github.com/p0lygun) | [❤️Sponsor](https://github.com/sponsors/p0lygun) |
@@ -7999,30 +7999,30 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Abhay](https://github.com/abhayymishraa)
-
-| [@abhayymishraa](https://github.com/abhayymishraa) | [❤️Sponsor](https://github.com/sponsors/abhayymishraa) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/133818254?u=2e496d21cf42b7d9c78809f50ba9eb65dcc950cb&v=4" alt="" width="40" /> | GSoC'25 @OWASPFoundation  |
-| [chatbot-langchain-streamlit-pinecone](https://github.com/abhayymishraa/chatbot-langchain-streamlit-pinecone) | A lightweight Streamlit application deployed via Docker, featuring a Document Helper Chatbot that leverages Cohere embeddings, Pinecone vector storage, and LangChain for LLM-powered conversations. |
-
-    
-
-## [Arinjay Wyawhare](https://github.com/jaywyawhare)
-
-| [@jaywyawhare](https://github.com/jaywyawhare) | [❤️Sponsor](https://github.com/sponsors/jaywyawhare) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/72088094?u=1b7367372dfabe133e7180836fe615c91c36658e&v=4" alt="" width="40" /> | In toxic relationship with coding. |
-| [C-ML](https://github.com/jaywyawhare/C-ML) | Machine learning framework written in C. |
-
-    
-
 ## [Debdut Goswami](https://github.com/debdutgoswami)
 
 | [@debdutgoswami](https://github.com/debdutgoswami) | [❤️Sponsor](https://github.com/sponsors/debdutgoswami) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/40338044?u=457bffcb44deec8eb20dd57bb7b4e0dac7b6a3c1&v=4" alt="" width="40" /> | 💼  AWS wizard by day, Python sorcerer by night. Turning zeroes into heroes! 💰✨ |
 | [newssy](https://github.com/debdutgoswami/newssy) | An all-in-one news portal where anyone can look through news from various sources and even subscribe to newsletters to receive daily headlines via email. |
+
+    
+
+## [Nakul Dev](https://github.com/nakuldevmv)
+
+| [@nakuldevmv](https://github.com/nakuldevmv) | [❤️Sponsor](https://github.com/sponsors/nakuldevmv) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/49229179?u=afdcc9af4c3641d67f76084ec73eb1efabe21eac&v=4" alt="" width="40" /> | Code hard, debug harder, pray the compiler agrees. 🙇 |
+| [Spamurai](https://github.com/nakuldevmv/Spamurai) | An automated email cleaner that detects spam and unsubscribes from unwanted mailing lists. Built with IMAP, Puppeteer, MongoDB Atlas, and IPQualityScore for efficient inbox management. |
+
+    
+
+## [Samik Choudhury](https://github.com/proSamik)
+
+| [@proSamik](https://github.com/proSamik) | [❤️Sponsor](https://github.com/sponsors/proSamik) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/73891260?u=ba14d070b1f15a9a5936d67c03a5cc2459119b04&v=4" alt="" width="40" /> | Let's Build and Ship SaaS Together |
+| [freescreenshot](https://github.com/proSamik/freescreenshot) | <!-- no description --> |
 
     
 
@@ -8044,15 +8044,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Durgesh Gupta](https://github.com/ilearnbydoing)
-
-| [@ilearnbydoing](https://github.com/ilearnbydoing) | [❤️Sponsor](https://github.com/sponsors/ilearnbydoing) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/4979654?u=5de5d837b01ae18d6de5edb36af004a85e546a3f&v=4" alt="" width="40" /> | I am a full stack developer. |
-| <!-- no item --> | <!-- no description --> |
-
-    
-
 ## [Sauradip Ghosh](https://github.com/Sauradip07)
 
 | [@Sauradip07](https://github.com/Sauradip07) | [❤️Sponsor](https://github.com/sponsors/Sauradip07) |
@@ -8068,6 +8059,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/43451156?u=8f9cbb5b9ad278ca5e7bdaaf4725815aaa40373a&v=4" alt="" width="40" /> | Cybersecurity ｜ Backend Developer |
 | [Awesome-OSINT-For-Everything](https://github.com/Astrosp/Awesome-OSINT-For-Everything) | OSINT tools for Information gathering, Cybersecurity, Reverse searching, bugbounty, trust and safety, red team oprations and more. |
+
+    
+
+## [Debajyati Dey](https://github.com/Debajyati)
+
+| [@Debajyati](https://github.com/Debajyati) | [❤️Sponsor](https://github.com/sponsors/Debajyati) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/127122455?u=ed68518463e6c68d6cce7bf016d015c587715418&v=4" alt="" width="40" /> | CSE student, Linux Enthusiast  |
+| [Efficienvim](https://github.com/Debajyati/Efficienvim) | A Highly Efficient & Multifaceted Neovim Starter Configuration entirely in lua with Lazy.nvim |
 
     
 
@@ -8143,15 +8143,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Samik Choudhury](https://github.com/proSamik)
-
-| [@proSamik](https://github.com/proSamik) | [❤️Sponsor](https://github.com/sponsors/proSamik) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/73891260?u=ba14d070b1f15a9a5936d67c03a5cc2459119b04&v=4" alt="" width="40" /> | Let's Build and Ship SaaS Together |
-| [freescreenshot](https://github.com/proSamik/freescreenshot) | <!-- no description --> |
-
-    
-
 ## [Hasan](https://github.com/codeIntrovert)
 
 | [@codeIntrovert](https://github.com/codeIntrovert) | [❤️Sponsor](https://github.com/sponsors/codeIntrovert) |
@@ -8167,6 +8158,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/89210438?u=84542826426bf16f3703704066655e0372feec01&v=4" alt="" width="40" /> | Building Pujo Atlas |
 | [create-t3-app](https://github.com/t3-oss/create-t3-app) | The best way to start a full-stack, typesafe Next.js app  |
+
+    
+
+## [Durgesh Gupta](https://github.com/ilearnbydoing)
+
+| [@ilearnbydoing](https://github.com/ilearnbydoing) | [❤️Sponsor](https://github.com/sponsors/ilearnbydoing) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/4979654?u=5de5d837b01ae18d6de5edb36af004a85e546a3f&v=4" alt="" width="40" /> | I am a full stack developer. |
+| <!-- no item --> | <!-- no description --> |
 
     
 
@@ -8260,12 +8260,12 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Ankit Kumar](https://github.com/ankitkat042)
+## [Garv nanwani](https://github.com/Garvnanwani)
 
-| [@ankitkat042](https://github.com/ankitkat042) | [❤️Sponsor](https://github.com/sponsors/ankitkat042) |
+| [@Garvnanwani](https://github.com/Garvnanwani) | [❤️Sponsor](https://github.com/sponsors/Garvnanwani) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/79627254?u=461402f27a03689b55d69a47c970c791318a1611&v=4" alt="" width="40" /> | I do goofy things. cse@iiitd'25 ｜  former intern @tasktracker.in ｜    dev @SocCloudLabs . The best OpSec  is not saying too much |
-| <!-- no item --> | <!-- no description --> |
+| <img src="https://avatars.githubusercontent.com/u/36405030?u=c6924cfe3932cc4002aa079b600c00ac503e2ebb&v=4" alt="" width="40" /> | Full Stack Web Developer From India  |
+| [garvnanwani.com](https://github.com/Garvnanwani/garvnanwani.com) | Personal website made with next js, tailwind and MDX |
 
     
 
@@ -8282,8 +8282,17 @@ This repository is a list of GitHub users who are living in India and are sponso
 
 | [@MehulKChaudhari](https://github.com/MehulKChaudhari) | [❤️Sponsor](https://github.com/sponsors/MehulKChaudhari) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/55375534?u=65b5f7abf679e88f5c423f86b3363941d0996d66&v=4" alt="" width="40" /> |  |
+| <img src="https://avatars.githubusercontent.com/u/55375534?u=65b5f7abf679e88f5c423f86b3363941d0996d66&v=4" alt="" width="40" /> | Learning threejs, Rust and system design   https:\/\/mehul.wiki |
 | [rakshak](https://github.com/MehulKChaudhari/rakshak) | <!-- no description --> |
+
+    
+
+## [Harsh Trivedi](https://github.com/iamharshtrivedi)
+
+| [@iamharshtrivedi](https://github.com/iamharshtrivedi) | [❤️Sponsor](https://github.com/sponsors/iamharshtrivedi) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/9918368?u=80b487da292119440b09b68b5baed690d1f0ada6&v=4" alt="" width="40" /> | @Google Scholar - @Android 👨🏻‍💻 ｜ Software Developer 💼 Android, Kotlin, Java, SwiftUI, Python ｜ AI ｜ ML ｜ Tech Geeky 🤓｜ Optimistic ✨｜ Karma Believer 🔁 |
+| [GenerativeAiSampleApp](https://github.com/iamharshtrivedi/GenerativeAiSampleApp) | Google AI SDK for Android |
 
     
 
@@ -8350,12 +8359,12 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Garv nanwani](https://github.com/Garvnanwani)
+## [Darshan G K](https://github.com/imDarshanGK)
 
-| [@Garvnanwani](https://github.com/Garvnanwani) | [❤️Sponsor](https://github.com/sponsors/Garvnanwani) |
+| [@imDarshanGK](https://github.com/imDarshanGK) | [❤️Sponsor](https://github.com/sponsors/imDarshanGK) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/36405030?u=c6924cfe3932cc4002aa079b600c00ac503e2ebb&v=4" alt="" width="40" /> | Full Stack Web Developer From India  |
-| [garvnanwani.com](https://github.com/Garvnanwani/garvnanwani.com) | Personal website made with next js, tailwind and MDX |
+| <img src="https://avatars.githubusercontent.com/u/122042809?u=87aa59727d51d0d4967f0d486a838974257f4cef&v=4" alt="" width="40" /> | Python Developer ｜ Exploring Machine Learning ｜ Open-Source Contributor ｜ AI & Tech Enthusiast |
+| [TrendTags](https://github.com/imDarshanGK/TrendTags) | TrendTags: A platform to generate relevant tags |
 
     
 
@@ -8377,21 +8386,21 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
+## [Ankit Kumar](https://github.com/ankitkat042)
+
+| [@ankitkat042](https://github.com/ankitkat042) | [❤️Sponsor](https://github.com/sponsors/ankitkat042) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/79627254?u=461402f27a03689b55d69a47c970c791318a1611&v=4" alt="" width="40" /> | I do goofy things. cse@iiitd'25 ｜  former intern @tasktracker.in ｜    dev @SocCloudLabs . The best OpSec  is not saying too much |
+| <!-- no item --> | <!-- no description --> |
+
+    
+
 ## [Harsha Raghuram](https://github.com/ShootingKing-AM)
 
 | [@ShootingKing-AM](https://github.com/ShootingKing-AM) | [❤️Sponsor](https://github.com/sponsors/ShootingKing-AM) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/4137788?u=63fd4caa9a6dc5ddf0b402006beafb568c3b8d25&v=4" alt="" width="40" /> |  |
 | [PhoneVR](https://github.com/PhoneVR-Developers/PhoneVR) | Use Steam VR-enabled applications with your phone as HMD \(Head-mounted display\). The only Open-Source solution to similar commercial packages like VRidge, iVRy, Trinus etc etc. |
-
-    
-
-## [Harsh Trivedi](https://github.com/iamharshtrivedi)
-
-| [@iamharshtrivedi](https://github.com/iamharshtrivedi) | [❤️Sponsor](https://github.com/sponsors/iamharshtrivedi) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/9918368?u=80b487da292119440b09b68b5baed690d1f0ada6&v=4" alt="" width="40" /> | @Google Scholar - @Android 👨🏻‍💻 ｜ Software Developer 💼 Android, Kotlin, Java, SwiftUI, Python ｜ AI ｜ ML ｜ Tech Geeky 🤓｜ Optimistic ✨｜ Karma Believer 🔁 |
-| [GenerativeAiSampleApp](https://github.com/iamharshtrivedi/GenerativeAiSampleApp) | Google AI SDK for Android |
 
     
 
@@ -8419,6 +8428,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/53375272?u=a7588dd931a88937d9e839ddf8b5ae9c880f9dc5&v=4" alt="" width="40" /> | I build stuffs. Sometime it works, sometimes it doesn't. |
 | [aiotube](https://github.com/jnsougata/aiotube) | An Alternative to YouTube Public Data API v3 |
+
+    
+
+## [Shashwat Agrawal](https://github.com/ShashwatAgrawal20)
+
+| [@ShashwatAgrawal20](https://github.com/ShashwatAgrawal20) | [❤️Sponsor](https://github.com/sponsors/ShashwatAgrawal20) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/72117025?u=1e45a1ebbfbe2ccb15b3470afa9359c52929a0d7&v=4" alt="" width="40" /> | i build low-level tools, runtimes, and infra from scratch, mostly in c, rust, and python.  \(also yes, i use arch, and neovim btw.\)  |
+| [dotfiles](https://github.com/ShashwatAgrawal20/dotfiles) | Configs of the programs |
 
     
 
@@ -8464,15 +8482,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/53465361?u=1abf3b7caf506e1869067f80f293a2ec91094aa5&v=4" alt="" width="40" /> | Full stack developer |
 | [hugo-profile](https://github.com/gurusabarish/hugo-profile) | A highly customizable and mobile first Hugo template for personal portfolio and blog. |
-
-    
-
-## [Darshan G K](https://github.com/imDarshanGK)
-
-| [@imDarshanGK](https://github.com/imDarshanGK) | [❤️Sponsor](https://github.com/sponsors/imDarshanGK) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/122042809?u=87aa59727d51d0d4967f0d486a838974257f4cef&v=4" alt="" width="40" /> | Python Developer ｜ Exploring Machine Learning ｜ Open-Source Contributor ｜ AI & Tech Enthusiast |
-| [TrendTags](https://github.com/imDarshanGK/TrendTags) | TrendTags: A platform to generate relevant tags |
 
     
 
@@ -8530,15 +8539,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Shashwat Agrawal](https://github.com/ShashwatAgrawal20)
-
-| [@ShashwatAgrawal20](https://github.com/ShashwatAgrawal20) | [❤️Sponsor](https://github.com/sponsors/ShashwatAgrawal20) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/72117025?u=1e45a1ebbfbe2ccb15b3470afa9359c52929a0d7&v=4" alt="" width="40" /> | i build low-level tools, runtimes, and infra from scratch, mostly in c, rust, and python.  \(also yes, i use arch, and neovim btw.\)  |
-| [dotfiles](https://github.com/ShashwatAgrawal20/dotfiles) | Configs of the programs |
-
-    
-
 ## [Nidhin BM](https://github.com/bmnidhin)
 
 | [@bmnidhin](https://github.com/bmnidhin) | [❤️Sponsor](https://github.com/sponsors/bmnidhin) |
@@ -8575,21 +8575,21 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
+## [Rahul Vishwakarma](https://github.com/manzil-infinity180)
+
+| [@manzil-infinity180](https://github.com/manzil-infinity180) | [❤️Sponsor](https://github.com/sponsors/manzil-infinity180) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/119070053?u=b05f57cf5cdfdf314fca57ce5c3da38a7edfefed&v=4" alt="" width="40" /> | Just HOPE for SOMETHING SPECIAL 🤞❤️  |
+| [Submitty](https://github.com/Submitty/Submitty) | Homework Submission, Automated Grading, and TA grading system. |
+
+    
+
 ## [Sameer Saini](https://github.com/soyo-kaze)
 
 | [@soyo-kaze](https://github.com/soyo-kaze) | [❤️Sponsor](https://github.com/sponsors/soyo-kaze) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/38816886?u=cfe6f818106c05b75b05b742704f5a29e22642d2&v=4" alt="" width="40" /> |  Weeb developer 🎌. MERN stack is my power 💪. Python for DSA 🧠. And a Former GDSC lead ✨.  |
 | [Next-blog-site](https://github.com/soyo-kaze/Next-blog-site) | Blog site for practicing full-stack |
-
-    
-
-## [Nakul Dev](https://github.com/nakuldevmv)
-
-| [@nakuldevmv](https://github.com/nakuldevmv) | [❤️Sponsor](https://github.com/sponsors/nakuldevmv) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/49229179?u=afdcc9af4c3641d67f76084ec73eb1efabe21eac&v=4" alt="" width="40" /> | Code hard, debug harder, pray the compiler agrees. 🙇 |
-| [Spamurai](https://github.com/nakuldevmv/Spamurai) | An automated email cleaner that detects spam and unsubscribes from unwanted mailing lists. Built with IMAP, Puppeteer, MongoDB Atlas, and IPQualityScore for efficient inbox management. |
 
     
 
@@ -8626,6 +8626,15 @@ This repository is a list of GitHub users who are living in India and are sponso
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/24803565?u=3c8c44676ba4a7bf405a055fab467065e4d91176&v=4" alt="" width="40" /> | 🙂 |
 | [vortex-clang](https://github.com/vijaymalav564/vortex-clang) | \/\/ clone this repo with --depth=1 to save disk size \/\/ toolchain compatible with Ubuntu 20.04+ \/\/ |
+
+    
+
+## [Prasanth Baskar](https://github.com/bupd)
+
+| [@bupd](https://github.com/bupd) | [❤️Sponsor](https://github.com/sponsors/bupd) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/89722848?u=1b604d8cf8dc0442a7eb4d1b375f1448a2c41300&v=4" alt="" width="40" /> | Core-Contributor @goharbor Open Source Engineer @8gears, @container-registry ｜ LFX @CNCF Harbor |
+| [harbor](https://github.com/goharbor/harbor) | An open source trusted cloud native registry project that stores, signs, and scans content. |
 
     
 
@@ -8683,15 +8692,6 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Rahul Vishwakarma](https://github.com/manzil-infinity180)
-
-| [@manzil-infinity180](https://github.com/manzil-infinity180) | [❤️Sponsor](https://github.com/sponsors/manzil-infinity180) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/119070053?u=b05f57cf5cdfdf314fca57ce5c3da38a7edfefed&v=4" alt="" width="40" /> | Just HOPE for SOMETHING SPECIAL 🤞❤️  |
-| [Submitty](https://github.com/Submitty/Submitty) | Homework Submission, Automated Grading, and TA grading system. |
-
-    
-
 ## [Alphons Jaimon](https://github.com/AJV009)
 
 | [@AJV009](https://github.com/AJV009) | [❤️Sponsor](https://github.com/sponsors/AJV009) |
@@ -8737,21 +8737,21 @@ This repository is a list of GitHub users who are living in India and are sponso
 
     
 
-## [Prasanth Baskar](https://github.com/bupd)
-
-| [@bupd](https://github.com/bupd) | [❤️Sponsor](https://github.com/sponsors/bupd) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/89722848?u=1b604d8cf8dc0442a7eb4d1b375f1448a2c41300&v=4" alt="" width="40" /> | Core-Contributor @goharbor Open Source Engineer @8gears, @container-registry ｜ LFX @CNCF Harbor |
-| [harbor](https://github.com/goharbor/harbor) | An open source trusted cloud native registry project that stores, signs, and scans content. |
-
-    
-
 ## [Mehul Gohil](https://github.com/mehul0810)
 
 | [@mehul0810](https://github.com/mehul0810) | [❤️Sponsor](https://github.com/sponsors/mehul0810) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/1852711?v=4" alt="" width="40" /> | Certified WordPress Expert. Plugin Author. WordCamp Ahmedabad Organizer. |
 | [perform](https://github.com/performwp/perform) | Perform WordPress Plugin will help you remove unnecessary styles, scripts, and features which adds up load to your WordPress site. Removing those unnecessary items from your WordPress site will help you improve performance and loading speed of your WordPress site just by installing and configuring the plugin. |
+
+    
+
+## [Deepesh Padmanabhan Nair](https://github.com/hybridx)
+
+| [@hybridx](https://github.com/hybridx) | [❤️Sponsor](https://github.com/sponsors/hybridx) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/12994292?u=2681d0095fa061103610e4ac5f1ac5f469c357b0&v=4" alt="" width="40" /> |  |
+| <!-- no item --> | <!-- no description --> |
 
     
 
